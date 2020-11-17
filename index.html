@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Boston Foods</title>
+
+    <!-- Milligram CSS -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css"
+    />
+    <!-- You CSS rules-->
+    <link rel="stylesheet" href="./index.css" />
+    <!-- Load Javascript files -->
+    <script
+      defer
+      src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.1.1/d3.min.js"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/1.12.0/mapbox-gl.js"
+      integrity="sha512-x4VI1WtMDwnLmWbilyxh5a42yPDkkAeABzUX2y3OrUOCI2H4EXIE8PnJcl0PaeCA0MpuNBw1UfdK+VNceoUp6A=="
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/1.12.0/mapbox-gl.css"
+      integrity="sha512-xY1TAM00L9X8Su9zNuJ8nBZsGQ8IklX703iq4gWnsw6xCg+McrHXEwbBkNaWFHSqmf6e7BpxD6aJQLKAcsGSdA=="
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"
+      integrity="sha512-4UKI/XKm3xrvJ6pZS5oTRvIQGIzZFoXR71rRBb1y2N+PbwAsKa5tPl2J6WvbEvwN3TxQCm8hMzsl/pO+82iRlg=="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./index.js" defer type="module"></script>
+  </head>
+  <body>
+    <div class="dashboard">
+      <div id="map"></div>
+      <div id="restaurant-container-1"></div>
+      <div id="restaurant-container-2"></div>
+      <div id="restaurant-container-3"></div>
+    </div>
+  </body>
+</html>
