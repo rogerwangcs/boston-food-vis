@@ -1,0 +1,986 @@
+FK_brand_id,location_id,street_address,city,county,state,zip_code,latitude,longitude,time_zone
+000506b9-e91d-494d-8a5c-241494959492,d844986c-1314-454f-a7f2-c02e05bb6034,150 Tremont St,Boston,Suffolk,MA,2111,42.3548232,-71.0631016,America/New_York
+000506b9-e91d-494d-8a5c-241494959492,22c36331-0fef-4796-8da6-480e34195d4d,51 Brookline Ave,Boston,Suffolk,MA,2215,42.3473143,-71.0985692,America/New_York
+0046e0ed-3ab9-41a0-b970-3a8287847fa7,116f42b0-f16d-4fbc-a59f-3964673abf7a,748 Gallivan Blvd,Boston,Suffolk,MA,2122,42.2847156,-71.0454636,America/New_York
+0046e0ed-3ab9-41a0-b970-3a8287847fa7,090c11a2-73fd-45a4-b438-12b45ef39995,1270 River St,Boston,Suffolk,MA,2136,42.2556574,-71.123903,America/New_York
+010f35bd-26fd-47e3-9675-83bcb19d718a,c738e262-2a7d-43d9-883f-cbf7c19d5693,79 Harrison Ave,Boston,Suffolk,MA,2111,42.3510105,-71.0616268,America/New_York
+011d25f0-08b4-455a-94da-e7c0ec5828f1,9683677f-7434-4c5f-bf56-813604799f27,371 Washington Street,Boston,Suffolk,MA,2135,42.3493184,-71.1540528,America/New_York
+015c4c86-b50f-4255-9219-2a5cf9ba2d05,24322345-e686-4eb6-ab01-89e23ca85798,31 Harrison Avenue,Boston,Suffolk,MA,2111,42.3517134,-71.0615759,America/New_York
+036f3bf2-487f-48f5-8c00-1b3ab9eccd23,48d645e5-91a1-4cac-b578-bcc27591bf37,51 Roxbury St,Boston,Suffolk,MA,2119,42.329777,-71.085552,America/New_York
+03a67677-5c8c-482c-95c5-10272ce3f78d,db41850a-b56e-4ef6-9a28-c0e2f32ec187,469 Blue Hill Avenue,Boston,Suffolk,MA,2121,42.3089969,-71.0832273,America/New_York
+03f6c84f-2760-4e8c-9409-9bed73db2d15,f9e434db-f433-45c9-ba2b-422090509bbd,30 Channel Center St,Boston,Suffolk,MA,2210,42.3460016,-71.0515044,America/New_York
+04391c3b-f52b-41a9-8022-e90948f0fa7d,3358943d-00b1-4f99-b069-0f9ab7e6fd2f,33 Hancock St,Boston,Suffolk,MA,2125,42.3143101,-71.0658176,America/New_York
+04aa8dc5-670c-43fb-8eb2-f9281419ef89,fd9f9e73-b3f4-4b8a-9d36-c7a764694d1d,720 E Broadway,Boston,Suffolk,MA,2127,42.3357688,-71.0364074,America/New_York
+04ad66d0-c8c6-44c9-9ea9-db24af360ad5,b0f507c7-213a-4a8f-8e6b-18ee9baac156,42 Province St,Boston,Suffolk,MA,2108,42.3569387,-71.0599056,America/New_York
+019e960a-7839-40b7-a86d-8167bdfd0d11,d7be411a-21e7-45e0-9a84-5edf4d1c5085,200 High St,Boston,Suffolk,MA,2110,42.3569571,-71.0519125,America/New_York
+0a609410-e538-4eb5-aa78-5941892038d9,dfa0c2c3-e083-4c5f-b77e-92f43552f433,433 Massachusetts Ave,Boston,Suffolk,MA,2118,42.3406228,-71.0820727,America/New_York
+0a6e8720-2505-4c4e-9964-f55215829e84,eff9ae40-c707-48f9-bd1e-b84ac8391f94,1370 Dorchester Ave,Boston,Suffolk,MA,2122,42.3039523,-71.0591548,America/New_York
+0a9e4ffe-4147-40d5-8be3-dd1021a95165,9f3cd368-d0ab-499d-a6e2-4d60677b7237,405 Chelsea St,Boston,Suffolk,MA,2128,42.3797992,-71.0270377,America/New_York
+0ab0fa16-5780-430f-a3d0-65f3626a0baf,bb391c11-8172-49de-89ae-e65f7b300df2,10 High Street and,Boston,Suffolk,MA,2110,42.353558,-71.056764,America/New_York
+0ad186fc-dfbc-4296-ae01-f0a8bc29edd4,2bd6c42d-fca0-4032-a6e3-7a0c56749b0c,256 Shawmut Avenue,Boston,Suffolk,MA,2118,42.3432585,-71.0684108,America/New_York
+0ad22b36-7c04-46e5-9f6b-7e4086ac09dc,d2bd66a7-fe67-4172-b140-3550e70a7012,266 Broadway,Revere,Suffolk,MA,2151,42.4077947,-71.0140716,America/New_York
+0ad7c4c4-bdff-4e2f-b067-eaec65bf5a61,84a49dd0-92a3-490f-9ef9-27aafa764a5f,86 Peterborough St,Boston,Suffolk,MA,2215,42.3431327,-71.0988936,America/New_York
+0b74364f-d2fb-4252-ab9c-d1de0cdfa366,dd4d8c3d-c34e-4033-80fc-eb063b7bad37,431 Cambridge St,Boston,Suffolk,MA,2134,42.3549922,-71.1343355,America/New_York
+0b83e62e-3462-4b1d-8fbf-c3d52edc434c,a7021fb1-2dd9-4262-9d25-3efc69879bd0,315 Huntington Avenue,Boston,Suffolk,MA,2115,42.3411296,-71.0877804,America/New_York
+0b914984-5c89-4712-b3b8-45eabfcdc840,2044de87-0258-45bd-b14d-e4108c1336d7,130 Dartmouth St,Boston,Suffolk,MA,2116,42.3466598,-71.0760021,America/New_York
+01b270f0-28f5-4385-a8f1-b20e2b1d879d,9bd54a32-bf3f-4a78-b96d-808a411bd7e4,443 W Broadway,Boston,Suffolk,MA,2127,42.3360201,-71.047079,America/New_York
+0263b53e-35be-4aad-b6ec-92f0a7f57534,7df6d639-5f79-4b3f-afe1-d84e44815675,54 Harvard Ave,Boston,Suffolk,MA,2134,42.354423,-71.132228,America/New_York
+02937eba-13d9-4a2f-b865-7be41397b182,0e7d5e2d-2cc7-45f1-9c55-b2a6a17f025a,87 L St,Boston,Suffolk,MA,2127,42.3342999,-71.0354531,America/New_York
+02ec1346-6a1f-44cb-a78b-592909955f0f,a1de8faf-ccd0-4a53-8974-1fe917966a2d,6 Prince Street,Boston,Suffolk,MA,2113,42.3641227,-71.0537372,America/New_York
+0507e970-29f2-4c37-b914-da8357c71e5d,fe4da1c4-908e-4332-ab2f-2fc5077f9226,2201 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3402844,-71.1666091,America/New_York
+050db844-9540-43c5-9dea-18a57ad02d8d,4fe29c84-f4dd-45a4-b817-8eabe66b856a,80 Bennington St,Boston,Suffolk,MA,2128,42.3760892,-71.0361064,America/New_York
+056f8730-923e-461f-9b28-02ac546edb68,efde7454-04b3-4445-bd33-6159cc7b75f6,334 Massachusetts Avenue,Boston,Suffolk,MA,2115,42.342594,-71.084173,America/New_York
+05e71c5b-7336-4f36-a5e9-9998278d51c1,bdbd9899-3b17-46ea-b12e-ad1ceedf2282,722 Shawmut Ave,Boston,Suffolk,MA,2119,42.3328079,-71.0832694,America/New_York
+05f58282-fcf5-4082-88f0-a4403d1d862c,e0f3aaf9-9efc-40f1-b77a-0822dbd67d6b,991 Bennington St,Boston,Suffolk,MA,2128,42.3863639,-71.0070896,America/New_York
+061458c4-e664-4e10-bf22-14332504b735,1b9d5e01-4ccc-4d9b-8d0e-ceb1673b2a29,168 Harvard Avenue,Boston,Suffolk,MA,2136,42.3514213,-71.1315664,America/New_York
+0f041d83-8648-450e-80b0-5f77b066e8b3,39529cce-b73f-4c0f-b165-99aae7d352d5,"Cafe 472, 472 Commonwealth Avenue",Boston,Suffolk,MA,2215,42.3485415,-71.0936685,America/New_York
+065ed189-f0e7-41e9-8efb-bf919ff23dee,a802b496-c800-4da2-8c32-b705d37905d9,11 Board Alley,Boston,Suffolk,MA,2113,42.3630942,-71.0549027,America/New_York
+0f308b82-8c53-449b-b8bb-24c483b324f3,ec3d7ff7-1626-4160-a634-99d59cd35116,250 Huntington Ave,Boston,Suffolk,MA,2115,42.3422662,-71.0848807,America/New_York
+0f519a72-0a62-449f-bf66-ad0799f5aee0,4d03a2af-d746-4f39-a5e3-5dca41103c5e,553 Tremont St,Boston,Suffolk,MA,2116,42.3444044,-71.0719676,America/New_York
+068da8ab-5b22-4f5d-a02e-7c82c941d662,0b617504-75db-4bcb-9c7d-24f71819e8f9,1714 Washington St,Boston,Suffolk,MA,2118,42.3369219,-71.0760261,America/New_York
+0f7c797b-ef35-48e6-92b7-f58d05337579,9fca8c86-1306-4783-b419-e43c535423aa,855 Washington St,Boston,Suffolk,MA,2124,42.2818049,-71.0713958,America/New_York
+0f8284c0-2227-4085-8966-be792646b5e3,05641427-efcb-432e-ba11-fbaca2e2c573,500 Boylston St,Boston,Suffolk,MA,2116,42.3506354,-71.0740118,America/New_York
+0f9aed51-10cd-4d57-98ce-98ba7a90e04f,b94bbabe-a6fb-4567-9c80-a0fff9307157,"100 Malcolm X Blvd, 100 Malcolm X Boulevard",Boston,Suffolk,MA,2120,42.3307588,-71.0933232,America/New_York
+10019795-fbf6-4b2d-95a1-93ba9885d16f,7db4a275-5d2e-4dfd-a94c-9f063478df97,418 Market St,Brighton,Suffolk,MA,2135,42.3493804,-71.1531418,America/New_York
+10363936-e2ff-4d54-a01c-7883adda7f03,c473051e-4dc2-4213-94bf-e9d3076746cc,69 Bennington St,Boston,Suffolk,MA,2128,42.3756944,-71.0363819,America/New_York
+1036ecf7-43ff-471d-bd2c-d4db3651d01d,1aadc093-b604-4918-a509-74a8fe7f7bda,9 Tyler St,Boston,Suffolk,MA,2111,42.3511223,-71.060924,America/New_York
+104db8c9-55b4-4e6c-8b71-f9d07fc32aba,99584a79-2e9d-4ea6-ae1f-47db5a1a88fa,176 Boylston St,Boston,Suffolk,MA,2116,42.35227,-71.067028,America/New_York
+104db8c9-55b4-4e6c-8b71-f9d07fc32aba,be6b51c3-245d-4918-bd3f-616ed82b4a14,359 Huntington Avenue,Boston,Suffolk,MA,2115,42.3401489,-71.0902509,America/New_York
+104db8c9-55b4-4e6c-8b71-f9d07fc32aba,5824cc65-c901-45cf-a85a-d96bc1cd746f,1080 Boylston St,Boston,Suffolk,MA,2115,42.3469792,-71.0881125,America/New_York
+0d640afb-83ad-42f0-bc3c-210ad169bb37,9af9c1af-7e9b-44ce-a817-57f1d5ac8069,425 W Broadway,Boston,Suffolk,MA,2127,42.336395,-71.0474941,America/New_York
+0dad10e4-4705-464e-9fb4-d83c8a1fd5dc,25f92135-8c20-4390-9f70-0f73c4aa5034,133 Pearl St,Boston,Suffolk,MA,2110,42.3547948,-71.0537346,America/New_York
+0df9b81c-6162-4f92-9f49-2a48422e84d7,f0c3f174-477e-492d-a434-4778e2cdf8b8,39 Stanhope Street,Boston,Suffolk,MA,2116,42.3485181,-71.0733691,America/New_York
+12642d7d-0163-40fe-b51c-71aa58b169ae,03b76e1b-96a5-4727-8e7c-1e27f0f30f19,888 South St,Boston,Suffolk,MA,2131,42.2885656,-71.1343582,America/New_York
+12668e57-7a44-4a2d-a878-eb8c01ecc1a7,6ad04353-7ba6-4688-abff-f778aa52d23b,728 Huntington Ave,Boston,Suffolk,MA,2115,42.333779,-71.10516,America/New_York
+0e6828db-974d-430f-8cbb-00bbb5b462cc,a4267bb9-d566-4489-849b-a5231f1ce855,12 PI Alley,Boston,Suffolk,MA,2108,42.3580476,-71.0583598,America/New_York
+12a7c3d0-5117-4495-a5c5-e5664454a7be,7a88b75a-20c9-4be9-be93-966fbfb08d05,1 Merrimac St,Boston,Suffolk,MA,2114,42.3632163,-71.0598169,America/New_York
+0ea05699-9c43-4912-b632-6cef6747743c,74186e9a-7362-4abb-a30c-47ad6d4eb4d8,289 Dorchester St,Boston,Suffolk,MA,2127,42.3320345,-71.0527523,America/New_York
+1301646b-2d76-42e1-918b-d945bb7837c1,0d0b0324-e63a-4b6c-aefa-400129988f16,"Irashai, 8 Kneeland St",Boston,Suffolk,MA,2111,42.3509792,-71.0625286,America/New_York
+138111cd-53d3-4ce6-8d53-8914c6fde269,1b9c6a7a-b40a-4d16-a656-ebbf28e96fa9,150 Huntington Ave,Boston,Suffolk,MA,2115,42.3444878,-71.0823684,America/New_York
+1399c8c8-5a95-4403-9d39-6b0c65e201d8,61ea95d8-2272-4c86-b959-9812028fa41a,267 Huntington Ave,Boston,Suffolk,MA,2115,42.3421358,-71.0860561,America/New_York
+13c5a9f9-0367-49d1-81a4-7bc567196c9e,08b28fc8-054d-4b81-8f56-ed17d19d0247,8 City Hall Ave,Boston,Suffolk,MA,2108,42.3577264,-71.059337,America/New_York
+21c0fbf0-b7f9-4333-a710-02e6ab483aa9,4c3e0ea8-387e-45f7-b9cc-d8aecc181840,2 Broad St,Boston,Suffolk,MA,2109,42.3588611,-71.0543075,America/New_York
+21dacbc7-182e-4da9-9185-a7fdfa04e5a7,9650fb7e-0a89-46b1-85d6-b481cb1570be,339 Squire Rd,Revere,Suffolk,MA,2151,42.4285039,-71.0149514,America/New_York
+21e2bf94-56fc-4135-a189-7e5d344fb62c,7f19d08e-37b0-4b06-9aed-70c3059ea9f0,79 Park Plaza,Boston,Suffolk,MA,2116,42.3516374,-71.0701231,America/New_York
+22645be1-56c0-4be0-931e-3921cb2dfd1a,2a685a0d-f437-4382-b3b1-09005c4b8f94,358a Centre St,Boston,Suffolk,MA,2130,42.3222899,-71.1074836,America/New_York
+23386d3d-9b38-461f-92d1-0a8863a5df0f,2704dd9d-5bbc-43d3-ae04-eed341f0c9b9,326 Cambridge St,Boston,Suffolk,MA,2114,42.3609337,-71.0693228,America/New_York
+233a24eb-4863-4e70-948f-9a3dfd44cb43,1c704a83-b022-48c6-9313-24f976690291,685 Washington Street,Boston,Suffolk,MA,2111,42.35136,-71.0630995,America/New_York
+1462bb2e-e693-4128-8932-be795e606686,fbe4b255-29b9-468f-a5ca-d4b2ca1a2880,1234 Soldiers Field Rd,Boston,Suffolk,MA,2135,42.3636727,-71.1363571,America/New_York
+15878172-2986-414b-b130-248e672f2f6f,934731b8-78a3-4725-a5dd-c22bd34443de,495 Summer St,Boston,Suffolk,MA,2210,42.3455279,-71.0415124,America/New_York
+1caa8e00-a44a-4b0c-99d9-a8c7fcd1e5a6,58fac1a5-2bf7-4cc8-ab26-a4a3753d3b88,1616 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3469122,-71.1405689,America/New_York
+1cfe1a82-828d-4e13-8281-6bb8dbbb7610,5264bc1b-e9b0-4efa-bacb-9f7e7f496281,111 Brighton Ave,Boston,Suffolk,MA,2134,42.3530453,-71.130611,America/New_York
+1d51fd25-a472-4ed2-8904-7d8d73060b49,89899674-e94b-4357-b29b-79cad1c0e24f,800 Boylston St # 25,Boston,Suffolk,MA,2199,42.3466108,-71.081205,America/New_York
+1d5d9b9f-5673-41e9-a65e-ed35d6f89145,94f17777-653d-4ce3-b463-68a56803d5d4,1219 Commonwealth Avenue,Boston,Suffolk,MA,2134,42.3508365,-71.1308376,America/New_York
+1dadfa7e-d21b-4cac-a0d2-3d022c57a494,0b04c6c2-9b21-4be2-b947-66cac8ff6020,135 Market St,Boston,Suffolk,MA,2135,42.3577819,-71.1485205,America/New_York
+1dc7c01c-b545-4f53-ae1a-45f9f3050cab,5ce97896-0d72-48c5-8a64-56a4c902093d,1138 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.2855177,-71.0903534,America/New_York
+20274dd8-09c2-4899-8b6e-66f8020e6c9f,354cb86e-2538-468a-8cd1-413ea6ab38c7,582 Dorchester Ave,Boston,Suffolk,MA,2127,42.3299168,-71.0567878,America/New_York
+09367b94-10c3-42a7-af4d-f2187a646e65,c62e2689-a66a-46a5-9c4d-85d8113e723f,100 Van Ness St,Boston,Suffolk,MA,2215,42.344888,-71.100208,America/New_York
+10c02506-63a3-4a2d-ab52-9addc0a5bd04,77a55008-afa0-4677-ade7-41e5d397417e,106 Cambridge Street,Boston,Suffolk,MA,2114,42.3610448,-71.0631847,America/New_York
+10e5f8ad-9ccc-493b-8f70-2c62589ff69c,bbd70397-fd1a-4143-8642-f6ffdcb35ba9,155 Meridian St,Boston,Suffolk,MA,2128,42.3738341,-71.0389214,America/New_York
+1106dcff-6763-44d7-bbd1-e39359c47623,d06968eb-586d-439c-9521-9ac07d5ece53,204 Cambridge St,Boston,Suffolk,MA,2114,42.36099949,-71.06590509,America/New_York
+113f3012-8be0-4da4-8715-21ce90d1638f,f2b5b7ff-08ac-4580-992a-f43f01595c7d,115 Causeway St,Boston,Suffolk,MA,2114,42.3650917,-71.0615271,America/New_York
+1144ff0e-d976-4537-bc67-41d4b7007a5c,dc190879-e378-4e7e-8e37-57ec4540a62f,736 Centre Street,Boston,Suffolk,MA,2130,42.3107995,-71.1143645,America/New_York
+114bd71c-e1ed-4c96-9355-9a39680702eb,8278835d-6f15-4da8-bd47-45a87cfe7d00,665 Tremont St,Boston,Suffolk,MA,2118,42.3419604,-71.0758805,America/New_York
+11808c4a-80ad-4858-bbbe-b6f13dc57a2f,32e157b5-f386-4f8d-9a25-96d78057e228,390 Chelsea St,Boston,Suffolk,MA,2128,42.3795164,-71.0279315,America/New_York
+11bfe769-f4e7-4f14-8256-e467a071c9e9,909376d7-4b7e-444f-aef3-19de0b4a6a0b,1971 Dorchester Ave,Boston,Suffolk,MA,2124,42.2833643,-71.065055,America/New_York
+11cb0559-400e-48d6-9d1f-fa7ff04e413b,95e84f0d-2d4d-4df8-b152-da5bd354e0b4,636 Beacon St,Boston,Suffolk,MA,2215,42.3494422,-71.0952722,America/New_York
+12159e77-0b8e-4fac-9da7-830477fba030,421038a5-02de-41d0-a108-b9be5b4e7d8e,972 Saratoga St,Boston,Suffolk,MA,2128,42.3871173,-71.0076638,America/New_York
+0bcf784c-57bc-4f29-a93b-7d035b972513,98643e9a-8947-4b63-900b-22150edeb2a5,5 Bowdoin St,Boston,Suffolk,MA,2124,42.2993994,-71.0730369,America/New_York
+0bdb4887-4976-4272-804f-5344b97fd5a5,ae4dc265-a97b-4896-9bc4-099c050a840d,1229 Dorchester Ave,Boston,Suffolk,MA,2125,42.3088152,-71.0582957,America/New_York
+1637c526-adbe-438d-bf06-7cedfdc14791,371339af-d03a-4ec5-ac91-12197860feed,1159 Washington St,Boston,Suffolk,MA,2124,42.2722316,-71.0688656,America/New_York
+0bf760ba-63c6-4158-a379-6286e412a119,b437d255-c8de-4406-9cc9-2227e16fc6ba,22 Kneeland St,Boston,Suffolk,MA,2111,42.3509103,-71.0620651,America/New_York
+0c04878a-737e-43dc-8414-e8b6b41b96ed,f845856c-e139-45d1-8643-6f4ff12a1617,686 Morton St,Boston,Suffolk,MA,2124,42.2847475,-71.0920679,America/New_York
+0c1fb7b5-882d-4039-9726-1d860cc5cce5,f268a77f-98a0-41d0-9163-57c89066af34,569 Tremont Street,Boston,Suffolk,MA,2118,42.3438382,-71.0723687,America/New_York
+167c69bb-bf50-485f-a050-21ed34bbfe92,f396c4cf-69f3-4a79-9f4d-4c4e3cc2f1bb,364 Broadway,Revere,Suffolk,MA,2151,42.40969,-71.01293,America/New_York
+170131de-630f-4aed-a29f-877e00be3f77,051804d2-ac24-421a-8ab8-7fd75ea72622,336 Sumner St,Boston,Suffolk,MA,2128,42.367308,-71.035698,America/New_York
+17085a46-ed25-4e49-ab4c-568a110be6cf,7e97c4e3-0852-448d-83f4-6ed486d844f7,20 Charles St,Boston,Suffolk,MA,2114,42.3565591,-71.0697892,America/New_York
+06c5ab15-a7c2-4fba-82f8-2e455ef12b22,574a3dce-2ced-4ff4-a10a-9fe02389bdf6,1401 Washington St,Boston,Suffolk,MA,2118,42.3412541,-71.0701926,America/New_York
+06eb8874-a77b-477b-8709-ba9f675b34ba,66b934e7-f1b3-406b-9758-7c29b385d902,1504 Dorchester Ave,Boston,Suffolk,MA,2122,42.2993799,-71.0600838,America/New_York
+0703ecde-fe58-42e4-a298-52b7f0fd9435,145d5e33-94b5-424a-a17f-5baa194bc551,400 Tremont St,Boston,Suffolk,MA,2116,42.3471281,-71.068255,America/New_York
+26e471b6-4079-4d85-8ed5-c495d822df9e,e1482166-1927-437b-830a-5eadff190090,"Ned Devine's, 1 Faneuil Hall Marketplace",Boston,Suffolk,MA,2109,42.3602724,-71.0539572,America/New_York
+26f7fcf9-44f5-4086-8710-9d76741132cd,31a66cc7-c297-477d-b03f-d87f498be40d,240 Commercial Street,Boston,Suffolk,MA,2109,42.3638332,-71.0513844,America/New_York
+26f8240c-47de-458c-8463-c02e7b97be31,a76d8f3c-7242-4c21-b8d0-f7c37d5f47f2,1856 Centre Street,Boston,Suffolk,MA,2132,42.286019,-71.154482,America/New_York
+076e0a10-8bbc-4c8f-bbdd-be811f5a5b14,635fec88-ae8f-430b-bcfb-854321d3828b,931 Dorchester Ave,Boston,Suffolk,MA,2125,42.318872,-71.0569151,America/New_York
+077a38ce-4ae3-4aa5-8cbb-01e81fd013bc,6a160697-7738-4487-9566-2a3f90d3ad2f,1252 Washington Street,Boston,Suffolk,MA,2118,42.3424655,-71.0674725,America/New_York
+078c7872-9b78-43c7-801b-8f8de53d227d,ee3f989e-12bf-4edc-9fe1-dd6ec19ba207,1721 Washington Street,Boston,Suffolk,MA,2118,42.3369798,-71.0768153,America/New_York
+07bf2a1d-910b-436d-b3ae-6c8a431b990d,fb711411-5644-44cc-ac93-4f91b6fb9923,658 Centre St,Boston,Suffolk,MA,2130,42.312789,-71.1139977,America/New_York
+07bf2a1d-910b-436d-b3ae-6c8a431b990d,9120b79c-09a2-4d4f-aceb-4317a87285f4,1482a Tremont St,Boston,Suffolk,MA,2120,42.3320041,-71.098674,America/New_York
+276953fd-0058-4759-8eca-7611ce3de602,730be95d-1c2b-4737-a3dc-e4b22a7747a9,1 Brighton Ave,Boston,Suffolk,MA,2134,42.3528589,-71.1253152,America/New_York
+07c6d5bc-be9e-40dc-9b26-dd061ba9d21c,872bff54-a9c4-4bbd-8a91-1d833e6c7de4,131 Broad St,Boston,Suffolk,MA,2110,42.3569571,-71.0519125,America/New_York
+27a7fa35-cffb-498a-b51f-b1ec293467fc,f51a945b-1202-4225-af9c-23932aee92dd,776 Boylston Street,Boston,Suffolk,MA,2199,42.3487286,-71.0818026,America/New_York
+27aeb4af-077b-41c3-8275-26093438eeac,8058ed90-97f4-4569-9333-9100728bba86,239 Meridian St,Boston,Suffolk,MA,2128,42.3758576,-71.0389377,America/New_York
+08161923-821d-402f-aece-df822c62ec22,89f3c62c-bd7a-4f70-9cb8-42b7771654fd,275 Shawmut Ave,Boston,Suffolk,MA,2118,42.3430308,-71.0694272,America/New_York
+27dbcf4b-c724-492c-a36f-180bf7d3e425,b475f14b-77b5-44c3-8567-5cdbbf7632eb,305 Huntington Ave,Boston,Suffolk,MA,2115,42.3412903,-71.0873545,America/New_York
+1243bfc6-b661-45fe-91e9-e5f28d1e092c,a3390734-e876-4f45-85d0-9aaf3004ad68,1585 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3441952,-71.1430607,America/New_York
+09edcb18-bb04-4c13-8553-740b9e5564e4,a586737d-2ce9-41ed-93ff-a9d6b4a5600e,263 Hanover St,Boston,Suffolk,MA,2113,42.3633655,-71.0547797,America/New_York
+2c8b2e47-73bf-498d-85e1-2c65671086a7,2e927b86-5d47-4076-a088-ead7515e0a74,22 Central Square,Boston,Suffolk,MA,2128,42.3751414,-71.0386133,America/New_York
+2c93a5c9-e066-4973-b566-976b6c8bfc67,d349e97b-293a-4efe-9608-a27160d0e4dc,924 Morton St,Boston,Suffolk,MA,2126,42.2806769,-71.0828722,America/New_York
+2d99faf9-0449-4758-b905-0d21e5b0becd,e10beccc-6186-4b70-95b7-d3563b0c9f37,1744 Washington St,Boston,Suffolk,MA,2118,42.336551,-71.0765671,America/New_York
+25488112-a40a-4f3e-ba43-0d12f880be9b,922e5e99-5363-4304-92db-f5772d74adc7,409 Chelsea St,Boston,Suffolk,MA,2128,42.3798529,-71.0268636,America/New_York
+2565402f-4ecd-4a13-bf6e-ed4b9b67160f,3623ec0b-bbc0-4e43-9379-ea10dd59ead7,800 Boylston St,Boston,Suffolk,MA,2199,42.3473912,-71.0820284,America/New_York
+256f1d2c-410e-4b72-ab61-299242e4abee,c559809f-40f0-45c4-bde4-e0db30d4e57d,23 Hudson St,Boston,Suffolk,MA,2111,42.3505126,-71.0603043,America/New_York
+259c52b1-d1eb-489b-9a71-e437f0336e7c,af5f2af5-ceaf-4c91-b86e-66a0b0983797,4206 Washington St,Boston,Suffolk,MA,2131,42.2867699,-71.1274289,America/New_York
+25defe8c-734c-4a73-b93a-f2415d63b119,6570ac47-093b-433b-a63e-84eacc7144f7,170 Everett Avenue,Chelsea,Suffolk,MA,2150,42.3953503,-71.0423404,America/New_York
+2652bafb-1dde-49d0-bf35-64bbb97aa91d,b1bcacb8-0244-47f4-90a0-b6e36714d888,153 Belgrade Ave,Boston,Suffolk,MA,2131,42.2864431,-71.1369946,America/New_York
+26b00f39-8be2-4bdc-b571-4db75d654306,c4427767-96ac-4160-a915-16a704decbba,250 Huntington Ave,Boston,Suffolk,MA,2115,42.3422731,-71.0848704,America/New_York
+237847c1-82d9-436c-a6d5-b98049b0be79,3f185236-32b8-43bb-b47d-a5603ec860d6,137 Pearl St,Boston,Suffolk,MA,2110,42.3546455,-71.0538141,America/New_York
+242d99d7-6b2c-491c-b4a0-f3c51c84db4a,11c5e82e-7fab-4873-9cba-0f5113ad6558,1 Stuart St,Boston,Suffolk,MA,2116,42.3511698,-71.0633407,America/New_York
+06ace1bd-8248-4773-9355-6ea0b6ae331a,3c0dbf15-9bd4-451e-9819-44ac7c72cedc,473 Albany Street,Boston,Suffolk,MA,2118,42.339231,-71.0654735,America/New_York
+06bbab57-a03a-4c3c-b7c0-9820dec3b2e2,6e13b200-225c-4ba9-9545-6c9f5f83fc7e,100 Arlington St,Boston,Suffolk,MA,2116,42.3499064,-71.0694617,America/New_York
+24913d41-f8d2-40af-8b84-c481db347c56,a8435a33-5762-4e9e-b385-874aa9fc143d,95 Summer St,Boston,Suffolk,MA,2110,42.3537842,-71.0583773,America/New_York
+24b0e1d0-4714-4bdc-8ddb-c9d32bf2b190,df93384d-d424-4b73-bc0e-7f98a7f8129a,36 Harrison Ave,Boston,Suffolk,MA,2111,42.3517711,-71.0609892,America/New_York
+17643b30-94d4-444c-8bf7-eceffe9265a6,cdd214b5-ec25-4343-9185-61253167b388,376 Revere Beach Blvd,Revere,Suffolk,MA,2151,42.422281,-70.9849325,America/New_York
+24e32fc7-b4d6-4471-8d11-5f5fcf70bbf6,b0e28b93-1b76-4843-91c2-785d1830348d,190 High St,Boston,Suffolk,MA,2110,42.3566786,-71.0522375,America/New_York
+2fc7725d-31f6-4507-8960-2072451a9f50,502abf4a-7f59-437f-9a67-cab81e305f20,506 Park Dr,Boston,Suffolk,MA,2215,42.3475345,-71.1055699,America/New_York
+2fd2ce48-ffb9-443b-8112-444b769db00c,4bd80b75-d13d-4235-93ad-59436f379b53,23 S Huntington Ave,Boston,Suffolk,MA,2130,42.331461,-71.1121489,America/New_York
+2ffa841f-1b6a-4c46-ba64-22afd258df98,e9199185-c2cf-49c2-b5d7-3be0ffe65210,79 Charles Street,Boston,Suffolk,MA,2114,42.3583975,-71.0704125,America/New_York
+304b1a89-cdfd-4c79-9c20-8efd4a122545,c41419a5-fe02-47a3-8e31-060656ef9b29,1638 Washington Street,Boston,Suffolk,MA,2118,42.3379247,-71.074729,America/New_York
+30a708f6-58b3-4fa3-9647-01d8c6774683,d1ae7265-cafd-47df-8449-41b855036757,309 Huntington Ave,Boston,Suffolk,MA,2115,42.34117,-71.0874334,America/New_York
+30d44653-340e-43c4-ad3f-ea41faa66ae2,5b9ef6f3-e9ee-43d5-aec5-f7ec3f08b123,611 Dorchester Ave,Boston,Suffolk,MA,2127,42.3288102,-71.0571358,America/New_York
+310cc69c-e6a0-407f-8137-6142d0d2b052,66ea334d-e870-4a89-b3f0-6ad2676ee648,659 Centre Street,Boston,Suffolk,MA,2130,42.3129047,-71.114463,America/New_York
+310cc69c-e6a0-407f-8137-6142d0d2b052,556bb8d4-ad70-47a3-84d6-a9cc5c8d3848,150 Charles Street,Boston,Suffolk,MA,2114,42.3601112,-71.0709346,America/New_York
+179a875e-0068-454b-be76-e02890d29f08,909aaa24-df26-4c10-b1af-7d6f6a7271d0,156 Cambridge St,Boston,Suffolk,MA,2114,42.3609887,-71.0647402,America/New_York
+1afdf3cc-f6ab-4f6d-ba13-c98c78ad7b39,4f731863-bd3f-44f6-9378-ce0a663521f1,2 Center Plz,Boston,Suffolk,MA,2108,42.3595669,-71.060188,America/New_York
+1b1490d0-e069-45ea-a53e-38a6380f4946,d5de5260-23ea-472e-8bff-2343a1acb131,54 Bennington St,Boston,Suffolk,MA,2128,42.375787,-71.037132,America/New_York
+17d0fed3-f535-4f12-b30d-5fe0a84769e1,61e2204d-f256-435d-825a-41435250b18c,36 Central Square,Boston,Suffolk,MA,2128,42.3755614,-71.0387996,America/New_York
+1b55a4c2-4f5b-4c9e-a3ec-cde0a9331ff7,424dfa15-8c21-43ca-ab2d-bff289d802f4,384 Western Ave,Boston,Suffolk,MA,2135,42.362741,-71.1387397,America/New_York
+180c8a50-630d-49e9-a60f-350835c5411e,1fca3ce9-c8ab-45cd-87a0-5fded7b3b791,151 Veterans Of Foreign Wars Pkwy,Revere,Suffolk,MA,2151,42.4108397,-70.9950018,America/New_York
+1ba36101-60f4-4a0c-b432-7e30f624450c,13bbdcab-abdb-4084-a5b7-c087b83da681,421 Marlborough Street,Boston,Suffolk,MA,2115,42.3501564,-71.0894821,America/New_York
+1becfd76-7832-4baa-83e1-ee700c06d60c,79dd4aaa-8203-4693-abc3-760b88d9f10d,,Boston,Suffolk,MA,2119,42.3151978,-71.0913748,America/New_York
+1bf84b49-8758-40b5-b4c5-ada8abbb496d,47edf7a1-bd57-45e5-be9e-4dd006618616,3346 Washington St,Boston,Suffolk,MA,2130,42.3094534,-71.1042108,America/New_York
+184deaab-327a-4c20-af17-092b552f323f,10ef48a0-58c9-4d65-a0a4-b808e20dec4a,250 Huntington Ave,Boston,Suffolk,MA,2115,42.3422662,-71.0848807,America/New_York
+289598c1-210f-40bb-9927-9c810c4ea047,b9ecb605-577f-4a34-9d92-9d5548a89511,3 Blackfan Cir,Boston,Suffolk,MA,2115,42.3390285,-71.1042571,America/New_York
+1892ff73-1a17-4ee5-8e0a-a880a91345ee,a6d569bd-3dcc-4424-9428-bdc731fba7f8,67 Prince St,Boston,Suffolk,MA,2113,42.3651733,-71.055268,America/New_York
+189d4699-6658-49cb-995f-f0869505e65a,c990a6b0-9095-46ad-a4f8-80528e667f15,290-296 Hanover St,Boston,Suffolk,MA,2113,42.3640667,-71.054325,America/New_York
+18db097c-c182-4a18-8eb0-6a13b8b6c575,e8c4923d-e9e9-4f65-8143-c970df449a37,299-309 Hancock St,Boston,Suffolk,MA,2125,42.308117,-71.0588,America/New_York
+29801af8-9da8-48bc-9c4f-f661002f5128,5849f5f0-f08e-481f-8525-63557d55ba78,107 Avenue Louis,Boston,Suffolk,MA,2115,42.3374401,-71.103752,America/New_York
+29febc7e-ae60-462e-ba41-eaaf4e7a9867,2cdf5b20-2c4d-4178-ac15-d83b5320dd8f,956 American Legion Hwy,Boston,Suffolk,MA,2131,42.2745519,-71.1153686,America/New_York
+2a09e48d-f5a5-42cd-8282-d1f66f273b2b,9bf7ce5e-9e9d-400f-b67c-d7a747f16356,132 Newbury Street,Boston,Suffolk,MA,2116,42.3509161,-71.0766385,America/New_York
+40fa9115-d6c4-4353-924b-0deaefa9cd21,d847d62a-e43d-4549-b4fb-4a3461c4c4b3,240 Cambridge St,Boston,Suffolk,MA,2114,42.3609958,-71.0668239,America/New_York
+41169870-a521-4cb1-967a-c78f73e70b31,140c27be-277d-4db8-ae9e-96789eb83507,589 Washington St,Boston,Suffolk,MA,2135,42.350525,-71.165629,America/New_York
+413f29f1-d887-450a-8328-070979400c0a,4dd5f9bd-3b26-45a5-8a03-0701fc77eca6,109 Shurtleff St,Chelsea,Suffolk,MA,2150,42.3899169,-71.0344086,America/New_York
+418c6fbc-89f7-4911-b5c2-2bbc6e7f411e,1741c393-4444-445c-9cf1-3c66c6acef41,153 Sutherland Rd,Boston,Suffolk,MA,2135,42.3410081,-71.1468542,America/New_York
+41a22360-2e3e-407d-ae82-9fb2dc465ebd,0daee1c6-a97f-4cde-a12b-4b175610ae12,2 Oliver Street,Boston,Suffolk,MA,2109,42.3571721,-71.0543269,America/New_York
+41f93fa4-85a6-45a5-ae79-6756dd6e0a95,6b37a488-0648-4c64-bf00-a9b99745570f,482 Washington St,Boston,Suffolk,MA,2124,42.2946584,-71.0717137,America/New_York
+1ed5f422-da31-46e2-b64f-34028cb860a5,41145058-d899-4b34-a90f-47899e0c52e5,99a Cambridge St,Boston,Suffolk,MA,2129,42.3825349,-71.0792347,America/New_York
+1ed90a18-862d-48db-a42c-0a7b6b33c43c,82871bab-8ea9-4fa1-8520-6c239ad12c00,120 Meridian St,Boston,Suffolk,MA,2128,42.3734934,-71.0391988,America/New_York
+35749934-d3a6-473e-8a64-838d41bb6424,a2326132-952e-4958-a2a2-a75825d3d111,185 Harvard Avenue,Boston,Suffolk,MA,2134,42.350904,-71.1313152,America/New_York
+1f4b547d-ef91-4615-9c74-730f319f5c65,c5c56aba-8fe0-41c0-ad43-2d153c51105c,226 Tremont St,Boston,Suffolk,MA,2116,42.3514447,-71.0646684,America/New_York
+1f656273-9339-42ee-9e83-3fef7ef52e8b,bbf7cdef-d206-4af6-ba5c-cbafcb7aa10f,147 Pearl St,Boston,Suffolk,MA,2110,42.3545706,-71.0536984,America/New_York
+35aba89a-aaeb-4552-bea5-69cf2ace9cb7,e776d321-c8ff-4a55-861a-878ab7ad4c8b,44 Province Street,Boston,Suffolk,MA,2108,42.3568718,-71.0599198,America/New_York
+35b273c1-d413-4e8a-9b1f-cf9640cedf92,5491847c-cacb-4dc0-8219-77cbf9b0459c,15 West Street,Boston,Suffolk,MA,2111,42.354694,-71.062164,America/New_York
+35b7f277-6dbe-46e2-8ce3-9d67d67d1715,e868316d-7980-4710-ba7b-cff11ebdf899,1631 Blue Hill Avenue,Boston,Suffolk,MA,2126,42.268331,-71.0940163,America/New_York
+35beb4ac-4578-40fc-8bce-79034f7b19a6,427c9ee2-4662-4f09-8501-72fcd0c022b5,581 Washington Street,Boston,Suffolk,MA,2111,42.3535197,-71.0627697,America/New_York
+35d76639-f82d-4252-a579-5a1ef8115934,73a12a2b-1cf0-4e8c-9b0f-17bec689e0c6,1427 Tremont St,Boston,Suffolk,MA,2120,42.3318064,-71.0963683,America/New_York
+35e86fa0-46f8-41d0-acbe-b89729befe74,ec8c6332-28ac-440d-9349-25d93b9414d2,1728 Dorchester Ave,Boston,Suffolk,MA,2124,42.2909885,-71.0626721,America/New_York
+361b885e-51a8-44c2-a174-2e0d2c5055ae,d5d1b879-ec68-42e6-b1b8-5d6598f20165,304 Dudley St,Boston,Suffolk,MA,2119,42.3279959,-71.0774557,America/New_York
+1fc7c221-1a7c-4f04-94a3-eaca74dfc394,e2993111-3630-4be8-a115-90fdcb91d6ff,417 Washington St,Boston,Suffolk,MA,2114,42.3558635,-71.0604975,America/New_York
+3a50a401-e99b-4a38-98db-dce91bd30215,976a7998-eeee-45d9-b589-6418173f032d,512 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3485562,-71.0957568,America/New_York
+3a9e8687-2edc-416c-934d-2e319b36040f,a281f282-8467-4392-9594-33df76f339bc,151 Pearl St,Boston,Suffolk,MA,2110,42.3545586,-71.0536419,America/New_York
+3ac020c3-21e3-4b70-9d9c-bd2c20498eaf,ff422f6e-a58a-48b0-87e9-07c87e2a25ba,100 Hanover St,Boston,Suffolk,MA,2108,42.3617706,-71.0573273,America/New_York
+3b4abbcf-056f-4e93-b89d-dea081f0df26,36d42287-695d-412d-bdd8-dc9c8ab8580e,260 Washington St,Boston,Suffolk,MA,2108,42.3577898,-71.0578456,America/New_York
+2db884f6-5c96-4aa2-af17-ce095086d8bd,0462609a-87ad-4b4b-a092-78c17694d6c5,120 Blackstone St,Boston,Suffolk,MA,2108,42.3617615,-71.056827,America/New_York
+36c1ed0f-093a-40b3-bebe-66e914968a57,4d743d5c-d975-4460-bf5f-6a84681cae78,109 Brighton Avenue,Boston,Suffolk,MA,2134,42.3530593,-71.1305102,America/New_York
+37d0b0eb-a5cf-48e9-8880-f40d0e9099ce,f20aa252-e8fe-4b97-ae35-93840c28f780,1750 Washington St,Boston,Suffolk,MA,2118,42.336465,-71.0765885,America/New_York
+381a6291-f274-41c4-940b-55aa44c56dad,b4e472ca-e1e5-4439-b042-d00e1ed44f13,9 Tyler St,Boston,Suffolk,MA,2111,42.351103,-71.0607898,America/New_York
+3868572d-7d86-47d6-b310-e8439ee4d299,eacf01f5-4ab4-4737-8834-b7533ad5c142,412 W Broadway,Boston,Suffolk,MA,2127,42.3369265,-71.0478965,America/New_York
+3940ca43-9c82-4a31-b0b7-7e290eb4b864,985575ee-cfd6-4de7-ae43-b525dc4fec91,268 Centre St,Boston,Suffolk,MA,2130,42.3226912,-71.1008393,America/New_York
+399862b6-814d-4409-b471-bd4d103af8a4,97ecfa73-20c5-478a-9bff-4c09fba685cd,50 Terminal St,Boston,Suffolk,MA,2129,42.3823692,-71.0605118,America/New_York
+36297a44-c403-48cf-adf3-85789e80337f,8b29090f-43ff-44de-8849-06e88fa8a6ec,418 Market Street,Boston,Suffolk,MA,2135,42.3492323,-71.1533989,America/New_York
+3640aed1-be06-43cc-89ad-fd7973080117,1eb2ddc2-6245-4212-96cd-748527e1224d,696 Washington St,Boston,Suffolk,MA,2111,42.3512233,-71.062696,America/New_York
+2a61e22e-63d3-4209-9b4f-9f82bfee4a6a,a0a1dd49-87b4-462b-aa3c-bc924fbb33c7,91 Summer St,Boston,Suffolk,MA,2110,42.3538482,-71.0584585,America/New_York
+31b882bc-c1a6-4d2d-ab19-7a504ee48f8d,28152c36-05ab-4b44-9c49-1d28c87748f6,77 Canal St,Boston,Suffolk,MA,2114,42.3642353,-71.0595759,America/New_York
+2ac7eac9-e2cd-4e73-a5e2-b900e30d7ba7,61f82f98-d606-4e30-ab42-129ff3b622da,63 Broad Street,Boston,Suffolk,MA,2109,42.3577656,-71.053963,America/New_York
+2acb5133-a3a0-41e7-8a15-8718d9c012bb,a4ee58f4-5ff9-438f-a346-5e76d7c5c0fd,121 Devonshire St,Boston,Suffolk,MA,2108,42.3571184,-71.0574392,America/New_York
+2ae0a67f-7d6f-4d76-9960-bcf4c9c1df83,1479d571-6ca2-4e60-9a43-d1e545c53841,266 Bowdoin St,Boston,Suffolk,MA,2122,42.306923,-71.06667,America/New_York
+32099f03-904f-4ad0-be36-92c6f6c262d1,0f3bd1a1-fd31-423e-b453-3cfc1d84b45d,1459 Dorchester Ave,Boston,Suffolk,MA,2122,42.3009365,-71.0601233,America/New_York
+2b0f0b07-7ecf-434a-9b9e-e422bd39616c,339005cc-8266-4a0d-b1ac-1c7a1c4544c4,432 Geneva Ave,Boston,Suffolk,MA,2122,42.3005094,-71.0663167,America/New_York
+324728a6-0581-4194-9674-005e589666a9,d27a381a-5835-4f0e-92b3-629c367e5e29,350 Bennington St,Boston,Suffolk,MA,2128,42.3796736,-71.0268655,America/New_York
+326501f4-878e-49c9-9e4b-4114a073bff6,6f2d180a-ebab-4ecb-b9a5-0c2fa651bfd3,1 Brighton Ave,Boston,Suffolk,MA,2134,42.3528589,-71.1253152,America/New_York
+326ffe73-b17f-47a1-b264-8cc80944f4cd,541b0eb7-c8b7-4882-b687-f84e6dbf4656,1154 River St,Boston,Suffolk,MA,2136,42.2564595,-71.120328,America/New_York
+327deead-40c4-42c7-a169-449e9f329146,a2266ea7-af4e-4945-b9fe-f53d0989e5bb,133 Harvard Ave,Boston,Suffolk,MA,2134,42.3521356,-71.1321379,America/New_York
+328fd349-f6eb-4ea4-89b7-706f3aa23944,3c5ff02c-bd2d-47a6-aff5-11b43e9d4857,154 Maverick St,Boston,Suffolk,MA,2128,42.3699087,-71.0379141,America/New_York
+37e88937-92ee-4a18-bfaa-86ab74482db1,0a5accba-3273-4d5f-8e8a-ad635d7ab2d3,1735 Centre Street,Boston,Suffolk,MA,2132,42.2874709,-71.14982,America/New_York
+32c34861-2ba1-4e58-9554-7413e4969fc8,19006598-19eb-411a-88bc-2c2b8f1b0787,10 Central Ave,Chelsea,Suffolk,MA,2150,42.3904732,-71.0350586,America/New_York
+2b9c2ab4-48d9-4c86-b9e2-3ee443e6a2ac,c176edfa-661f-43a8-b5ff-0552e9335b62,313 Old Colony Ave,Boston,Suffolk,MA,2127,42.329517,-71.052818,America/New_York
+2bacd7d0-4556-40b8-9213-81332526ca8b,1e7a182e-ceb4-41eb-ac7b-a7833d4897d0,745 Atlantic Ave,Boston,Suffolk,MA,2111,42.3503027,-71.057066,America/New_York
+2bc86ce8-6171-43b3-b29a-0b006f5e0a69,76ab1c44-7322-4793-86c1-6d87c671a25c,296 Washington St,Boston,Suffolk,MA,2135,42.3488772,-71.1510464,America/New_York
+2bcef40a-97c7-4cba-b985-3f31701c1e62,d0300b3a-9bc8-47d0-b240-5069e42995ad,8 Park Plaza,Boston,Suffolk,MA,2116,42.3513531,-71.0660655,America/New_York
+2bd73832-9863-42ee-b04d-a0ff3dc10804,4727c9ed-8e29-4f69-9ba1-3cfe2094fd45,464 Centre St,Boston,Suffolk,MA,2130,42.3191973,-71.1116179,America/New_York
+4299244c-cff7-4407-9de1-ae73d26cb33a,59452f3c-65f4-4812-90dc-99ed085c3479,613 Centre St,Boston,Suffolk,MA,2130,42.3143962,-71.1142157,America/New_York
+431eb55d-5d61-4bf2-8f64-80a14b479d10,57f93b88-2b8b-43a4-b699-09bea7a062cf,484 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.348504,-71.094223,America/New_York
+433c1b6d-6d9f-4e41-81a3-986d2f0ec84d,fc26128e-77e2-4cf2-9c3b-e22cfb39fdd8,221 Hanover St,Boston,Suffolk,MA,2113,42.3628596,-71.0552033,America/New_York
+43402d17-8ec5-4738-9eb4-b9aa0ff09af9,02c11e11-45e5-4bc9-b714-d61cc15e7f2e,650 Washington Ave,Chelsea,Suffolk,MA,2150,42.412245,-71.0316217,America/New_York
+43646fcd-e0c4-4196-9b85-93dbee00ccc3,e3e06f38-651d-4c8c-a66b-fa1460bb3ddb,1 Faneuil Hall Market Pl,Boston,Suffolk,MA,2109,42.3601515,-71.0550426,America/New_York
+436f880e-4f6e-45fd-b746-b5c4f18d0f7a,c7c58c4b-0edb-47b0-a1ae-7fe3adc5b758,1092 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3518084,-71.1241255,America/New_York
+39bdc5f4-447b-4177-bcfb-e88cda921084,ab4375aa-4b88-448f-818e-395e1ae2a5f2,"South End Pita, 473 Albany St # 2506",Boston,Suffolk,MA,2118,42.3397967,-71.0649806,America/New_York
+43c5d4c3-e182-4389-8a0b-6b178c4136b9,ddf1436d-09f6-4747-ab23-7181d09e7182,86 Harrison Ave,Boston,Suffolk,MA,2111,42.3507837,-71.0613541,America/New_York
+461d793c-7458-4e1e-85c1-1905a2419a5c,50ff62e9-cdf1-4c01-8a97-8572b42e0a44,11 Rhoades St,Boston,Suffolk,MA,2124,42.2853566,-71.0920247,America/New_York
+4635e4fb-7abb-45ac-b1c2-ab9e5348457c,08d1eea4-61cd-4d43-8a55-26c62fe9d988,75 Spring St,Boston,Suffolk,MA,2132,42.2781333,-71.1633461,America/New_York
+4652cdb0-ffa9-4347-862b-477c485757a4,4151f450-5b8e-49c2-9884-e164c7bae64d,225 Franklin St # 84,Boston,Suffolk,MA,2110,42.3560286,-71.0540512,America/New_York
+465437d8-25a2-4370-83f7-b9914f3781fa,92545acf-1fab-4be4-9fea-1cfc53c0077b,793 Boylston Street,Boston,Suffolk,MA,2116,42.3491242,-71.0815297,America/New_York
+3d6431f3-948f-484f-abb1-2f6a8e3b9c37,b8d8aa3d-ba6f-44dd-b448-ec94136fb4fc,205 L Street,Boston,Suffolk,MA,2127,42.331373,-71.0354321,America/New_York
+4681f25b-145a-4fb6-ab1c-b22e984391cf,f06dc32b-0460-4751-91b5-d8ee7a6c8242,15 3rd Avenue,Boston,Suffolk,MA,2129,42.3755864,-71.0549773,America/New_York
+3d6a6e8f-089f-4839-b2d7-0c21d49cdf31,c0ee8c1f-e38c-436f-bbac-8dcfc091108d,67 Washington St,Boston,Suffolk,MA,2135,42.3441028,-71.143306,America/New_York
+468b03ec-93f7-4062-86b5-ec4ed5afcf00,b51ce87d-b277-4ca1-a621-ab22275e9eb8,11 1/2 Thacher St,Boston,Suffolk,MA,2113,42.3654261,-71.0568787,America/New_York
+468b03ec-93f7-4062-86b5-ec4ed5afcf00,c557f64b-79f5-4e4a-afaf-f46e227f39c1,353 Cambridge Street,Boston,Suffolk,MA,2134,42.3561267,-71.1325763,America/New_York
+468b03ec-93f7-4062-86b5-ec4ed5afcf00,c9aa3526-7e94-453f-aba6-45d0e364a5f5,1330 Boylston Street,Boston,Suffolk,MA,2215,42.3440673,-71.0984698,America/New_York
+46a5e388-a0ee-4a55-88ac-6782b711e53f,033884f5-f628-4e9f-a152-cf8b4fac213f,1281 W Roxbury Pkwy,Chestnut Hill,Suffolk,MA,2467,42.3096949,-71.1602388,America/New_York
+46b2ee38-0c68-4697-827a-18a757ec637c,5fb67963-793d-474e-99e6-2bb66ad50e8c,563 Washington St,Boston,Suffolk,MA,2135,42.3500424,-71.1644033,America/New_York
+46c41275-2db8-4289-b5e9-577358e1d986,2b6a361f-6c1b-4986-b374-0eed82c74346,68 Woodside Ave,Winthrop,Suffolk,MA,2152,42.3743287,-70.9861878,America/New_York
+3baab7d6-eaa0-48e7-85bf-10a57d3cd3cd,9dea0afe-c013-4b4f-a74b-996b7ef08b6f,399 Boylston St,Boston,Suffolk,MA,2116,42.3518033,-71.0721548,America/New_York
+3de689af-b233-4154-8ce3-10e660ca8f10,61a17b1b-7d84-4a85-9a2d-357798b7ff0e,1076 Boylston St,Boston,Suffolk,MA,2215,42.3469459,-71.0879626,America/New_York
+3bee9566-7010-45e6-89d6-c18bfd2c7d2e,249d4f9a-4913-4c95-8847-59f789d01b7d,130 N Beacon St,Boston,Suffolk,MA,2135,42.354939,-71.1447639,America/New_York
+47254627-8f42-4af9-a2ac-be921579eba6,b501f611-cb03-4294-907b-503a8bc54742,695 Truman Hwy,Boston,Suffolk,MA,2136,42.2525487,-71.1188104,America/New_York
+3e1018d7-4c66-4e2e-9eae-51f6b34cb629,098f0779-8c71-46b1-a5be-3e3a14fbc0bf,"Broad Street Paulies, 64",Boston,Suffolk,MA,2109,42.3579043,-71.0535318,America/New_York
+47d2f6da-cf52-49ee-83e9-aa85a07b7e1d,08f4c6e0-4a3a-423e-b84a-df04b184705c,1 Brighton Ave,Boston,Suffolk,MA,2134,42.3528589,-71.1253152,America/New_York
+3e6f0c68-cbbd-4a67-97a4-d3f6c8b37cac,7c04060b-012c-4b44-961a-4c9c0421c730,10 Milk St,Boston,Suffolk,MA,2108,42.3568114,-71.058072,America/New_York
+47eaee01-5459-4b85-9071-bd2f05170e26,c3c6a5cb-e1bc-4bbb-bc2e-b505b695ac80,338 Newbury Street,Boston,Suffolk,MA,2115,42.348244,-71.086623,America/New_York
+3e7e82d6-ea51-48af-9004-2521f4c7b16c,a5cd552a-1843-47d2-b87f-a4d787e3cfae,5200 Washington St,Boston,Suffolk,MA,2132,42.261129,-71.156808,America/New_York
+3364bb50-1e5e-4e46-86dd-2ae256e67e47,49dcb67a-7936-4262-999a-c9bb8042e00d,170 W Broadway,Boston,Suffolk,MA,2127,42.3405077,-71.0528643,America/New_York
+3367051b-84b7-4b0e-9b1b-51e458e59d03,679c9d22-b444-4983-90ea-a8244b4e0106,7 School St,Boston,Suffolk,MA,2108,42.3575985,-71.0585658,America/New_York
+3ce43974-7ecc-4706-be85-e35c40017a9e,02b2de24-45bf-4173-8f9b-eea458db4e4c,157 Sutherland Rd,Boston,Suffolk,MA,2135,42.3410625,-71.1468213,America/New_York
+3eba71b0-0a51-4873-827b-f36dce4f5834,b58d786e-9f8b-4908-8d04-9c2f47bc61b4,679 Canterbury St,Boston,Suffolk,MA,2131,42.2854296,-71.1100136,America/New_York
+2df67976-3361-4b80-9b04-78f6788f7dd2,8218b960-8c26-41ae-89c4-585ddb9e869e,225 Boylston St,Chestnut Hill,Suffolk,MA,2467,42.3213504,-71.177129,America/New_York
+48932555-83b2-4069-99c9-6c50e6865141,09a1c16e-fb65-47a2-8939-24ab1aaaf271,28 Porter St,Boston,Suffolk,MA,2128,42.3745866,-71.0377978,America/New_York
+2e128c30-64fd-4de4-a98b-384cb5d4a3f9,ef4f3754-db00-43d0-bb94-209298f2bc45,1 S Market St,Boston,Suffolk,MA,2109,42.3602407,-71.0548375,America/New_York
+2e269422-2579-4ef5-9de2-7929b6d01aa3,0fe35d8c-7a43-432f-8113-d6517a83c4ff,111 Chelsea St,Boston,Suffolk,MA,2128,42.37266,-71.0352918,America/New_York
+2e4608cb-29ac-4ea3-a8d6-63d0dc1d9f47,48947c07-7843-49b5-9315-9c2191f818d9,417 Washington St,Boston,Suffolk,MA,2110,42.3559256,-71.0606623,America/New_York
+2e520626-f5b9-4b84-af94-a66ed07f59fd,739fb83a-5a7a-4d07-8506-e0ca5d1acd30,1906 Dorchester Ave,Boston,Suffolk,MA,2124,42.2845119,-71.0644536,America/New_York
+3444bf3c-1296-4269-9a56-4a0640e2aff8,4ed22181-d86c-49b5-95d3-960898a2c76c,1 Marina Park Drive,Boston,Suffolk,MA,2210,42.3531734,-71.0454125,America/New_York
+48f493a5-d76b-4565-ae99-e4aee7765c22,c240cb49-9849-47fc-8ac7-2fcf8039d2ec,5204 Washington St,Boston,Suffolk,MA,2132,42.2607388,-71.1571107,America/New_York
+4e705f78-2b41-4e68-9229-24badde3f6f2,f64e632d-af78-4d3a-8d1f-245b6f5d08c4,873 South St,Boston,Suffolk,MA,2131,42.2889392,-71.1339372,America/New_York
+4b261b8c-38ae-47c5-8784-d023f272f637,2d90da52-c0a3-4c06-beba-0e0c4808265d,600 Harrison Ave,Boston,Suffolk,MA,2118,42.3403092,-71.0682844,America/New_York
+4b28ad71-f24f-47ee-868d-7fb997506229,e86fe313-b4d5-45e7-92d9-c1cc93b27e1f,1 Beacon Street,Boston,Suffolk,MA,2108,42.35809252,-71.06064387,America/New_York
+4e968930-e6e5-44d5-8e65-2d5e817247a6,dbe9ad8e-723f-42ab-a996-2cab64691003,712 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3495484,-71.1055686,America/New_York
+4b43a9be-3b0b-4e85-bbab-54006dd6edb7,529bd7e6-e75f-4c03-9777-f66b4db952dd,3 N Beacon St,Boston,Suffolk,MA,2134,42.3537694,-71.1375026,America/New_York
+4b75706f-bf48-424a-8ea4-2b36f706aba3,1635ffef-ff84-4d44-ad8f-3687f7a489a9,74 Canal St,Boston,Suffolk,MA,2114,42.3638009,-71.0596544,America/New_York
+2f6a5aef-b3ae-4868-bf3b-da470b019859,1cb3f4ab-93f7-4a9e-829c-8cdd9db93c91,217 Newbury St,Boston,Suffolk,MA,2116,42.3501211,-71.0813555,America/New_York
+4f73f9ab-3131-45d0-99bd-9e4bf20ff0a4,0ff66b17-b508-4177-b95e-373aab4ed478,552 Washington St,Boston,Suffolk,MA,2135,42.3494307,-71.1643274,America/New_York
+4fd2a9de-179e-4c96-b7b8-dc8a9ddbd13a,61f22e95-9369-4ffe-a4f1-90f7478d6f23,42 Charles Street,Boston,Suffolk,MA,2114,42.3572048,-71.0702618,America/New_York
+3f420eed-0c27-4b44-89b7-8f7660f5a45d,0811d847-0f80-4227-a08c-9012b38239bc,250 Northern Ave # 200,Boston,Suffolk,MA,2210,42.3488167,-71.0381694,America/New_York
+3f561d72-5aee-4a1a-8ecc-a12fc4f668e8,17cffdee-e61a-4811-9cfc-bea7173d9422,1890 Centre St,Boston,Suffolk,MA,2132,42.2854278,-71.155796,America/New_York
+3f92d297-87e1-48ae-ab87-8740229424c8,8a37b1b7-7797-4f23-aebb-82039e0dae6f,42 Beach St,Boston,Suffolk,MA,2111,42.3515499,-71.0609413,America/New_York
+3fb70327-dd02-47bc-9cf3-20f14ae11e10,8906439e-e234-4ad3-be9f-1f144abc3af5,366 BROADWAY,Chelsea,Suffolk,MA,2149,42.3919605,-71.0359122,America/New_York
+3fc0bcfe-9ea3-4f72-9f7b-442afe41709c,0df2e599-9cc4-48b9-8b13-3e8c17957f1f,252 Friend St,Boston,Suffolk,MA,2114,42.3644949,-71.0613345,America/New_York
+3fed092f-2465-453b-a271-0161983e90e1,81067343-7d32-48f0-b027-187e1bfb0afa,560 Harrison Ave,Boston,Suffolk,MA,2118,42.3406629,-71.0675066,America/New_York
+52321a57-9f30-45a6-ab65-ba0bd0f68039,252f4b1c-688a-4edd-87bc-11e9fbf6c161,150 Broadway,Chelsea,Suffolk,MA,2150,42.3894355,-71.0403749,America/New_York
+532be3c5-f1e6-4705-986a-28f08157dd47,8be52a7f-b928-4269-97d9-2daca13cbdbc,38 Norfolk St,Boston,Suffolk,MA,2124,42.2892175,-71.0728644,America/New_York
+532f0b56-a104-41b6-8968-edb3b9bfdcc8,a65e00a4-035d-4fff-b5be-cf21b2015613,3698 Washington St,Boston,Suffolk,MA,2130,42.3005426,-71.1126797,America/New_York
+1a5e723f-ad27-4670-895b-0ecdabe70e25,64428de7-feb1-4d2d-9002-a504b663f0e7,1370 Dorchester Ave,Boston,Suffolk,MA,2122,42.3040629,-71.0590422,America/New_York
+3475e6b4-b3d4-46a4-8bb6-7e7e6c0eaeb5,8cc8923d-bee2-4e1c-8861-3ff38255b638,58 Franklin St,Boston,Suffolk,MA,2110,42.3557295,-71.0584403,America/New_York
+498f4971-286c-4be6-9da5-9aaa21e5952f,9f8b4062-9fce-4546-8cf1-e42899a5fa07,667 East Broadway,Boston,Suffolk,MA,2127,42.3354065,-71.0378484,America/New_York
+4a063e80-f9be-431a-a4c2-eaafebbc6852,f0db08b7-fb4e-412a-bedc-5f4e3a644055,278 Centre St,Boston,Suffolk,MA,2130,42.3227627,-71.1014835,America/New_York
+4a42aacd-de65-4a86-b0b1-f93ed3a7d3ce,7582b11c-9e11-46b0-b905-aaa0c5b7f1d3,1121 Harrison Ave,Boston,Suffolk,MA,2119,42.3305304,-71.0816043,America/New_York
+4a65f150-c0f3-48fa-ac9e-41c586a54eb0,973ae8af-de3c-4615-9d7d-bcf783d804da,111 Salem St,Boston,Suffolk,MA,2113,42.3642823,-71.055398,America/New_York
+4ac54760-3ac6-4689-96c6-6762366383af,bd312b53-5280-4352-8135-744956794f4b,416 Tremont St,Boston,Suffolk,MA,2116,42.3468239,-71.0685841,America/New_York
+4ae75a7a-2269-4a7e-b795-54e92e3af5b7,8b073840-0781-4271-a8d4-71c1470022a3,174 Harvard Ave,Boston,Suffolk,MA,2134,42.3513239,-71.1312797,America/New_York
+4c85284d-e03f-4843-863e-9c47a08b8f6c,e74597ea-55e1-4f1d-934b-6acc2f12a7c7,567 Bennington St,Boston,Suffolk,MA,2128,42.3825354,-71.0181793,America/New_York
+5003d890-c1fe-4b49-9531-5a53832b9e97,6d4bfe4d-2e32-4965-8970-85f3a55017bc,16 North Street.,Boston,Suffolk,MA,2109,42.3609406,-71.0560674,America/New_York
+3ee381af-25bc-465c-a262-43fe0cb77ca0,d55a5e5b-1454-43ea-9aea-20993ee11334,1 Faneuil Hall Market Pl,Boston,Suffolk,MA,2109,42.3601515,-71.0550426,America/New_York
+3ee4e2a7-8350-4985-a45c-e31bacc90014,3b78c012-34d5-460c-8671-7e77aeffeb77,70 Woodside Ave,Winthrop,Suffolk,MA,2152,42.374224,-70.9861182,America/New_York
+535adce2-e552-44cf-8121-edc02436b225,3993d673-0af1-4e2e-8163-de024498071c,692 Columbia Rd,Boston,Suffolk,MA,2125,42.3202289,-71.0624625,America/New_York
+5a88f5e3-fa86-496b-8eb2-c00550dabd8c,2651f46c-1c8b-46e4-b357-7ce677a9959c,224 Columbia Rd,Boston,Suffolk,MA,2121,42.307524,-71.0763912,America/New_York
+5aafad9c-ff1d-4eac-ad3f-1e0504e05a3d,6da2f86a-fecf-486a-af5c-0990b5545499,112 Stoughton St,Boston,Suffolk,MA,2125,42.3154573,-71.0612793,America/New_York
+5abcd6b0-9d34-464e-845c-7fc8a383c0de,c1a396df-5484-4d57-af74-84b9211efe2a,24 5th St,Chelsea,Suffolk,MA,2150,42.3932536,-71.0349425,America/New_York
+5ae3dcf4-bd94-418a-985d-f3ba5088a913,9c5db2d0-0330-4874-bece-d6e0d5ce2bd6,1110 Boylston St,Boston,Suffolk,MA,2215,42.3468579,-71.0886069,America/New_York
+5af161e6-16ab-4978-8789-4bfdf10c0411,2e67f8c2-ae37-49e1-8484-abb6a0c32fbc,3722 Washington St,Boston,Suffolk,MA,2130,42.3011635,-71.1124142,America/New_York
+5af7ac5b-f620-4480-bbb0-77c2ed09fafd,81d2221f-d5e2-4cc5-959c-da4786986426,82 Westland Ave,Boston,Suffolk,MA,2115,42.34376,-71.0896762,America/New_York
+5b48a870-03cc-4871-aa4a-51c5f658349d,e5496707-3b88-40fb-8f7e-03929f7164d7,77 Dorchester Street,Boston,Suffolk,MA,2127,42.335858,-71.0453721,America/New_York
+5b739662-4d7f-4b93-a2c9-28f9f1109c12,38c3d1db-5c5d-4ccd-995c-053d6a41a658,1620 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3433089,-71.1426858,America/New_York
+5b9ac16b-3dba-4ada-891f-659c2fe03936,f0535adc-fd11-461d-96e6-f35714f3d845,196 Quincy St,Boston,Suffolk,MA,2125,42.3132151,-71.0743782,America/New_York
+4afc8cd6-bbe4-4df7-b102-cc7545dfcc8a,932ee343-63db-4a1e-a7d7-1beeab089983,704 E Broadway,Boston,Suffolk,MA,2127,42.3357566,-71.0371896,America/New_York
+5399bc5f-26fd-4f0c-987f-cc03b00b018b,cf830773-d5db-4bca-bed5-a25ca0546f37,8 Tyler St,Boston,Suffolk,MA,2111,42.3510528,-71.0604784,America/New_York
+5403eb1c-f730-4e28-a652-7c6666cb4bcc,cab3fa93-f090-422c-b662-5e7404c7bf71,21 Beacon St,Boston,Suffolk,MA,2108,42.358197,-71.062431,America/New_York
+549c0e82-92e1-4103-a9fa-0181e8de263d,65625bb9-b8be-484a-8da4-c9fd16e0584a,177 Allston St,Boston,Suffolk,MA,2134,42.3477438,-71.1383114,America/New_York
+54cc098f-893c-4a78-9a59-49c3dd5a9059,beaaca29-02dc-4ceb-9cbf-d0a3dd1853e5,3094 Washington St,Boston,Suffolk,MA,2119,42.3151255,-71.0986865,America/New_York
+58e4f311-845a-497a-8de7-40c09c8220d1,9ef01035-aed4-4916-8529-c816a64427d6,560 Harrison Ave,Boston,Suffolk,MA,2118,42.3411005,-71.0686403,America/New_York
+58f207c4-33d4-435a-a4c2-379785ec3f53,6a65faf2-6b76-487e-b11e-9a5fe7f41bcf,700 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.349341,-71.1039816,America/New_York
+590ec118-4d42-4bfb-9f3c-78327bbd2f49,359a82c8-e035-4f8c-84dc-f582e95d754b,896 Morton St,Boston,Suffolk,MA,2126,42.2807128,-71.0839068,America/New_York
+59223202-41ed-4329-9ef8-7aee1157f1f7,a2ac2364-f0bb-4852-a3fd-4e49d0db45ea,285 Hanover St,Boston,Suffolk,MA,2113,42.3635938,-71.054385,America/New_York
+5a09f5f3-fb7f-44a7-a433-57fcf68141c4,2cd82390-4b77-418b-bbe7-91eca82eefcd,57 Boston Wharf Rd,Boston,Suffolk,MA,2210,42.3513482,-71.0455556,America/New_York
+55920d54-6ec8-4aae-8157-e35226ad01dd,78b59d86-8ae0-4ea0-b06f-69cab0eafb39,130 Newmarket Square,Boston,Suffolk,MA,2118,42.3303346,-71.0681435,America/New_York
+55c5400a-1dca-4dc5-a923-b33b05005326,68d858ad-50d2-4f64-b0a5-265ee5f726d0,225 Grove St,Boston,Suffolk,MA,2132,42.2618276,-71.1572191,America/New_York
+5a22d520-042d-4565-80ca-03ab98cde363,10f779d6-2f29-4749-8ce1-4a24eae5a616,108 Lincoln St,Boston,Suffolk,MA,2111,42.351508,-71.058062,America/New_York
+55da90e8-71d0-445e-844a-1bd4387ae51e,6710e2cd-5a0f-406f-bb57-9a088c492099,285 Adams St,Boston,Suffolk,MA,2122,42.2994359,-71.0585923,America/New_York
+569443c9-37aa-47fb-9db9-b14f3afbb88e,056c62c6-a7cc-4a63-b3d8-08ebe1f035b9,23 Drydock Ave,Boston,Suffolk,MA,2210,42.3442395,-71.0300039,America/New_York
+56962bae-ee72-4d6a-846d-0b7094d13db2,16646090-24ae-45bd-8f44-d3531f0d5c80,253 Hanover St # 2,Boston,Suffolk,MA,2113,42.363192,-71.0547999,America/New_York
+569be034-3dd2-468b-bf25-8c15361e87d6,daa2c443-93bc-421b-aa57-2a08e513d8fe,106 4th St,Chelsea,Suffolk,MA,2150,42.393864,-71.0384016,America/New_York
+505472c1-2de7-4db7-a8cb-f08d169b7fce,e634a438-6240-4fd9-9511-2010e2e38bb1,83a Seaport Blvd,Boston,Suffolk,MA,2210,42.3519056,-71.0461884,America/New_York
+4cb64acb-fdb0-42af-b86c-47a09b07a6d3,b97b3fc1-d75e-4746-bbc4-fc6adf742aa6,606 Centre St,Boston,Suffolk,MA,2130,42.3145245,-71.113913,America/New_York
+508cdf6e-741c-478d-87c1-0d856e55a928,52dc7773-78eb-4468-808a-5a3b4d11ba5c,1592 Blue Hill Avenue,Boston,Suffolk,MA,2126,42.2694206,-71.0933014,America/New_York
+51520cce-96b0-4e41-98bd-810d630d5ac3,c4d66c9c-2cde-4218-bf6a-813ff13daab1,4197 Washington Street,Boston,Suffolk,MA,2131,42.2872506,-71.1276275,America/New_York
+517c7a55-f50f-41bf-98b0-0cda48132493,29a95845-c39f-4d64-af3a-700a5024321a,152 Chestnut Hill Ave,Boston,Suffolk,MA,2135,42.3416229,-71.1542387,America/New_York
+4dedafbd-91bf-492c-b637-253e0de2b56f,1c7969bf-7fd4-4cc3-844a-80603b596cb8,"31 St James Ave, 31 Saint James Avenue",Boston,Suffolk,MA,2116,42.3508912,-71.0717526,America/New_York
+4e1a8e95-604f-410b-b759-b618068dd1cf,27449031-efa8-4219-8b39-15999ce1c92b,452 Huntington Ave,Boston,Suffolk,MA,2115,42.3385969,-71.0929579,America/New_York
+5c261890-1a2f-4c6d-b5b3-c27e41e74b64,4dac0748-ec35-4240-82de-4c236eaae8a3,100 City Hall Square,Boston,Suffolk,MA,2108,42.3582252,-71.0590048,America/New_York
+5c2f956f-59f5-448b-8926-591a867e5566,4bda2a55-86e2-4308-bea8-440c89fd2bac,352 Harrison Ave b,Boston,Suffolk,MA,2118,42.3452523,-71.0635121,America/New_York
+5c472cb4-aaa6-4417-9f93-c04d32b3abae,40a1027c-a1aa-49e7-9b10-2b50ea3f4ec4,300-300C Centre St,Boston,Suffolk,MA,2130,42.3227522,-71.1030727,America/New_York
+5c6e3511-6f2b-4235-aab8-40615660ebdf,60baf417-2c4d-49cd-ab46-60a8cae91ee5,74 Canal St,Boston,Suffolk,MA,2114,42.3638009,-71.0596544,America/New_York
+5c8e9212-dcf5-40f2-b4e8-1304b73cb38f,70174f06-1a57-4800-820d-81db00e4239d,"Shore Leave, 11 William E Mullins Way",Boston,Suffolk,MA,2118,42.3454229,-71.0640999,America/New_York
+5d17d388-8718-4158-abe2-4e3c6de63052,ed39e5b4-0d4e-4380-901c-c1c1c164a70e,28 Myrtle St,Boston,Suffolk,MA,2114,42.3592376,-71.0655854,America/New_York
+5d6f1938-d61c-4e7a-a11e-f8744512812d,7c3fa2f5-6a6e-4864-863d-0cb0d23fb8b6,655 Tremont St,Boston,Suffolk,MA,2118,42.3421363,-71.07566,America/New_York
+62df1a25-285d-4f45-9911-7348cc163292,88051e97-d0a6-4afd-b38b-3fff6c28caf8,1114 Boylston St,Boston,Suffolk,MA,2215,42.3467554,-71.0886843,America/New_York
+63019446-13c7-4da5-bf02-d7aa502a0fd0,f7b13dd1-b3ce-4e80-9c0a-fc6d7f9564f9,1233 Bennington St,Boston,Suffolk,MA,2128,42.3899277,-70.9967983,America/New_York
+631017a1-b1c0-4408-8dcc-d901a4945e09,5441619c-e0c8-404d-9193-e3ca02a73e71,100 Peterborough St,Boston,Suffolk,MA,2215,42.3429965,-71.0993529,America/New_York
+631118d4-ac1a-4b53-84e9-ac0a69ec85ac,d8cb5d8b-7286-412f-a7e8-80936d3a632b,187 Chestnut Hill Ave,Boston,Suffolk,MA,2135,42.3415126,-71.1548589,America/New_York
+63189f4c-d83b-473d-83d0-dd040bd54015,81ecac12-77cf-49a9-9c28-956772b93f48,100 Summer Street,Boston,Suffolk,MA,2110,42.3537126,-71.0575398,America/New_York
+63a92c76-a79b-48c5-9ed1-9524a8bf8ef4,478d75f5-11a0-4f1b-8411-aeab4c5b265f,4 River St,Boston,Suffolk,MA,2126,42.2718894,-71.0697406,America/New_York
+64350957-e262-448c-b561-595605b9c8bb,e90a0b62-484f-405e-b117-f00ee0e6fedd,1918 Beacon Street,Boston,Suffolk,MA,2135,42.3365939,-71.1491664,America/New_York
+00da83f7-a16f-490f-8975-ae6d18e0fd3d,e5044235-38cd-46e3-82d6-4d5f200be03a,3510 Washington St,Boston,Suffolk,MA,2130,42.3058343,-71.1078317,America/New_York
+0090c430-283a-4c4d-bc8e-3ac400937700,983909ab-6f0b-49d7-b50e-75f22c856a06,1448 Dorchester Ave,Boston,Suffolk,MA,2122,42.301053,-71.05973,America/New_York
+5d79c2a6-9455-4f7d-8485-57b573ed6fb8,21fd2a6a-93dc-4aee-81d1-5e7baecc0816,2 Tremont St,Boston,Suffolk,MA,2135,42.3504703,-71.1683814,America/New_York
+570d20a7-208a-4a32-9a69-53a2a49d766b,f88a5c87-3545-430c-a4b5-99ef69b22a84,30 Gloucester Street,Boston,Suffolk,MA,2115,42.3494506,-71.0844772,America/New_York
+571a0c0c-aaea-4e2d-844f-c25efa259b5a,e4408a60-3649-4efa-9837-ad89cc48f62d,475 Dudley St,Boston,Suffolk,MA,2119,42.323227,-71.0737345,America/New_York
+571d4340-43cd-4d61-81b0-9acd37f796d0,0928255c-da5b-42f9-8a68-041781c713e8,284 Amory Street,Boston,Suffolk,MA,2130,42.3145051,-71.1038443,America/New_York
+64d48aae-88d3-4cde-98c4-a8dcc3195fca,8a02acd3-4610-4d98-b429-11e9c692246f,211 Hanover St,Boston,Suffolk,MA,2113,42.3626826,-71.0552861,America/New_York
+573adb54-07b1-4698-a657-3450532d221b,c24a9a24-d11c-4a87-88ef-99fbaeb8677a,654 Centre St,Boston,Suffolk,MA,2130,42.314255,-71.113967,America/New_York
+1ad2dd56-0e21-471e-88d3-b683ac4a7a96,08449370-5929-440b-8b05-1f2caf5a6519,800 Boylston St,Boston,Suffolk,MA,2199,42.3473912,-71.0820284,America/New_York
+1aec439f-ba12-423d-9d2f-5c5941025690,e254dc0a-59e6-4557-b696-1eea2a04c2da,563 Columbus Ave,Boston,Suffolk,MA,2118,42.3411422,-71.0815368,America/New_York
+57641fde-68eb-43b8-8d7c-510273fbc5ea,baa7a3ca-28ce-4ede-9632-fca4e88ac1c1,250 Huntington Ave,Boston,Suffolk,MA,2115,42.3422251,-71.0850901,America/New_York
+577fb316-263a-4bc8-b740-a2bde2bee33c,9051ac6c-0959-4998-82e5-3e6f7ec0ea0c,1886 Centre St,Boston,Suffolk,MA,2132,42.28569928,-71.15574379,America/New_York
+654a7cf3-5de1-4ef0-af45-6ac9de933942,f868c017-a611-4997-bde8-bc88bdb903d6,425 Summer St,Boston,Suffolk,MA,2210,42.3460859,-71.0432799,America/New_York
+57d3310f-7567-490a-a6e0-27461cb83435,c87ee48a-0147-41cc-869b-e8775f7da9a1,197A Massachusetts Ave,Boston,Suffolk,MA,2115,42.3452158,-71.087066,America/New_York
+655e8681-ddfb-4b86-b683-dd310c8d834c,6765ec76-a312-43a5-9d37-4e71c25d46e0,75 Linden St,Boston,Suffolk,MA,2134,42.3524533,-71.1309038,America/New_York
+69c4ceca-f685-405b-b431-52d3e99570b3,44330c49-aa16-40d3-af0b-fc262e2268e9,221 Longwood Avenue,Boston,Suffolk,MA,2115,42.3372871,-71.102142,America/New_York
+57fdd21e-56ef-4512-b436-49d47fa6391e,209b2d4f-54ce-45f9-b1a4-73061abd0dfa,401 W Broadway,Boston,Suffolk,MA,2127,42.3370654,-71.0484057,America/New_York
+69f018e0-f759-4b2f-8ff3-d83174772b25,93b9db79-d6fd-448f-907d-074ec6044e1f,151 Milk St,Boston,Suffolk,MA,2109,42.3577168,-71.054162,America/New_York
+658567bc-81fd-40b6-95ad-993913fc241b,a674cb0e-ada9-4dc3-adb6-80abf9898d71,32 Province St,Boston,Suffolk,MA,2108,42.357013,-71.0597644,America/New_York
+69f6fcbd-b9b0-43c1-a7fe-862f576c7545,7075f696-54a4-4c1a-866d-b9e76d9441f3,910 Broadway,Revere,Suffolk,MA,2151,42.4197557,-71.0059922,America/New_York
+581afdfe-f07a-4d27-991c-b20d63e3c86f,97c0a9e3-10d2-4c86-8bec-eaa0cdd79ef6,570 Tremont St,Boston,Suffolk,MA,2118,42.3433558,-71.0723637,America/New_York
+659b9ec6-183b-406d-9f41-d539bcd573dd,dcb7cffe-1acc-4cfc-84af-0c5445de5d76,436 Western Avenue,Boston,Suffolk,MA,2135,42.3622802,-71.1408864,America/New_York
+5834ba8f-4d25-4377-b0fb-5f1d3dbd8b9e,1132a657-08fe-4762-bc28-6dca9a59d8c8,82 Lansdowne St,Boston,Suffolk,MA,2215,42.3470429,-71.0982933,America/New_York
+65a2b61d-d14f-488f-a96f-ba41044be3f2,f064c5dd-626b-494f-8189-4bc97170d615,187 Wolcott Ct,Boston,Suffolk,MA,2136,42.2370907,-71.1322026,America/New_York
+65bcf4f8-20d8-46fa-bd58-2e2234f1cf96,a4b9e898-282b-4e10-bea6-d75fab499c7d,49 Melcher Street,Boston,Suffolk,MA,2210,42.349462,-71.0501609,America/New_York
+6a5b0143-5dd7-4f99-a69a-cc14e752bcc0,4bc34f9d-34e3-405c-85b3-bbeee4387f5d,560 Washington St,Boston,Suffolk,MA,2111,42.3535079,-71.0623264,America/New_York
+6adc2c08-068c-4371-a94e-e49586d84a14,d3c5125c-9606-40f4-be64-47308f30914e,1759 Centre Street,Boston,Suffolk,MA,2132,42.2874942,-71.15064,America/New_York
+6eb89828-aff3-416a-9bae-c1a1a409056c,5e4639fc-e337-49fd-b542-25a41c04931d,1 S Market St,Boston,Suffolk,MA,2109,42.3596888,-71.0559517,America/New_York
+6ec61fad-9c91-4ce8-bf7b-8ab13acb2982,46c996a2-fbae-4154-b8f1-401d875f3d0b,50 Milk St,Boston,Suffolk,MA,2109,42.3570018,-71.0575881,America/New_York
+6f293ab5-a6b3-42ad-aee3-63a3c9ef3c36,5b650c59-035c-4884-87bc-c6c60a94e2fe,226 Causeway St,Boston,Suffolk,MA,2114,42.3666884,-71.059341,America/New_York
+6188a3b5-4d4d-4d9d-a0df-9a773a41eb35,692b1216-906e-4cb6-8690-df435b167209,40 Maverick Square,Boston,Suffolk,MA,2128,42.3700726,-71.0391772,America/New_York
+62360978-5867-4f09-9b93-98bb4520ab89,06729595-e74a-464b-959b-137f6a17072b,3 Franklin St,Boston,Suffolk,MA,2110,42.3562932,-71.0593951,America/New_York
+6264f1bb-ff45-4fb7-85d4-b37ed870b43f,b557db32-7a4a-4766-8aa0-bde77cd4e495,235 Broadway,Chelsea,Suffolk,MA,2150,42.3902835,-71.0379605,America/New_York
+626f186c-f8e8-43f9-ba3d-fb8ea08b5fdf,fac4e662-b200-4cbe-b17d-96ef42ecaf53,394 Geneva Ave,Boston,Suffolk,MA,2122,42.3013682,-71.0677704,America/New_York
+6b09473a-5359-4bcd-8d32-85d749ae44d9,2ab293ff-4b61-40eb-8c7e-9f91e8ec321b,71 Broad St,Boston,Suffolk,MA,2109,42.3576861,-71.0537348,America/New_York
+6b0f22e2-36ee-4469-bf08-f673585e764e,04af7569-de0b-4fb5-92c1-2bb9683e59ee,1022 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3514718,-71.1217117,America/New_York
+5880942f-6f49-4439-b44d-57a4f0add678,5140f7b8-dcd1-4b36-b04c-f3d17b3a9f54,42 Chauncy Street,Boston,Suffolk,MA,2111,42.3537858,-71.059927,America/New_York
+6ce10d28-dd69-4437-a2df-51778c77ecb6,2899ed8e-5f59-426c-b599-d0d4c79ea257,52 Queensberry St,Boston,Suffolk,MA,2215,42.3425176,-71.097272,America/New_York
+6d62445c-2aab-46bb-b719-5ad50199d47b,94e69c0b-94d7-4f32-8a58-6af019e609a6,184 Brighton Ave,Boston,Suffolk,MA,2134,42.3530103,-71.1337634,America/New_York
+6d749e3d-cf67-406b-8ba3-17a544f815e3,f2de3379-10ce-4d82-9bf4-dd4643986cb1,103 Brighton Ave,Boston,Suffolk,MA,2134,42.353018,-71.1303425,America/New_York
+6ded4010-d8a6-4cf0-850e-ad897d0c9a75,48115587-7980-4867-9d15-314e85942943,239 Grove St,Boston,Suffolk,MA,2132,42.2615694,-71.1573146,America/New_York
+722d6636-4c2f-4d97-b5c7-5bd2adcec030,97155e68-685b-4568-91f3-1b12615ed5c8,222 Newbury Street,Boston,Suffolk,MA,2116,42.349734,-71.081072,America/New_York
+6e251697-fd51-4d88-8af3-03d6bab9d0cc,795b7f36-1785-415c-8a56-33e6131db27c,70 Pauline St,Winthrop,Suffolk,MA,2152,42.3761688,-70.986211,America/New_York
+727828df-3dd3-4cd8-b151-b8478fa15d27,4f295018-b2b6-4588-84e0-ef7af98da9c5,232 Tremont Street,Boston,Suffolk,MA,2116,42.3512316,-71.0646984,America/New_York
+6e4792f0-3c05-4bd1-9843-ba5934c1da09,e28ce8b4-332c-41a1-a420-e6e85ae38e1a,371 Hanover St,Boston,Suffolk,MA,2109,42.3649509,-71.0532583,America/New_York
+72afbe4f-2d23-4b45-bb6c-3e74a7349778,ebc1a528-f5e6-4e71-b60b-c4455ac6769f,92 Bedford Street,Boston,Suffolk,MA,2111,42.3533427,-71.059464,America/New_York
+5debe049-2cda-4028-915a-ccbe5ed4d601,0aac86f7-d4a6-4794-a3e3-f2d8e6f4436a,122 Seaver St,Boston,Suffolk,MA,2121,42.3099087,-71.091514,America/New_York
+5e2196c6-2759-4053-9b95-76f5cdb53bb9,197af851-63ae-4a0d-87d8-eca2e0e6c9b3,662 Centre St,Boston,Suffolk,MA,2130,42.3125916,-71.1141231,America/New_York
+5e4ffd0a-cf46-474d-ad2d-7df4c7c685e5,d35db50a-0ed4-445e-b294-31d8d2efd725,55 Causeway St,Boston,Suffolk,MA,2114,42.3643192,-71.0628708,America/New_York
+5ee967ce-f771-4ea9-b5e1-efb4b469c3f0,3c7fe5ac-643a-4511-8a7b-a1edfebf4cae,260 Franklin Street,Boston,Suffolk,MA,2110,42.356958,-71.053976,America/New_York
+5f16041d-5b9a-44ce-9ebc-f9633846ec14,bdaa6219-e6b7-482e-92e0-1226fc0f7695,484 Centre St,Boston,Suffolk,MA,2130,42.318554,-71.1120699,America/New_York
+67d260da-35cc-43a3-9e3b-95992fe7c918,ad2e4c93-c5c3-4f19-8034-814293a073f5,"1095 Commonwealth Avenue # 212, 1095 Commonwealth Avenue, Suite 212",Boston,Suffolk,MA,2215,42.352572,-71.1254485,America/New_York
+68072580-1f18-4b80-a7aa-20b908f64c31,2f90baf6-e323-44e8-9719-cabd0fe14fb1,223 Adams St,Boston,Suffolk,MA,2122,42.3015045,-71.0600142,America/New_York
+685c4fae-ab1a-4f64-b53b-2680107e3ed4,5b0f122e-9639-4e07-a4a9-a81cb35a8cfe,3706 Washington Street,Boston,Suffolk,MA,2130,42.30032,-71.112882,America/New_York
+685dbf82-e84e-4691-948d-4928fa2ab8d0,211eaed2-aa66-4958-a342-54733e4315c6,53 Chelsea St,Boston,Suffolk,MA,2128,42.3710936,-71.0370319,America/New_York
+6891aee7-e51d-4bed-b8ee-ae6058b7e933,8513003b-1d7e-4e98-aa0e-542a34f081dd,1141 Revere Beach Pkwy,Revere,Suffolk,MA,2151,42.4074363,-71.025401,America/New_York
+68c7c402-9217-4dc9-ac7a-0c199edd8174,028d2bbc-b778-469c-8b0d-4669f4088979,1232 Commonwealth Avenue,Boston,Suffolk,MA,2134,42.349735,-71.131072,America/New_York
+690db668-7bd5-426f-a9a9-fffb5f954de6,6ea7f9e9-34b5-42f6-b8ed-2a451bee134a,269 Newbury Street,Boston,Suffolk,MA,2116,42.349557,-71.083595,America/New_York
+69164bae-a3a8-4742-a597-8424f419b656,2fd685a2-a070-4f34-b6f4-735df8fd8151,202 Humboldt Ave,Boston,Suffolk,MA,2121,42.3126497,-71.0897129,America/New_York
+5f8db566-77a8-466f-a553-4f8c9b5c3fec,5a0798b4-0a5f-414e-ae2c-6e2fd545fecc,142 Broadway,Chelsea,Suffolk,MA,2150,42.3892946,-71.0406055,America/New_York
+60082277-d2fb-4a79-abb4-a2afc0b62349,0ecef305-785f-4a9a-a48d-e33047cf0680,226 Tremont St,Boston,Suffolk,MA,2116,42.3514447,-71.0646684,America/New_York
+6045b515-827d-4171-a439-a1bee3b8c4e4,7105fb0b-8a8f-4351-a7cf-72497e283b03,84 Bennington St,Boston,Suffolk,MA,2128,42.376206,-71.0356854,America/New_York
+609948ab-22a1-48d8-ac0a-35296c3029ce,4c9255d7-8b47-4f4e-b47a-baaa298a90e0,82 Causeway St,Boston,Suffolk,MA,2114,42.3648509,-71.0624989,America/New_York
+6e6546a4-02af-4889-ac52-da9d8438234e,e939271d-9152-445b-81d0-a63206fc971f,7 Everett St,Revere,Suffolk,MA,2151,42.4103751,-71.0001415,America/New_York
+735450f2-9845-4b0f-b6bd-7b912463c703,db2a3c70-b08d-4ae4-ae6b-540c979cfd0e,3710 Washington St,Boston,Suffolk,MA,2130,42.300249,-71.113075,America/New_York
+69490f63-dbaf-4ead-a9cf-06459b7ec60c,04147568-d1a4-4450-9b14-43a00b55d5bc,2197 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3403061,-71.1664907,America/New_York
+694e43fa-01b9-4bd5-9982-ec71f9af0dde,e8bf6819-8372-44a1-89d6-20f509c4ffdd,380 Washington St,Boston,Suffolk,MA,2135,42.3489552,-71.1541815,America/New_York
+66534f6f-60c0-4dc8-959c-1e793abdaa0c,a46a7bc9-ffda-4ec1-876d-6dc8b9c68fd4,298 Washington St,Boston,Suffolk,MA,2135,42.3489384,-71.1510894,America/New_York
+666b84b1-a849-4265-957f-77967d639832,726e6e8a-6aa6-4f2f-9174-aeca5f7d4915,200 Atlantic Avenue,Boston,Suffolk,MA,2110,42.3608461,-71.0526484,America/New_York
+667d26fd-0455-4aed-82d3-17c0896f3d45,6cb91ef8-e034-47c9-9e6c-11ef484e9ec3,916 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.350894,-71.1169057,America/New_York
+66833e1f-0e64-46a0-be30-75376e9af00a,be119a38-bfa3-4207-a6a4-b02f33af8ed1,60 Seaport Blvd,Boston,Suffolk,MA,2210,42.3529763,-71.0472755,America/New_York
+66d9e446-3df5-4d1a-aa61-765b712ec574,eb7af3b9-b7ea-49c7-af46-df5e066794c3,728 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3496657,-71.1063152,America/New_York
+67890383-bbfd-42ac-9817-1078a2e0a2a7,20fb2a38-d6a6-4418-915d-fdb20209021b,850 Massachusetts Ave,Boston,Suffolk,MA,2118,42.332079,-71.07102,America/New_York
+5f495706-23f7-4865-bac3-3f7c7035ff1e,18648861-3133-4ff2-8ecc-306784fa96d0,103 Brighton Ave,Boston,Suffolk,MA,2134,42.353018,-71.1303425,America/New_York
+5f50945a-e86e-42f6-8319-1a774fd259db,6726eb71-7831-457c-8cbc-7cc3f35e38c2,1926 Beacon St,Boston,Suffolk,MA,2135,42.336447,-71.1497486,America/New_York
+73725af6-29c0-490d-bb79-10460e71036f,96a408b6-89f6-48b5-8a42-1a955e14d792,164 Broadway,Chelsea,Suffolk,MA,2150,42.3896528,-71.0399106,America/New_York
+737aad8f-4ca3-4a28-a5e2-9161a49cb33f,c312cf05-4964-47c4-a349-07133044fe19,412 Market St,Boston,Suffolk,MA,2135,42.3495147,-71.1531174,America/New_York
+7382ba5a-8745-4efa-b4a8-765d48dfa509,655b6a72-e9b4-40db-b2ea-9e96c48c4a20,32 W Broadway,Boston,Suffolk,MA,2127,42.3427237,-71.056358,America/New_York
+73a42ab2-e037-4d7c-85d2-85c9957bd0f8,0e56ae75-c176-412c-8917-85adee88d426,838 Beacon St,Boston,Suffolk,MA,2215,42.347564,-71.102844,America/New_York
+73b0ab87-f6ae-4c9b-ae6f-09194ed713c6,da4b37d2-ae66-4fdf-a383-284ab4a13b69,295 Bennington St,Boston,Suffolk,MA,2128,42.378732,-71.0281172,America/New_York
+74724529-be9d-4eac-8c0a-7bea892c83f3,c74af480-7554-426a-bdf3-1547c5748297,529 Broadway,Revere,Suffolk,MA,2151,42.4125128,-71.0104498,America/New_York
+7489f921-3366-4f17-b21f-31f7c7301bb7,be4ebf7f-373c-47d0-b64c-da961767627c,663 Morton St,Boston,Suffolk,MA,2126,42.2852152,-71.0933008,America/New_York
+74953a16-73aa-406a-9f75-3a380b78ed32,0e625a7f-faa1-4246-a426-41a2ce380f72,121 Brookline Avenue,Boston,Suffolk,MA,2215,42.345921,-71.100648,America/New_York
+74e1e01a-68aa-497f-b2c6-51ab0a5c5a81,165b6cdf-0a22-482d-8ade-afc864a2f9ed,374 Congress St,Boston,Suffolk,MA,2210,42.350076,-71.0472696,America/New_York
+7021998c-35ae-4bc0-9f67-44357bbb0988,f99f73f0-ddf8-4ad2-895c-cfe46a1d63c9,895 Broadway,Revere,Suffolk,MA,2151,42.3994756,-71.0223659,America/New_York
+67a25867-56d3-49f3-b254-aa049d3a119e,670599bd-7fc2-4a85-87cc-06049700ae18,14 Corinth St,Boston,Suffolk,MA,2131,42.2865531,-71.1300247,America/New_York
+7bfb4d12-0de1-48e6-ac67-1a50e04ceccc,c5b3e942-ad9f-4195-83af-f63631dda969,4590 Washington St,Boston,Suffolk,MA,2131,42.2762785,-71.1388756,America/New_York
+7a6bc31c-f921-4dc8-bbbe-b43cead7d772,240d6c83-533f-4e19-b4f3-aaf8569dc2c3,224 Tremont St,Boston,Suffolk,MA,2116,42.3514513,-71.064616,America/New_York
+7aadbcd4-40ca-4ca8-a8a8-68ef7bdfaed9,207dc650-4cff-42c9-ac4f-824e88109368,571 Tremont St,Boston,Suffolk,MA,2118,42.3436632,-71.0726423,America/New_York
+7cc807b5-20a5-45ce-aed5-8646b4eaf97b,59e4871f-2244-4806-9df4-e9be03f20329,166 Canal St,Boston,Suffolk,MA,2114,42.3650224,-71.0610674,America/New_York
+7ad6a5c0-25f0-4ef2-943d-264809b2018f,2450bc52-5d54-4f63-9edb-34f5118409c0,92 Peterborough Street,Boston,Suffolk,MA,2215,42.3430908,-71.0990792,America/New_York
+7cde7c05-411b-46e5-82c8-48a09fbea25d,fa583b56-ca4a-41ea-b94a-5e5ca5204d67,104 Hazelton St,Boston,Suffolk,MA,2126,42.2815523,-71.0972938,America/New_York
+7adf0ade-49fc-4dc2-85dc-db796bcae8e0,5e2d2302-4bad-4682-b1da-abe478ce566e,155 Brighton Ave,Boston,Suffolk,MA,2134,42.353183,-71.131967,America/New_York
+7d00eaa8-3e94-425a-adb9-93966cd3c443,8f301c96-ccce-4128-8ac5-866a998282a6,427 Faneuil St,Boston,Suffolk,MA,2135,42.35116757,-71.16833445,America/New_York
+7d0c183e-920a-41b9-ac70-19db1b3feedb,99df36e1-907d-494b-bee4-97e485ef20b2,65 Salem Street,Boston,Suffolk,MA,2113,42.3632571,-71.055867,America/New_York
+7b15435c-9aa5-42e7-8061-c53753f95f89,a678e7bd-7a65-4bc7-ba38-44ee8ddab074,271 Meridian St,Boston,Suffolk,MA,2128,42.3762785,-71.0389397,America/New_York
+7b23b04d-7ff9-4281-85dc-d9cee85a7de0,3dcd99da-2083-4afc-932f-ddbdb1249a00,792 Washington St,Boston,Suffolk,MA,2124,42.283778,-71.0714092,America/New_York
+7d41f926-9aa8-4368-8257-71072ed48582,50754770-149f-4dfd-802b-55cd71871864,215 Border St,Boston,Suffolk,MA,2128,42.3756134,-71.0395733,America/New_York
+7b778391-5dc2-48a2-a98d-2528fc39fb01,5c9229b9-9418-4899-b82d-6a0ef3dec13d,462 Eastern Ave,Chelsea,Suffolk,MA,2150,42.4016995,-71.0195344,America/New_York
+7b94c3d0-cdc6-4d10-9cd8-3293cd2a7b3b,f0ded2ce-38ef-42ce-8b1a-310e5ecb891f,226 Tremont St,Boston,Suffolk,MA,2116,42.3514447,-71.0646684,America/New_York
+7bc44e0e-4049-4694-b759-e4b3f7987ec2,e0739578-7834-44bd-8448-af1ae977ceef,280 Cambridge St,Boston,Suffolk,MA,2114,42.360957,-71.068046,America/New_York
+7735adae-cb3c-416a-9a05-37eb13aceec3,1543c722-3770-4950-b819-4698407f1557,500 Ocean Ave,Revere,Suffolk,MA,2151,42.4131298,-70.9904681,America/New_York
+77a18534-8612-4598-ae93-ab08de2103a3,bc382d82-f1a3-4e27-b23b-f07cdbe257c0,174 Squire Rd,Revere,Suffolk,MA,2151,42.4237744,-71.0102074,America/New_York
+77cba8ee-deba-4f4a-a9bc-8d61cc6c022e,72642361-c396-4e07-9b84-25c1b8d30aa3,218 Market St,Boston,Suffolk,MA,2135,42.3550683,-71.149556,America/New_York
+77cc9eef-7070-4004-8070-913f9b21d338,0d1b004b-8508-41b4-92d7-7cfb82f22422,400 Brookline Ave,Boston,Suffolk,MA,2215,42.3383662,-71.1072751,America/New_York
+7819fd5c-2947-4709-aaac-d148b0740b52,3568a1bf-06fe-4850-ad3d-ca6e59f0e442,81 Harvard Ave,Boston,Suffolk,MA,2134,42.3535219,-71.132465,America/New_York
+7838f2b7-4ffa-4ee9-b58a-9e990f26b6b3,9c51e201-6151-447b-8ab4-843790ce59e9,1166 Washington Street,Boston,Suffolk,MA,2118,42.3433534,-71.0660715,America/New_York
+7f79987d-bdc3-40b4-a82c-e95ce2f78122,a15e6876-ca7c-4792-b109-b666e74ebbdc,20 Custom House St,Boston,Suffolk,MA,2110,42.3579741,-71.0530183,America/New_York
+7f83f5a2-1afd-435b-b4c6-8bd06fa2a6a7,4497abbd-de89-4aef-b359-1e91dfb6fd28,145 Dartmouth St,Boston,Suffolk,MA,2116,42.347539,-71.075041,America/New_York
+7f851b2c-2c9d-43de-85b0-c3a13f8eaff0,628f4c0e-f1ed-4890-9476-b3038a9c740e,333 Border St,Boston,Suffolk,MA,2128,42.3790276,-71.0398177,America/New_York
+7fa2c7f0-813d-4568-98c2-ee73a6b8ff5f,c5c2938b-46ff-4deb-87d1-2dd8327695c3,288 Cambridge Street,Boston,Suffolk,MA,2114,42.3609039,-71.0681865,America/New_York
+7fd977bf-06e6-4d9c-80e6-974c1d4e6a0e,070093a6-0dc5-48f8-b613-6a32e557600e,1528 Tremont Street,Boston,Suffolk,MA,2120,42.3322667,-71.1000172,America/New_York
+7fe30407-bae4-4d2f-8618-435fe37af733,f6eaa820-19c7-4087-abbd-01950f1aa8e8,16 Derne St,Boston,Suffolk,MA,2114,42.359537,-71.063438,America/New_York
+7ff44d38-afd3-4c9d-9e34-a6063fb276e3,5a1a067a-11cb-45cb-874c-99f868d9198a,168 Cambridge Street,Boston,Suffolk,MA,2114,42.3611127,-71.0650131,America/New_York
+8043d319-4c44-4ae0-b52f-37c1669476c9,0342bba8-52a5-4957-a1da-f68c90d47c80,133 Guest St,Boston,Suffolk,MA,2135,42.3563616,-71.1427298,America/New_York
+805d6c2b-7f02-402f-876f-5b6ab11ad971,cd202d43-6e08-4dab-9963-e7c6d6fb2bf3,186 Tremont St,Boston,Suffolk,MA,2116,42.3525185,-71.0641694,America/New_York
+805f98d0-f94e-419b-b376-1e12e10ee75b,cfd66561-dccc-4956-b975-0f7cb29d3009,388 Broadway,Revere,Suffolk,MA,2151,42.410216,-71.012479,America/New_York
+808a339a-0fc7-4916-a03a-306ee3b866be,9bd76c22-d038-415f-9716-636aa0fa2597,244 Meridian St,Boston,Suffolk,MA,2128,42.3759394,-71.0393188,America/New_York
+809f4cec-8f27-4906-b3f5-bac691912721,6646ca7f-acb9-45be-bcdb-f397937476c8,387 Chelsea St,Boston,Suffolk,MA,2128,42.3795092,-71.0274669,America/New_York
+80bc4138-799f-44de-9d9a-9a42cdfde7a4,b5376bac-abef-4ee2-8d96-500d2cbaa9cf,688 Columbia Rd,Boston,Suffolk,MA,2125,42.3200857,-71.0626605,America/New_York
+8b595040-4a42-4e0b-ab78-2e0d755d3247,c8b0e99b-fe4e-4545-b21a-1c719c867593,"279 Newbury St # 2, 279 Newbury Street # 2",Boston,Suffolk,MA,2116,42.3493929,-71.0839819,America/New_York
+8b8cebc1-9a3d-406c-ab15-8dd483262eae,bd46a1e5-2c38-4350-a95f-1eaaf38b3d1b,166 Brighton Avenue,Boston,Suffolk,MA,2134,42.3529176,-71.1328396,America/New_York
+8ba921ab-7fe9-4724-ba88-b3d7a6e0ccd6,6083f27e-659a-4f34-a643-3e9298b6dcda,1143 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.285507,-71.0913105,America/New_York
+8bfa159f-9b48-4b40-9bb1-aa7c8e78b069,d8f2d625-485e-48bc-be51-9a5eaee720a4,37 Bowdoin Street,Boston,Suffolk,MA,2114,42.3599056,-71.06321,America/New_York
+8c340bcd-3054-46a5-bdf8-4a8cebeca953,1395c2d1-dcd5-4906-95ee-23872bfa6207,164 Brighton Ave,Boston,Suffolk,MA,2134,42.3529178,-71.1327712,America/New_York
+8cab19cc-de07-4687-bca9-37866009aa19,10596ff7-2114-4a98-914c-41a89461c4de,225 Centre St,Boston,Suffolk,MA,2130,42.3229395,-71.0993686,America/New_York
+7863e048-2855-4b70-87b9-9f8023810f78,4fa6426e-0de8-49c9-b142-06414be628ea,133 Guest St,Boston,Suffolk,MA,2135,42.3563616,-71.1427298,America/New_York
+790fe814-fc89-45fd-84ba-fcff7c5e957c,9ee4921a-c1ee-41d2-ad27-30ed71b6f543,1356 Dorchester Ave,Boston,Suffolk,MA,2122,42.3044889,-71.058898,America/New_York
+7927b560-585d-43d6-abda-bcd30fffbb3e,6a5769e4-e2e1-43c9-b6d2-875e0bc72e83,7 Ellery St,Boston,Suffolk,MA,2127,42.3303068,-71.0585749,America/New_York
+7037de53-91e0-4a3c-a82c-1c18db1ffb51,556f4d49-a5ab-45bd-a0a4-65ac0b73811b,440 Atlantic Ave,Boston,Suffolk,MA,2110,42.354951,-71.0509,America/New_York
+7049372f-f093-48a0-9177-a9eb75f6b617,f631cfe1-24ca-4596-8684-ed0b68372413,431 Boylston St,Boston,Suffolk,MA,2116,42.3515392,-71.0729131,America/New_York
+70519c80-fd3c-413b-b44e-45e9aac9488a,4e403bd9-e544-4685-ad04-98f3e146b6f2,111 Dartmouth St,Boston,Suffolk,MA,2116,42.3464991,-71.075335,America/New_York
+795e4c42-b59d-47c0-9da2-ab7c2d3c5f14,bb2cbcba-0641-4db0-b2ac-cb87fd44c854,75 Meridian St,Boston,Suffolk,MA,2128,42.3720341,-71.0388427,America/New_York
+70986a72-3fd3-4622-8d23-75a0c17b6c51,56e96aac-bd88-4853-9dd2-c2ee4ed39daf,256 Marginal St,Boston,Suffolk,MA,2128,42.3643818,-71.03348,America/New_York
+70d0e313-68d6-47b4-88c8-3cca8295de6f,5731b3c0-5109-40f1-b78a-d6fd11a76876,2360 Washington St,Boston,Suffolk,MA,2119,42.3293591,-71.0844575,America/New_York
+79f36815-cadd-400f-b2db-6af482d1c8de,56f1b268-5700-474c-a16b-f6f762d3ee0b,682 Washington Street,Boston,Suffolk,MA,2111,42.3514222,-71.0626816,America/New_York
+8670cf11-bd09-4ee1-8456-2d6df11e8b08,3cb1069b-31d3-45da-ae5e-b02e00b5f861,38 Brooks St,Boston,Suffolk,MA,2135,42.3561857,-71.1621748,America/New_York
+71262159-be3c-4696-9dc5-a040e9642ad8,a733e152-87fa-4fcd-87d2-792e0af662bb,3089 Washington St,Boston,Suffolk,MA,2119,42.3154523,-71.0988609,America/New_York
+71548d73-66ba-4a86-87f5-fa4b3ef741cb,5b85870c-bdc3-42a3-8ea7-ab4f549cbfaf,66 Hereford St,Boston,Suffolk,MA,2115,42.3485895,-71.0854092,America/New_York
+86d475f9-9e10-47f0-b9d6-e2b544ccf688,44952cd6-b0b0-4de9-a19f-24c19fbaf575,181 Newbury St,Boston,Suffolk,MA,2116,42.3505103,-71.0796409,America/New_York
+718fc2ac-6dbe-424e-90a1-1a3190a9746f,55c8cbf6-92ff-4f47-8657-419aad950e13,224 Winthrop St,Winthrop,Suffolk,MA,2152,42.3765914,-70.9841647,America/New_York
+7191b497-8392-49dc-8cf6-b921f4fe4aa7,1f10172b-2599-4225-98ad-8d3f0a76bd1f,1 Brighton Ave,Boston,Suffolk,MA,2134,42.3528589,-71.1253152,America/New_York
+878e44d3-6466-43ec-a96c-f487ab133824,65b88c6c-a5fc-4fbc-ae57-866fbcba44ac,58 Harvard Ave,Boston,Suffolk,MA,2134,42.3543452,-71.1322021,America/New_York
+879a9585-e014-42ff-b7fa-3a4d56f99931,70f9029f-dc81-4f7e-9701-4e479b657cc6,2 Brighton Ave,Boston,Suffolk,MA,2134,42.3520314,-71.1255678,America/New_York
+84925602-0b91-40b9-b40b-2eaf1d868520,06b5a7d4-827d-4384-a32b-2677a2a32f6c,154 Green St,Boston,Suffolk,MA,2130,42.3104844,-71.1065318,America/New_York
+84b00f61-ca55-4ea2-812c-f36feddddba9,3b1095c8-bb32-4c6c-86a6-0f95bcb9e756,280 Cambridge St,Boston,Suffolk,MA,2114,42.360957,-71.068046,America/New_York
+85475b74-35a7-4ce8-8e75-cf3abff3c796,2b852f4e-ef6f-4646-854a-2bc2eb6e1c13,357 Washington Ave,Chelsea,Suffolk,MA,2150,42.4048293,-71.0354068,America/New_York
+8566b56a-7632-4c6f-99b1-10e3ca2e90d2,fc61281a-2ba9-41a8-9b08-3dfc1ca4d1da,3141 Washington St,Boston,Suffolk,MA,2130,42.3141334,-71.1001404,America/New_York
+85c3ae97-096c-4022-86dd-a9af28e1051a,1c927024-ee74-44b4-8e9c-b838c21ad158,289 Causeway Street,Boston,Suffolk,MA,2114,42.3669054,-71.0584079,America/New_York
+85ddcce4-2979-4a09-9cb6-0b4e74c4f4ec,31d22d36-a3d0-4a85-80b1-d5446f97f11a,122 Harvard Ave,Boston,Suffolk,MA,2134,42.3523726,-71.1317185,America/New_York
+85e3056a-3cc9-42da-b6e6-5564fdd86082,e4d9e1db-a1c9-4e37-8751-56a0f90d3080,44 Charles Street,Boston,Suffolk,MA,2108,42.3572829,-71.0701784,America/New_York
+8104d0f7-574b-41be-be34-add5cac2789a,3c884a93-2032-41cb-a226-74efe2bb4d83,241 Market St,Boston,Suffolk,MA,2135,42.3546319,-71.1505079,America/New_York
+81232281-1e69-41ba-9f20-57f57800186b,1c49a479-68de-49de-ac9f-3a6072bb5a0e,3696 Washington St,Boston,Suffolk,MA,2130,42.3005413,-71.1125614,America/New_York
+817718e4-235e-4054-a588-e6eb8ba9f7c8,4df26bd7-ff20-4952-880f-ed11716b7600,12 Church Street,Boston,Suffolk,MA,2116,42.3485179,-71.0677903,America/New_York
+81daf039-ad3e-4eab-a0dd-ea7d02e8906e,e8a79143-1df3-45f4-baea-15297df580d5,20b Tyler St,Boston,Suffolk,MA,2111,42.350741,-71.060569,America/New_York
+80e521b1-e4ce-4db0-9831-27ea8ea3adef,563b1ae3-585b-4874-9290-ea5b79eb7981,144 Tremont St,Boston,Suffolk,MA,2111,42.355297,-71.06281,America/New_York
+824e7b18-04b2-47f1-9959-5c14eda40972,9ad7031d-bba8-4310-849c-842910decf2a,20 Kilmarnock St,Boston,Suffolk,MA,2215,42.3443953,-71.1000345,America/New_York
+824e7b18-04b2-47f1-9959-5c14eda40972,a3e56e7e-89dd-41da-812b-9a8f855d2d51,100 Holton St bay 4,Boston,Suffolk,MA,2135,42.3591747,-71.1377372,America/New_York
+89c80a67-9788-4649-99a2-13eba04ff849,5871cf68-bcf9-4238-a7b0-f74b2a5d15d4,707 Centre Street,Boston,Suffolk,MA,2130,42.3114834,-71.114629,America/New_York
+89d53f2a-61e3-40c9-b829-346ca09cba33,a542b0a5-cf31-4cea-871e-d2fb77e1da5a,1 8th St,Boston,Suffolk,MA,2129,42.37332,-71.0502201,America/New_York
+89e07cfe-a3c2-4f1e-b8e3-281989a44876,3edca934-a3bf-4c6a-b911-a4cb98fd9dc3,1 Union St,Boston,Suffolk,MA,2108,42.3606906,-71.0566017,America/New_York
+7ddd8236-5910-4306-8063-69754736fdbc,c0b59dd3-ab7a-425b-950b-35d3445fd44a,3698 Washington St,Boston,Suffolk,MA,2130,42.3005426,-71.1126797,America/New_York
+8a5f64db-b620-4820-a21f-83f9338caf85,900416a9-deca-4e71-8b1c-5f418dcf3f4e,33 Stanhope St,Boston,Suffolk,MA,2116,42.3485915,-71.0731297,America/New_York
+7e41780a-2f5c-40c9-98db-64d26e53d1df,2e470590-7d62-45e2-86e6-0eb47d0c8df1,220 Northern Ave,Boston,Suffolk,MA,2210,42.3490961,-71.0388887,America/New_York
+87cfd82f-8fae-442d-bef6-39d367f59b60,0ff334ff-3924-4a1e-ba4d-25f556803f68,256 Washington St,Boston,Suffolk,MA,2135,42.3478982,-71.1497346,America/New_York
+7e5d6708-c797-4cfa-92e9-38fd08bf1000,2ac01771-f9f8-4462-baab-546c1c1bd57e,100 Northern Ave,Boston,Suffolk,MA,2210,42.3522957,-71.0434876,America/New_York
+87daac50-efc5-4fbd-a7da-390c57f4b911,748554d1-2792-477f-ab02-63f8e75232bb,280 Cambridge St,Boston,Suffolk,MA,2114,42.360973,-71.068077,America/New_York
+7e721608-594b-4139-8baf-820e571049bb,3e6cd7bc-970c-4d38-bcad-304b90f660b0,99 Salem Street,Boston,Suffolk,MA,2113,42.3639165,-71.0555093,America/New_York
+8aaddb3d-0e3a-453a-bc9f-856f12d81618,96456f3b-f9f2-40b7-bc9e-31e79e44d283,584 Tremont Street,Boston,Suffolk,MA,2118,42.3432268,-71.0726165,America/New_York
+7e81516f-5e18-4349-ba3b-d28a211c5de2,31e8ff84-4cca-4593-8ef3-72b31579b5f7,178 Kneeland Street,Boston,Suffolk,MA,2111,42.3498315,-71.0577633,America/New_York
+8add0c08-c74f-44e6-bf64-f98331fedb2c,78c42fa2-ab7e-4ca8-941d-2261f8abed20,333 Hanover St,Boston,Suffolk,MA,2113,42.3643173,-71.0537741,America/New_York
+6b243c20-86b3-4d13-8be3-cda512809f1e,8679fbb6-48c8-4593-a731-745a6bc47ace,44 Maverick Square,Boston,Suffolk,MA,2128,42.3701249,-71.0391543,America/New_York
+8af1e3f5-a707-40c4-969c-3ecf0456a0ef,0d90c518-f700-4ef1-bc45-f65fd0f14def,52 Summer Street,Boston,Suffolk,MA,2110,42.3545056,-71.0588321,America/New_York
+6b339b00-ad89-4305-91d1-ab921876b5d5,0aadf06a-0dee-4499-abae-9512aaa5ecf5,175 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3458668,-71.0872695,America/New_York
+8afa03e0-edd4-4f1e-88ba-bb54fd98fddb,1f3af571-45ed-4e87-8bd0-3c33822d6f6d,85 Newbury Street,Boston,Suffolk,MA,2116,42.351894,-71.074962,America/New_York
+6b8200a6-58ec-4da0-92f7-a692d3433b05,de13d5fe-9e9d-436c-9719-46122ff65ac3,63 Main St,Winthrop,Suffolk,MA,2152,42.3822011,-70.991969,America/New_York
+760ee7ba-cb6b-4806-849e-20770fc7d2d2,4d68f3d9-842d-4662-a5c0-075932e1a393,151 Hanover St,Boston,Suffolk,MA,2109,42.361878,-71.05676,America/New_York
+6c06da2d-8123-493b-ad9e-3fb04a766503,31ccb64f-b1b5-4ad1-9725-104d7d72bfad,78 Salem St,Boston,Suffolk,MA,2113,42.3635939,-71.0558697,America/New_York
+6c0efc5a-286f-43bf-b568-2f76db0799b6,a69e822f-2b44-4c7a-97c7-3fb8b3fe3b79,745 Atlantic Ave,Boston,Suffolk,MA,2111,42.3504139,-71.0569136,America/New_York
+769707f8-61cf-4661-be2b-88b9edb01b59,fd327cb3-3e98-475b-8ec3-b9c348997f68,252 Friend St,Boston,Suffolk,MA,2114,42.3644947,-71.0613257,America/New_York
+9905023a-2647-4928-afb5-f85900dfafdb,4991687f-968b-44ab-9950-a68e7d5956df,305 Huntington Ave,Boston,Suffolk,MA,2115,42.3412903,-71.0873545,America/New_York
+991e31ba-4519-46a3-8f82-5db6a208fff2,71e26644-3d50-49f1-b84f-827b12930259,700 Atlantic Ave,Boston,Suffolk,MA,2205,42.3519448,-71.0551625,America/New_York
+9967f3db-dd16-4675-8773-0c140ffc9c09,1232f958-c37f-4945-8e3a-6f081259b99c,64 Revere Beach Blvd,Revere,Suffolk,MA,2151,42.4055958,-70.9916208,America/New_York
+997d9ea7-9de0-4f24-9e8c-6eed67d0e8a5,b1938bc5-e1e6-4094-a19f-edd91d28d516,23 Drydock Ave,Boston,Suffolk,MA,2210,42.3442395,-71.0300039,America/New_York
+7a226213-9dc4-4674-9350-48fe87a33aab,dea3f635-5f5e-4052-be5d-fc91b8bd3228,557 Boylston St,Boston,Suffolk,MA,2116,42.3506317,-71.0760179,America/New_York
+7a338adc-d926-49c5-a7de-6828b2af5e38,b7600e0d-2ce1-4004-ba88-440f3d0fb46a,28 Harrison Ave,Boston,Suffolk,MA,2111,42.3519275,-71.0610356,America/New_York
+7a3fb803-54fb-40a8-9cbe-7680b08e92d4,60fdc2d6-9c57-460b-a888-38f446883754,35 W Newton St,Boston,Suffolk,MA,2118,42.338906,-71.0739849,America/New_York
+71aef28f-2380-43ab-aaf3-007c464ab379,4eb04d5a-1220-4e8c-af2a-8f86afd686fe,1331 Dorchester Ave,Boston,Suffolk,MA,2122,42.3052242,-71.0591575,America/New_York
+98292769-bab3-4571-a701-03e6e5e59672,5d61a2ec-4f5a-4589-adf4-40d1801ae76e,20 Maverick Square,Boston,Suffolk,MA,2128,42.3695577,-71.0395238,America/New_York
+8ecd081f-4083-49a3-806b-f47bd52c8ea8,7fcb35d4-6735-484c-ad43-8a608c5d3daf,5268 Washington Street,Boston,Suffolk,MA,2132,42.2593278,-71.1588465,America/New_York
+7f263374-635a-4ee2-881c-0049f87c05b0,137aa9a2-30c3-4ffa-8e78-24f994480ae3,78 Arlington Ave,Boston,Suffolk,MA,2129,42.3871844,-71.0750127,America/New_York
+8f28ac5b-f12b-4575-915d-33397f7a9b27,36a4682a-6a63-4eaa-be90-c843988a0102,125 Harvard Ave,Boston,Suffolk,MA,2134,42.3522867,-71.1321838,America/New_York
+8f36c4e5-0a28-4876-9fa6-d89d4746c446,0c838ba0-c6f2-41a1-a0e5-df753af083dc,160 Norfolk St,Boston,Suffolk,MA,2124,42.2871286,-71.0786368,America/New_York
+8f601f75-b042-4754-9c0d-a80cb8f571f2,85924657-c5bb-4357-8045-83cbeff7c385,150 Huntington Ave,Boston,Suffolk,MA,2115,42.3444878,-71.0823684,America/New_York
+8fd16de7-0e6f-406e-8b2e-dec2f042dd08,e3240bb2-69d2-4124-93ae-c9e2630aa0cb,57 Revere St,Winthrop,Suffolk,MA,2152,42.3822861,-70.9802743,America/New_York
+8ff6855c-1613-4831-bb56-61bd77871055,15930183-95eb-4566-a67d-7385c823d709,75 Arlington St,Boston,Suffolk,MA,2116,42.350627,-71.0704834,America/New_York
+901090df-0322-4c7e-ac8d-a377060e6a88,25430e49-fe9f-4afa-bc1f-0e9490fb7128,552 Tremont Street,Boston,Suffolk,MA,2118,42.3437905,-71.0715161,America/New_York
+9017d67d-7b45-4206-b7ea-728b1b3ebe4d,b9e6a466-7d45-41fa-b978-515e4dfd8bc2,1100 Boylston Street,Boston,Suffolk,MA,2215,42.34686241,-71.08849995,America/New_York
+903bb11d-5eea-487d-a4e6-b63ba5f1e7b1,c9afd2d8-2b75-433c-832f-005ec68d172f,11 Parmenter St,Boston,Suffolk,MA,2113,42.3638693,-71.0548067,America/New_York
+87ed21b6-a53d-40e6-a8a5-b342d4ceac04,9165327d-9ce2-4420-9d21-56c1d0bb7223,1625 Tremont St,Roxbury Crossing,Suffolk,MA,2120,42.333933,-71.103529,America/New_York
+87f0388f-424d-48e8-8bd6-32e67a695425,93907857-005b-4c2f-bdce-eac2fd61f935,1092 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3518558,-71.1242253,America/New_York
+883b68a2-6528-4ad2-baa7-2e13b4875a77,0b68ebbf-e70a-41b5-84ad-48fe3dd50d07,522 River St,Boston,Suffolk,MA,2126,42.2671583,-71.0944389,America/New_York
+8851dfd4-0411-49c7-9380-573b04485ada,c755de9b-9d55-4bcb-acb6-48b376ff2593,629 Winthrop Ave,Revere,Suffolk,MA,2151,42.3977338,-70.9927431,America/New_York
+88a42659-aaad-41b0-8885-dbee4d6144e5,34d484b6-17bd-4677-89d3-0ff1c85a66f8,"5 N Beacon St, 5 North Beacon Street",Boston,Suffolk,MA,2134,42.3537661,-71.1376103,America/New_York
+88e0daac-b1f9-4295-bb7d-55451f40f29b,578674e3-e988-4898-a5c3-7d20bb4832b1,14 Bromfield Street,Boston,Suffolk,MA,2108,42.3565852,-71.0599721,America/New_York
+8b32f2df-0ee7-4bfe-88f4-e4a2f4468cfd,495f5768-45ef-4b46-bd01-b42cd8c10b87,141 Pearl St,Boston,Suffolk,MA,2110,42.3547102,-71.0536481,America/New_York
+88eb3132-62ca-4874-908e-835836b8fa94,5a186159-94f4-4e2c-a710-f2da9fb18465,91 Centennial Ave,Revere,Suffolk,MA,2151,42.4064082,-70.9939364,America/New_York
+8908a824-9087-4c05-a442-ba8596bcb353,36d12706-6c2c-4513-a121-47047818e41c,957 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3519084,-71.1191032,America/New_York
+895b7951-1fdf-4958-a3c2-6b53c6cb2888,5328b5f8-2d04-4e58-96a4-8c0a8e2bdc31,333 Centre St,Boston,Suffolk,MA,2130,42.3228612,-71.1049965,America/New_York
+92756276-6e7a-4b9b-823c-9a17588318f3,79812d7a-2c6a-4861-bbdc-a1e5217656ca,3 Appleton Street,Boston,Suffolk,MA,2116,42.3466871,-71.0697738,America/New_York
+92a4096e-5b45-487e-b64c-55befd40dd4d,bf270e31-f134-49bf-bc25-8b6d4cb4b032,395 Washington St,Boston,Suffolk,MA,2135,42.3492472,-71.1549,America/New_York
+8d45ffea-44eb-4cdc-9645-d6e4a70852b9,9087fd3b-1052-4f3a-91e0-3a75914febd5,129 Jersey St,Boston,Suffolk,MA,2215,42.3423236,-71.0970103,America/New_York
+93fab7b6-3ab4-4201-b5ca-d66405647c77,de91ca49-fe1b-4c3b-bfaa-b65faf513d7a,27 Harbor Point Blvd,Boston,Suffolk,MA,2125,42.3191487,-71.0418114,America/New_York
+94274a62-ffd7-406a-94c0-eed8900aedbf,0bdf06b6-f9ea-4d35-952b-04b6b666c160,173 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3458855,-71.0874055,America/New_York
+8d8e5614-aa50-47d3-b8ac-daeda0b36b6d,b253c76f-2f63-4e89-93fd-b15388683dab,14 Tremont St,Boston,Suffolk,MA,2135,42.3504491,-71.1686108,America/New_York
+8daef21c-a20f-467e-b0d5-959c8d59c043,a2b1de43-8afd-40d2-a229-f78a9cea671b,5 Fairmount Ave,Boston,Suffolk,MA,2136,42.2555834,-71.1210704,America/New_York
+947455dc-7eff-41fb-b490-3e809717c455,2fa27841-d168-4a02-aff8-e01188baccbd,8 Central Ave,Chelsea,Suffolk,MA,2150,42.3904751,-71.0349668,America/New_York
+8dd4aa8f-b46d-4a41-9532-c6689b047f68,3b38a7bb-ec80-404f-907d-95721626c799,306 Revere St,Revere,Suffolk,MA,2151,42.4186317,-70.9989881,America/New_York
+8df288d9-4d13-4608-8ce5-240a48af9be3,4bbe57a7-65b3-4a6a-929b-de0ab319205f,19 Bennington St,Boston,Suffolk,MA,2128,42.3750651,-71.0379225,America/New_York
+8df8d04c-f0c8-4274-b672-88c02c6264d9,7978b3dc-31b3-4c6d-ad67-82c6214b99b4,11 P St,Boston,Suffolk,MA,2127,42.3378311,-71.0273549,America/New_York
+8e013a7f-9454-44ce-af61-f42184778a91,615947f5-c1f8-45d2-8d64-e794735c0a8f,94 Peterborough St,Boston,Suffolk,MA,2215,42.3430396,-71.0991588,America/New_York
+93976da1-4ae6-43e5-bea6-0ea3a80dcbd1,f821f7c4-ad23-4f0b-b3ef-360048864357,578 Tremont Street,Boston,Suffolk,MA,2118,42.3433071,-71.0724598,America/New_York
+8e0e1db3-23ea-4c79-b243-a8e837857310,9cf444e7-d4b7-4434-baf4-2001d0b7bc38,8 Kneeland St,Boston,Suffolk,MA,2111,42.3510497,-71.0627006,America/New_York
+8e286023-6fb0-4196-8d3c-5cdfd83646d3,b9cd7d0b-438b-4e5e-9f02-24ba989c8504,1290 Blue Hill Avenue,Boston,Suffolk,MA,2126,42.2796457,-71.0926514,America/New_York
+94b887ca-2dca-4fc5-9248-1adf132cff9a,09dafd9d-aa89-4452-a157-7be620a87617,86 Cottage St,Boston,Suffolk,MA,2128,42.3678975,-71.0352676,America/New_York
+94c3eff5-f5ee-4b6c-92c5-91e7b2b8a90c,c1f25c2f-fc47-49fa-bf67-cb88a0055808,19 Edinboro St,Boston,Suffolk,MA,2111,42.3518891,-71.0598946,America/New_York
+8e54b425-49b5-4d2b-8de9-12869087ec81,8f85946f-4104-4838-9efb-413046faabd5,160 Chestnut Hill Ave,Boston,Suffolk,MA,2135,42.3414717,-71.1542417,America/New_York
+94ea28bc-8387-48be-87ea-1ae655bbea8d,c73bb279-88da-4337-b290-50efccb95c02,1064 River St,Boston,Suffolk,MA,2136,42.258772,-71.117768,America/New_York
+953933e1-c6ff-4c70-a36c-cd78d5b09853,787da63d-e842-458d-a2c5-4448d60426ac,88 Peterborough St,Boston,Suffolk,MA,2215,42.343115,-71.098982,America/New_York
+95679bf8-d6c6-4b10-a4bd-05a90be2b5b8,8eb4d254-184a-40e7-96d5-9fb8a76e778b,"1430 VFW Pkwy, 1430 Veterans of Foreign Wars Parkway",Boston,Suffolk,MA,2132,42.2711396,-71.1719658,America/New_York
+9050a4ba-f9dc-4dbc-84f7-01316ef4c953,67307112-0521-47d5-9d79-0585dde80ac5,84 Summer Street,Boston,Suffolk,MA,2110,42.3538684,-71.0580491,America/New_York
+9050a4ba-f9dc-4dbc-84f7-01316ef4c953,65c22dc8-fe37-4ac6-8653-a4410b808359,50 Northern Avenue,Boston,Suffolk,MA,2210,42.3534302,-71.0462,America/New_York
+82e93091-8f24-416b-aeec-e369557602bd,28304fea-42df-4087-a5e3-80fdff34eb9f,208 Dudley St,Boston,Suffolk,MA,2119,42.3286299,-71.0810549,America/New_York
+83112170-3dfd-425b-8a46-f7de2bbd6362,4f32c8cc-0f05-46eb-87e3-0b262581bec6,20 Ericsson St,Boston,Suffolk,MA,2122,42.2928306,-71.0400266,America/New_York
+83146f6f-8e2b-45b7-8147-00e3e6595c96,6b300ded-50bb-430c-80f7-de5dbf5a618b,25 School St,Boston,Suffolk,MA,2108,42.3576796,-71.0590625,America/New_York
+8350faf4-66f2-47bf-a092-201853490469,09a85e53-efe6-4017-8474-0e963c64e9ce,1014 Revere Beach Pkwy,Chelsea,Suffolk,MA,2150,42.4032992,-71.0228937,America/New_York
+835919d7-cdd5-4dbf-9b43-09a406951776,38406d91-c1f1-4362-af6b-29b5ab5a864a,334 Massachusetts Ave,Boston,Suffolk,MA,2115,42.342594,-71.084173,America/New_York
+83b04995-03df-4d1e-97cd-76a721dedecf,695c0153-84ad-47b6-ab74-9918737c5d2c,343 Congress St,Boston,Suffolk,MA,2210,42.3504549,-71.0495492,America/New_York
+840746b5-e105-4291-9b67-d8df34bc1b61,7d1fae2d-e1b5-498f-9519-72127dbc7b0d,547 Washington Street,Boston,Suffolk,MA,2135,42.3495501,-71.1637263,America/New_York
+90a7236a-e832-4343-a52c-0a7bccf31b97,94c3c29d-4e89-43d6-a7ff-fadd5cc73f94,Boston Transit,Boston,Suffolk,MA,2108,42.36188821,-71.05724718,America/New_York
+90a7a01c-4a7d-4f29-9380-4e17e55074b1,1816e22d-d749-4af6-88b5-d14dbd465885,800 Boylston St,Boston,Suffolk,MA,2199,42.3471477,-71.0825077,America/New_York
+90b3f860-f603-4939-97f0-a68a8e9566f9,322896de-8d66-4578-ac17-8a9ff90429ce,53 Boston Wharf Rd,Boston,Suffolk,MA,2210,42.351147,-71.04565,America/New_York
+8e92eb24-2f80-4c7b-9135-84d090793d13,60d52676-bfcd-48e1-8516-4423984cce16,52 Gainsborough St,Boston,Suffolk,MA,2115,42.3417661,-71.0872612,America/New_York
+91096d40-f2de-49c7-88a7-021ae2042123,8f09c994-a1c6-4245-a251-0d77e57da947,132 Brookline Ave,Boston,Suffolk,MA,2215,42.345106,-71.1004118,America/New_York
+911d0887-7727-4a91-834f-f4db9901491c,59e49313-5771-4e04-bf4d-302d6897dc8b,50 Gainsborough St,Boston,Suffolk,MA,2115,42.341655,-71.0872179,America/New_York
+913665aa-0c00-48d4-9399-1af93a44da76,2469e07a-19d7-4ef3-ad61-e94f8a34dd0b,58 Beach St,Boston,Suffolk,MA,2111,42.3513195,-71.0603163,America/New_York
+9180795f-ecf5-4006-9905-ccbe8b002391,f2d83647-c15e-4740-843c-6b0fc14b2556,1260 Boylston St,Boston,Suffolk,MA,2215,42.3447675,-71.0958979,America/New_York
+91a76307-db58-4569-a59c-1536daf6d6ca,5e580893-b777-4952-846c-82b7f6a7aeac,8 Park Plaza,Boston,Suffolk,MA,2116,42.3513531,-71.0660655,America/New_York
+91e8a904-1ece-4c37-8543-d948a1340412,5a76581b-4098-4dac-94fb-d3536b44142b,627 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3497048,-71.101593,America/New_York
+959aaebc-5704-432f-a477-30e2b22e5294,7debf10a-1310-4a4f-83ca-12a46d729b9f,702 Washington St,Boston,Suffolk,MA,2111,42.3511448,-71.062697,America/New_York
+8448d73b-c086-4076-80a9-71aa86f3d77d,83fa0f3c-c961-4511-9b79-d38223e6b6da,15 Francis St,Boston,Suffolk,MA,2115,42.3350677,-71.1046518,America/New_York
+845cbdf1-764c-4192-8bb6-d3de3139e6d8,3a7aa8f3-3148-4aaf-8a34-85b2f222fd56,220 Clarendon St,Boston,Suffolk,MA,2116,42.3511072,-71.0756076,America/New_York
+84640ce5-a70c-479f-85ca-f2615155c5c1,60c38922-2957-405d-aa95-7d309adc483f,192 Sumner St,Boston,Suffolk,MA,2128,42.369228,-71.04021,America/New_York
+93c5fbbf-b8b9-481f-8b04-591f0b7574ea,9e6ad36c-11ef-4a2d-b82b-d4c5a84157a3,532 Washington St,Boston,Suffolk,MA,2124,42.2928624,-71.0716491,America/New_York
+a1f85d4e-7643-463e-9752-e066c1303e98,f10be0fd-b599-4eba-b632-2aa95c95c392,147 E Berkeley St,Boston,Suffolk,MA,2118,42.3436144,-71.064772,America/New_York
+a221c3ab-01d8-4c65-a5d5-4e880997282b,27968dff-19df-4cf8-9e53-b6ad9a8ced07,1210 Blue Hill Avenue,Boston,Suffolk,MA,2126,42.282923,-71.091422,America/New_York
+a25ef225-65ea-417a-89da-43bf4c57c54d,d53dd0c3-1420-4b1e-acd8-a544f9c34b72,339 Squire Rd,Revere,Suffolk,MA,2151,42.4284259,-71.0123207,America/New_York
+a287b6f6-b05c-41aa-9aff-fdbc51736812,3fa9c71c-0eb6-4e2c-aa75-fe072a491bc6,279 Newbury St,Boston,Suffolk,MA,2116,42.3494961,-71.0840861,America/New_York
+9c6ca15e-feb4-4a15-8d2d-6ed0d3d9766b,7d4b5ad6-65dd-40ce-b1b6-0a386c279ec0,1098 Commonwealth Avenue,Boston,Suffolk,MA,2134,42.3519403,-71.1244081,America/New_York
+a2c175bd-0636-45e8-bb9e-f7df7c15b8a6,5a348862-f5ce-4b63-89a1-876e8df08cd0,28 W Broadway,Boston,Suffolk,MA,2127,42.342723,-71.0564857,America/New_York
+a3140321-d138-442c-89d3-85ae634e2134,a0aade65-5440-45b5-82d5-b40f3f6f77ef,55 Boston Wharf Rd,Boston,Suffolk,MA,2210,42.3512407,-71.0455683,America/New_York
+9d094e3d-bde2-44dd-934b-d89dceddaa6d,17b9ffa2-3453-46d2-9992-893086696384,1960 Beacon Street,Boston,Suffolk,MA,2135,42.3364618,-71.1504836,America/New_York
+9d4dca29-36b0-4310-98c2-c9cb8a556676,76d8f87a-c94f-473c-bdba-5b481491d58f,11 Beacon Street,Boston,Suffolk,MA,2108,42.3584272,-71.0617131,America/New_York
+91ff025f-a55c-48ba-a2b3-1ec787ce3539,9cd0c220-134b-458b-88a8-eebb85053c7d,48 Corinth St,Boston,Suffolk,MA,2131,42.2858953,-71.129281,America/New_York
+9ab57948-daab-4e74-96ca-1eb7ade13c64,2eb9a9e1-3a6e-454f-aebf-7cb9185517f8,45 Gainsborough Street,Boston,Suffolk,MA,2115,42.3418024,-71.0868342,America/New_York
+9b657c08-279c-4a73-9ba5-16fa995939d1,f8885c83-6db2-41e4-b680-ec7ecfba5904,"111 Huntington Avenue, 800 Boylston St",Boston,Suffolk,MA,2199,42.3473912,-71.0820284,America/New_York
+9b80822a-f3e8-4046-9617-547abb8ed634,517b47e0-7f85-4085-934f-88c7db9a3a1b,889A Dorchester Ave,Boston,Suffolk,MA,2125,42.3198944,-71.056929,America/New_York
+9bf3bc33-33ab-4c0c-a914-985227ddabdf,1e5a642d-c91d-4ead-bc6d-8c4d57d915f6,613 E Broadway,Boston,Suffolk,MA,2127,42.3353345,-71.0398356,America/New_York
+a3bde780-8d48-4f39-b668-9e033981c0b3,9697efc7-22b9-4133-9c05-164b968f6c4a,863 Washington St,Boston,Suffolk,MA,2124,42.2815986,-71.07133,America/New_York
+a3de4241-b30d-4bcf-a08d-a9bd0033e59a,add3cb59-f74a-4e24-bc8f-2ecda3232b42,225 Newbury St,Boston,Suffolk,MA,2116,42.3500454,-71.0816971,America/New_York
+a3dfed65-dfad-476e-a2df-4b4901daf76b,b82cae08-3e8f-4ff9-9b58-4c29c63649a8,100 Hanover St,Boston,Suffolk,MA,2108,42.3622119,-71.0575348,America/New_York
+a3f4c284-bc40-49fb-a4e2-d44169ab078f,a275cec7-80f8-45cf-a171-b2b1ffacf193,714 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3495725,-71.1056501,America/New_York
+a406e6eb-148a-48f2-90c9-63283e34d602,6a773ec6-5d2a-4b5a-8248-244935fa4984,379 Hanover St,Boston,Suffolk,MA,2113,42.364954,-71.0530257,America/New_York
+a40d37ad-6855-4c12-aee2-7a52fb7ef18a,f48485bc-8875-4cdb-8246-74c5f31b0fe9,1410 Centre St,Boston,Suffolk,MA,2131,42.293849,-71.136278,America/New_York
+a456902f-4b1a-47e4-88b2-c8161454cd1c,d829b62b-0d14-4d73-8cc9-91acdd2b4be5,1514 Tremont Street,Boston,Suffolk,MA,2120,42.3321315,-71.0995917,America/New_York
+a45b205c-64a0-4ae8-9873-721da06a1cb3,bbcc325e-4c7e-42cc-b1ae-c2ad6a7db134,131 Dartmouth Street,Boston,Suffolk,MA,2116,42.347625,-71.076083,America/New_York
+a49fbf5f-159f-4cbf-8243-de2914a3d814,7268701a-024d-4c78-8a70-07ee96aee18f,1111 Dorchester Avenue,Boston,Suffolk,MA,2125,42.3126584,-71.0574935,America/New_York
+9e0114dd-8ba4-4ce0-967b-734f4a456be1,10d7f4bf-b6fa-4c28-bdec-1436f3af4e33,114 16th St,Boston,Suffolk,MA,2129,42.3793599,-71.0510572,America/New_York
+a33764fc-35eb-4372-bfd0-991a11a3ab82,f6364020-f91e-47e4-a32a-3fe60f94b09d,279 Newbury St,Boston,Suffolk,MA,2116,42.3494961,-71.0840861,America/New_York
+a33c4677-dcbc-40d8-8130-6b42681e214c,be995a3b-b960-4d5b-9505-d6ca9e17891d,1894 Centre St,Boston,Suffolk,MA,2132,42.2854278,-71.155796,America/New_York
+a34516cc-c69a-4890-8c7b-6b21587673b4,668aba34-7f81-40a9-9fa6-10788dbd306e,356 Chestnut Hill Ave,Boston,Suffolk,MA,2135,42.336852,-71.1514891,America/New_York
+9e95ef70-a02b-4e2a-aa5e-3357179c9c4d,5b4e74e6-d84b-47ea-8289-ce180d7db016,96 Peterborough St,Boston,Suffolk,MA,2215,42.3430179,-71.0992149,America/New_York
+9e9fc1fa-00a8-4fea-ade5-076bf0c988fd,ac7ca55d-bbe0-48be-9a4a-af96a0de15f4,618 Shawmut Ave,Boston,Suffolk,MA,2118,42.3353804,-71.0805736,America/New_York
+9ee2b604-8220-4e57-bb4e-66a082c60d36,c0fc47e2-5eb3-4c57-83da-7fc527c40e7d,69 Salem St,Boston,Suffolk,MA,2113,42.363355,-71.0558269,America/New_York
+9f3eacdf-77f3-4d88-bacf-f4490bf7dc24,9a750108-2088-40d6-9e61-b86f18e52b40,419 Baker St,Boston,Suffolk,MA,2132,42.2844023,-71.1695683,America/New_York
+abe90299-9d7b-4c2c-8ce2-da75bbfb5a69,f8281833-6a58-4771-8619-0267791bf8d6,280 Washington St,Boston,Suffolk,MA,2108,42.3574379,-71.0580813,America/New_York
+9c359f2c-6d7c-472a-96f7-b2f0d7410d84,69ab61d2-71d2-43ba-a6fc-1de5b6754d5c,209 Columbus Ave,Boston,Suffolk,MA,2116,42.3486409,-71.0723635,America/New_York
+9c3f8c3d-96ad-4508-af1d-8cd3bdda0534,0e4d3059-7e4b-4752-8a22-110ae5130bb0,50 Woodland Rd,Revere,Suffolk,MA,2151,42.4270842,-70.9885181,America/New_York
+a53b30e7-21b9-427f-9996-0a466156586a,c75d9844-3e6d-4eca-ab13-84938ba96440,1296 Blue Hill Avenue,Boston,Suffolk,MA,2126,42.2793776,-71.0927724,America/New_York
+a59c7e3b-8285-433c-b0d8-fc6cedc177b4,e3c8c496-e661-46d6-bbe7-3303bd61dfa7,125 Summer St,Boston,Suffolk,MA,2111,42.3530628,-71.0575074,America/New_York
+a59c7e3b-8285-433c-b0d8-fc6cedc177b4,473082da-b658-42c3-bdb5-11058802f2b4,1282 Boylston St,Boston,Suffolk,MA,2215,42.3444444,-71.0970113,America/New_York
+ad148aea-36cc-41f0-83ec-b002f31a6286,c38e3e22-9987-4d2d-a4f0-de136d1ff104,1433 Dorchester Ave,Boston,Suffolk,MA,2122,42.3020177,-71.0598808,America/New_York
+ad2160a7-194f-4417-a0af-11f7840b38ee,80c9bdd5-c1d4-4b23-a272-d550df242c59,172 Brighton Ave,Boston,Suffolk,MA,2134,42.35296,-71.133064,America/New_York
+ad26e63b-1b41-40d8-b6ee-42feec1eb84e,9feaca2f-6651-46fd-a503-5503a91e2753,435 Faneuil Street,Boston,Suffolk,MA,2135,42.3511199,-71.1678803,America/New_York
+ad5cf8b0-49d8-4dc5-a356-678df5eeb3b8,cc39717a-0348-4028-8cc7-161259ff46a5,194 Harvard Ave,Boston,Suffolk,MA,2134,42.3508414,-71.1309751,America/New_York
+a601d48e-7b43-452c-b92b-2af402a2fd27,b218b220-887a-4116-9b4f-e9b8abf4d351,381 Centre St,Boston,Suffolk,MA,2130,42.3224184,-71.109246,America/New_York
+a620cd38-fef6-4e39-9421-09a46abe6335,a62cf0d7-f6d0-4c3c-ba6d-41932474eba6,334 Belgrade Ave,Boston,Suffolk,MA,2132,42.2860269,-71.1452341,America/New_York
+a6684388-5959-4763-8f32-3cc8c95a1ecb,ba12f938-98ed-4186-9fb9-1aa77af44f3e,100 Hanover St,Boston,Suffolk,MA,2108,42.3623614,-71.0577609,America/New_York
+a6714dcb-136d-4a03-9ddf-f2bb61e4bb85,5a90ba5d-f150-4a45-8eb3-8076519285ca,179 Washington St,Boston,Suffolk,MA,2121,42.303417,-71.078795,America/New_York
+9ff6e9e3-c792-439e-9b16-27928c968f50,8145a71d-7264-4760-82dc-d76a782e31ba,351 Washington St,Boston,Suffolk,MA,2135,42.3492215,-71.1527995,America/New_York
+960a1690-cc55-491b-89dc-d5aef9fea00c,847fd487-b1ee-4b7f-90ac-a850c1decc87,1501 Dorchester Ave,Boston,Suffolk,MA,2122,42.2993925,-71.0606121,America/New_York
+a016a826-931d-41ae-8c01-f74fb766f561,db41d863-8910-4bf9-ba1d-0edb181afc7e,361 Hanover St,Boston,Suffolk,MA,2113,42.364646,-71.053387,America/New_York
+a027abb9-b0d6-4ac7-a648-718fbcfe54a0,0c3a123c-044d-4ef6-926a-df90b057deaf,3 N Square,Boston,Suffolk,MA,2113,42.3640428,-71.0533421,America/New_York
+961e2c34-f446-4bb7-9203-65620ad6971b,f49aa1c0-0d04-4d8e-958d-bee9b00af19f,2 Perkins Street,Boston,Suffolk,MA,2130,42.3217487,-71.1104304,America/New_York
+9642f26d-1a08-4d24-9848-1e7787ea9856,89064e5c-054a-4757-b5d4-f851ddfbac44,396 Hanover St,Boston,Suffolk,MA,2113,42.366017,-71.0529687,America/New_York
+a087429a-4117-4564-b347-476290583590,0a80be46-10f3-439c-b331-8f80390d23b5,285 Hanover St,Boston,Suffolk,MA,2113,42.3635938,-71.054385,America/New_York
+967e2a15-883c-4340-bc45-ca0516fb3421,6cd70d18-e308-43f2-8ae3-de192b8c40ba,326 Commercial Street,Boston,Suffolk,MA,2109,42.3654193,-71.0511273,America/New_York
+a0bde699-baa0-4b25-b118-d22fdf49cce5,240240c9-52a3-4ae1-906a-8e69aba23b27,142 Berkeley St,Boston,Suffolk,MA,2116,42.3489003,-71.0720904,America/New_York
+968ad26d-216a-40e4-9827-6bfbdc92e60a,7a1604f1-36c3-425b-86ac-e5faca354aa9,100 City Hall Square,Boston,Suffolk,MA,2108,42.3596003,-71.0587093,America/New_York
+96a7da51-5543-466c-8003-8df42d7f7894,2c9532fa-ec84-414b-a124-e4f82b08f0a1,"Life, 2003, 171 Brighton Ave",Boston,Suffolk,MA,2134,42.3533398,-71.1329906,America/New_York
+a134c178-1b86-46a0-88d5-61adade07164,fa01b37b-9082-472e-9e98-97d9289958f1,101 Summer St,Boston,Suffolk,MA,2110,42.3535299,-71.058131,America/New_York
+a14fb453-2859-49c3-b5f3-e9366a2d976d,2e837190-ec36-4b9d-af89-9feb5d36ff4e,695 Washington St,Boston,Suffolk,MA,2116,42.351215,-71.063125,America/New_York
+970ff71c-9b2d-4be4-b118-74c199c96c79,2b51f598-16f8-4ad9-894a-e034b9515b24,3698 Washington St,Boston,Suffolk,MA,2130,42.3005426,-71.1126797,America/New_York
+9fbef242-e1e7-49be-87b7-462d1970cafc,379a5bdf-18da-4bad-8b80-9828eca0a922,82 Summer St,Boston,Suffolk,MA,2110,42.3539891,-71.0581106,America/New_York
+aa2efc60-6472-4c1b-ae73-2025ab52033a,58824223-3b72-46cd-ae04-71c4c1a07314,1000 Bennington St,Boston,Suffolk,MA,2128,42.386836,-71.0068632,America/New_York
+aa38e483-c312-4d0c-a578-e20dc002f77e,a629bb23-7581-43e5-84ce-087d9d8050d3,1010 W Roxbury Pkwy,Chestnut Hill,Suffolk,MA,2467,42.3034996,-71.1522689,America/New_York
+aa658842-8d2a-4de3-a7a5-f7bedfc71dd0,53e17952-9683-4a0e-8d5c-839316f5760b,184 High Street,Boston,Suffolk,MA,2110,42.3566489,-71.0526247,America/New_York
+aa86ed9a-1ed5-4113-8cff-48554233805e,51d5a417-0004-4166-aa26-32dfddd1314f,55 Temple Pl,Boston,Suffolk,MA,2111,42.3548464,-71.0618248,America/New_York
+aa9c349f-c557-44ef-b6c2-5372c5e7dc3b,25fda9a1-f2c9-43b6-9854-ff068da69437,705 Massachusetts Ave,Boston,Suffolk,MA,2118,42.3349805,-71.0755248,America/New_York
+aad92dbf-0e4e-4078-8d88-35dbbba85aa8,d7cf2a50-5c84-43b0-bf28-f9d5142b1877,6 Maple St,Boston,Suffolk,MA,2136,42.2557986,-71.1220732,America/New_York
+aaf74c5e-570d-4986-9c77-e2c40a648ae5,f71c5cae-5e7e-4ac6-b060-4014a0a8208f,60 Long Wharf,Boston,Suffolk,MA,2110,42.3601751,-71.0494308,America/New_York
+ab203493-1b44-42ae-9935-c247addae61c,3e7e84c0-e1be-429b-9842-4e74325cb3e1,1B Charles St.,Boston,Suffolk,MA,2114,42.3542951,-71.0664211,America/New_York
+ab5db171-a3dc-4629-9a2e-d8b80424d52d,09fe7ec0-9130-42c1-a0bb-0551810ca1c9,1651 Washington St,Boston,Suffolk,MA,2118,42.3378806,-71.0754999,America/New_York
+adc86015-9abf-427a-a832-963cd4b65af7,3ccc74b0-6b79-42ce-b1e2-19e5b11b6ec3,100 Huntington Ave,Boston,Suffolk,MA,2116,42.3473325,-71.0788765,America/New_York
+add9304a-0520-42b4-a18d-77f6cef52f07,a4a46f58-103b-4b32-bb5d-7f478caf5753,911 Boylston St,Boston,Suffolk,MA,2115,42.3484603,-71.0844343,America/New_York
+addb2064-7f16-4fcc-8279-da95212d4c50,faae18fc-0eca-43ed-ab2a-6092432367c5,5 Tyler St,Boston,Suffolk,MA,2111,42.3512374,-71.0607954,America/New_York
+adfec2a3-47d0-4def-98c7-d20e8d5a8df6,d8a82606-b699-4463-878d-a6b13dad99db,350 Longwood Ave,Boston,Suffolk,MA,2215,42.3386881,-71.1072189,America/New_York
+ae3c44ab-5e0d-4441-bb77-66419024e014,53403e6b-4699-47ea-9cb3-bdbcd7415dd3,1420 Centre St,Boston,Suffolk,MA,2131,42.2938288,-71.1364142,America/New_York
+aed65030-7da6-46bb-b64f-7d4b5a5e3534,8f50c7b4-b28b-4506-a335-989224773e7e,31 India St,Boston,Suffolk,MA,2110,42.3581867,-71.0528353,America/New_York
+aee7aa6e-c2e5-4168-9e54-57546196304a,00331717-ce82-4945-ba4c-090f032ff0ab,1312 Commonwealth Avenue,Boston,Suffolk,MA,2134,42.3483921,-71.1342472,America/New_York
+a6b15b6f-c457-42f8-8d43-6d8cf012aeb3,262d15eb-6ca7-4425-97bb-6d4b6a5dae8a,33 Broad St,Boston,Suffolk,MA,2109,42.3583857,-71.0544765,America/New_York
+abd2d49e-4b22-4002-86d8-62faff0212ea,d81d902a-9668-4832-87be-d95b0cd01560,270 Adams St,Boston,Suffolk,MA,2122,42.2999832,-71.0584905,America/New_York
+a8a2ee64-2dab-4d1e-ae07-b1a85e40dd0b,ae5c53df-09fb-41a8-bd9f-57ade270b7ad,1744 Washington Street,Boston,Suffolk,MA,2118,42.336478,-71.076543,America/New_York
+a8be7ac4-d6f3-405c-91e9-04a872faf152,fd90e51b-dbd6-4679-a98d-b98051092bb5,13 Meridian St,Boston,Suffolk,MA,2128,42.3745712,-71.0387211,America/New_York
+a8cf4561-d816-4014-b301-f22b21904093,2c94538b-6f72-4aa9-9dfa-7782305b2ae1,264 Hanover St,Boston,Suffolk,MA,2113,42.3636992,-71.0548319,America/New_York
+a9447010-1c9d-4bbb-a64c-8871453360dd,8637ced1-efc9-4402-8241-af6d53af034b,251 Main St,Boston,Suffolk,MA,2129,42.3768466,-71.0660072,America/New_York
+a945909b-1ab1-46e1-82de-5b8c63ef3f2f,d958599a-31be-4a4d-9c5c-88bafc686a07,82 Water Street,Boston,Suffolk,MA,2109,42.3577963,-71.0557607,America/New_York
+af27a72d-f71f-48fb-8f87-cadb340ebcc3,cce1703f-dcc7-4877-8196-a41b9fc9cb9e,237 Newbury St,Boston,Suffolk,MA,2116,42.3498806,-71.0820826,America/New_York
+b4ca5620-26d8-42a4-9ea7-cd9d42783434,77f8f26d-246f-4919-a37b-40e0d49b8cb6,168 Washington Ave,Chelsea,Suffolk,MA,2150,42.3983238,-71.0311936,America/New_York
+b4d207da-06c4-4f1f-ad4f-f327e06d8cf2,61333f6e-7772-4b5f-bcc6-904a87f5e3d5,1277 River St,Boston,Suffolk,MA,2136,42.2559973,-71.1243452,America/New_York
+b4e56c53-dfe3-4f11-b8b6-fef5afeca775,0bd86b48-f6e4-44f6-88fc-4ef2edf7e233,"1 N Beacon St, 1 North Beacon Street",Boston,Suffolk,MA,2134,42.35377,-71.1374176,America/New_York
+b4ffb931-7a7d-4584-9413-ff0b718aebde,309faceb-e425-4d71-9fc0-706db785a461,10 Beacon St,Boston,Suffolk,MA,2108,42.3580359,-71.0621059,America/New_York
+b526ee90-efa8-42de-9072-e3ad300d4394,f861c2e0-5307-4026-8af1-f86571ff939c,261 Newbury Street,Boston,Suffolk,MA,2116,42.3496436,-71.083307,America/New_York
+b52e8e3a-d9ff-413d-adf5-51b3007b0fff,d26a9eba-45ed-41b8-993b-957e4f51f88b,198 Adams St,Boston,Suffolk,MA,2122,42.3022662,-71.0599151,America/New_York
+b5691143-c081-4187-a7ba-0a09b10eab68,63142da1-ea9e-40e9-afe6-00057b3b9f6f,998 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.2898133,-71.0892627,America/New_York
+b5ec30cc-f4e6-4996-b1ae-2970e513e57b,c74356fa-3bd9-4632-b0ba-0b1f679d3553,1033 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.352316,-71.1217099,America/New_York
+972a5fb7-a910-4bcb-b6ae-c7d575b4c31e,c240f844-85eb-47bf-a07f-e85fba84b03d,1906 Centre St,Boston,Suffolk,MA,2132,42.284878,-71.156341,America/New_York
+b6f8051e-e7ae-4aa0-b2f1-d11c30ab6f3b,867ee6bb-199f-4d68-82fe-54935dbb96bb,40 Dalton St,Boston,Suffolk,MA,2115,42.3465566,-71.0855717,America/New_York
+b7966f0d-229a-4800-9ad7-86ca36e395a3,4b415a32-2683-4332-8af1-665f6d42e800,7 Beach St,Boston,Suffolk,MA,2111,42.3513823,-71.0623335,America/New_York
+b79b187a-74a7-4015-aa5e-15f3f6af937f,ae2242ef-69aa-482a-ab87-60ec490b331c,139 Park St,Chelsea,Suffolk,MA,2150,42.3900135,-71.0363819,America/New_York
+bb3e1bd9-3d17-45b2-8e78-1d522b6d84f4,aa59d4f3-cc5d-4044-ac34-6ee93ee8b078,140 Broadway,Chelsea,Suffolk,MA,2150,42.3892235,-71.0406534,America/New_York
+bb535b6e-a541-4a8a-80c4-872abae192f5,5c40a945-e0a0-4e24-bcac-6374724f8609,305 Meridian St,Boston,Suffolk,MA,2128,42.3772893,-71.038982,America/New_York
+bba2148e-ee83-45b7-88ef-e24e0f5da276,db35b486-e519-46aa-87eb-55994a5dc8cc,359 West Broadway,Boston,Suffolk,MA,2127,42.3378694,-71.0496777,America/New_York
+bc2172a5-d78f-4362-9c43-b230f471967e,554a6cfd-a99b-44e6-af0d-025effcd99e6,99 Kneeland St,Boston,Suffolk,MA,2111,42.349625,-71.0602695,America/New_York
+bc44d6e7-6a99-47b6-821c-e3cbffa2aaba,fcf1e56b-8901-4aac-8c16-1132005a214c,487 Cambridge Street,Boston,Suffolk,MA,2134,42.3537285,-71.1370654,America/New_York
+bc4ca8d6-3a61-42b7-9991-1f2f23739d40,81c21957-de88-4752-9d9d-f7dad3c713bc,50 Revere St,Revere,Suffolk,MA,2151,42.4167756,-71.0072473,America/New_York
+bc7c4436-8277-4591-8577-00fa38dea8ce,6ef89ce1-ef95-42eb-a434-11cdc4071b49,445 Hanover St,Boston,Suffolk,MA,2109,42.3661463,-71.0525857,America/New_York
+b6279b43-8eac-4d7c-b1a7-6ea52ea6b536,f9d76946-4103-4a39-a9dc-3f2757da29b6,156 Blue Hill Avenue,Boston,Suffolk,MA,2119,42.31919,-71.077559,America/New_York
+beebfc2b-487c-489e-9e58-57a8be9d9f37,452a11e4-7fc0-402c-9b52-5aadcc296d23,31 St James Ave,Boston,Suffolk,MA,2116,42.350885,-71.0711018,America/New_York
+bf5b3928-dceb-4401-8c29-b80dbaf7f33e,ebe887e0-5971-49f8-a3ac-b5cbb3406173,51 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3497609,-71.0891266,America/New_York
+bfd40139-be4b-48ee-8e99-cbbb246c1524,8daa713f-1eff-4bea-a86a-9b9c02769466,210 Hanover St,Boston,Suffolk,MA,2113,42.3629262,-71.055595,America/New_York
+bfe2eba0-8eb8-412b-9a57-9684e4c41fb4,0e96c5a9-d5e2-443a-b534-8ec554aa9b9e,290 Bennington St,Boston,Suffolk,MA,2128,42.3790268,-71.0285931,America/New_York
+c0049d43-9777-4c4b-90d6-054082b6cf73,945e429b-4d7c-47bf-925a-4063e15b4cfb,182 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3458009,-71.0866845,America/New_York
+aa0ff0e5-951f-49b7-baca-f73429697adc,545a2aed-705f-4a34-9af6-30b7eaea41c8,278 Shawmut Avenue,Boston,Suffolk,MA,2118,42.3429145,-71.0689787,America/New_York
+aa17e69c-0752-4826-9b7d-8a475069aa0f,5626067c-563b-4726-994d-20401f44a457,333 Huntington Avenue,Boston,Suffolk,MA,2115,42.3406899,-71.0882985,America/New_York
+aa17e69c-0752-4826-9b7d-8a475069aa0f,b0686de3-aef7-4b6c-aab1-3b362ec4007a,31 Harrison Ave,Boston,Suffolk,MA,2111,42.3516658,-71.0613807,America/New_York
+a6db3c6d-7d5a-4178-8e95-e7558a428b02,38f7b95e-fba7-40b3-ac4c-3fbb2099e039,1509 Blue Hill Avenue.,Boston,Suffolk,MA,2126,42.2723688,-71.0938906,America/New_York
+a6ed5cbc-eb91-4666-8ac4-496fac8d15f3,9449c491-402d-464e-840d-e85dfb034942,412 W Broadway,Boston,Suffolk,MA,2127,42.3370569,-71.0476643,America/New_York
+a6f8090f-229e-4c32-8ede-36b934d450cb,a6835afe-514c-4279-9f9f-b5fd1876b699,7 Liberty Square,Boston,Suffolk,MA,2109,42.3581104,-71.0552736,America/New_York
+a7267a19-bfd5-4ece-86e2-ab3c08589d7f,0164d1ef-f426-4abd-9aa9-bc0b656130e3,377 Centre St,Boston,Suffolk,MA,2130,42.3224035,-71.1091315,America/New_York
+b9b77d6b-bbb0-437a-8a00-4691a59278f6,0952888e-0e88-4e7a-ae24-4a1a60c8cec7,130 Dorchester Ave,Boston,Suffolk,MA,2127,42.342351,-71.0569909,America/New_York
+a72b9f31-86e7-4abb-808d-4656a6bc9068,8c09cf49-c6a2-4ec3-b6a9-3396b0811343,290 Bennington St,Boston,Suffolk,MA,2128,42.379033,-71.028608,America/New_York
+a75a7899-1bc1-4b6a-b406-cd934ad6ed00,dd9a7c78-ee3d-4831-9efb-292b7953f23c,447 Broadway,Chelsea,Suffolk,MA,2149,42.3926748,-71.0343297,America/New_York
+a75eeccd-c541-4467-8de4-b40fc1aa5c16,46b3ef36-52ea-4fc1-bd53-d1e4dab22298,108 Brighton Avenue,Boston,Suffolk,MA,2134,42.352641,-71.130413,America/New_York
+a769d8d7-8740-45d6-b59c-d8f236398824,312be15d-2d16-41d4-b786-216a35e8e1b0,389 Maverick St,Boston,Suffolk,MA,2128,42.3657083,-71.0290342,America/New_York
+a7ea4de4-0cbf-489b-99a7-effe7caca812,e3f65863-2a82-44da-ae5c-e72e168a51c5,973 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3521,-71.119751,America/New_York
+a7f45e82-1d33-478f-96e6-44128f5da30a,49b6b78b-247d-4d53-bf34-dd567f16c2bf,535 Columbia Rd,Boston,Suffolk,MA,2125,42.3158794,-71.0659801,America/New_York
+b11bfbfa-d3fb-4423-9874-6ad3ad008db2,ff12bbcd-a348-4a21-a664-dc5710675a5f,70 Staniford St,Boston,Suffolk,MA,2114,42.3631455,-71.0643402,America/New_York
+b1b643b5-b5a0-4859-b602-07d3f181ec5e,c1ff5093-b354-4a9d-9224-a6eb538420e2,958 TREMONT ST,Boston,Suffolk,MA,2120,42.3373143,-71.0836938,America/New_York
+b1d3f970-af45-4151-a734-3c9b265cc8ce,b3b1f449-db94-4376-a386-65fb187a7cc9,112 State St,Boston,Suffolk,MA,2109,42.3593119,-71.0549386,America/New_York
+b205e982-0588-4eb2-80f7-b22062859cf0,7dbe0bed-30d2-44b8-9cb9-309256fd9449,140 Boylston St,Boston,Suffolk,MA,2116,42.3522881,-71.066189,America/New_York
+b255c272-0e59-4a70-a918-c7dc07866940,b7418ce4-8210-4542-bf23-8ddad45ff3b3,830 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.2962219,-71.0871959,America/New_York
+b28a166e-c1be-4f66-afc2-546f8e561710,5c11f12c-eaf6-431a-b20f-d43e183d9c92,"Avenue One, Hyatt, 1 Ave de Lafayette",Boston,Suffolk,MA,2111,42.3535194,-71.0610034,America/New_York
+c5afc88e-07d3-47fc-a415-453c985529b9,8b220032-3705-4ee4-8a16-cfd49183d132,1562 Tremont St,Boston,Suffolk,MA,2120,42.3329126,-71.101704,America/New_York
+c5dc7752-0aff-48ae-a457-52da9facee35,7559787a-1e03-45e7-8dd9-a0c65c8c3ce4,327 Newbury St,Boston,Suffolk,MA,2115,42.3488337,-71.086271,America/New_York
+c61db825-ba67-4fb8-b0f1-3d712161327c,a07a8fba-35b1-406c-bb88-a43dd6dcc507,777 William T Morrissey Blvd,Boston,Suffolk,MA,2122,42.2949355,-71.0484403,America/New_York
+c77d6ac8-72fe-479a-bd35-7583508e8305,9ae0aea6-1ddf-4d2f-b19c-90a4697ea89e,222 Friend St,Boston,Suffolk,MA,2114,42.364196,-71.0609699,America/New_York
+c6907b19-fb85-42b4-b378-8da22c8d71d1,4836ceaa-7991-4bf0-9d17-e5366caf541e,265 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3437307,-71.0863207,America/New_York
+c2211275-9420-428c-a4af-2207fd1958e3,2d2c94bb-6cc0-4dce-a1da-1dc916f6916d,291 Roxbury St,Boston,Suffolk,MA,2119,42.3303986,-71.094305,America/New_York
+c7a2edad-a6f6-43f4-8770-10e2699f5109,1e8c55dc-48f6-4ba7-9aaa-70b4f93edf36,661 Warren St,Boston,Suffolk,MA,2121,42.30952,-71.082896,America/New_York
+c24a7b8d-fa5b-468c-84fd-e45074d9acfa,be12a864-26b9-4ad8-96db-3b74dabda2f2,4337-4341 Washington St,Boston,Suffolk,MA,2131,42.283414,-71.131722,America/New_York
+c816ca86-3c7c-45b4-8b38-de78985bc8e0,2aab99e5-4cf2-4020-8126-304482ec259a,665 Washington St,Boston,Suffolk,MA,2116,42.351766,-71.0632409,America/New_York
+c278cc37-9d43-4a0f-903f-1cb74fff1339,4eade779-5680-45ce-9d09-c68a0f167922,92 Washington Ave,Chelsea,Suffolk,MA,2150,42.3961073,-71.0327165,America/New_York
+c81c40bd-7611-4214-ae60-4d918988ad49,b9ed431f-3731-4a46-a957-7589a53f081f,62 Summer St,Boston,Suffolk,MA,2110,42.3543574,-71.0585285,America/New_York
+c8914426-16ee-4005-845d-127e64a4d540,500e55cb-f0a7-4af3-b541-0f1b29b1ceb0,425 Revere Beach Blvd,Revere,Suffolk,MA,2151,42.4247068,-70.9830224,America/New_York
+c321e6d5-9817-43f1-8622-6e8de6da9834,9a8ca7dc-b1bf-4f2c-a8af-fa2d825c3d86,417 Washington St,Boston,Suffolk,MA,2110,42.3558635,-71.0604975,America/New_York
+c07f86fe-f04e-427c-be4b-144aca8c644d,613e87df-d3d5-4689-a654-2cea3f6a0aba,59 Meridian St,Boston,Suffolk,MA,2128,42.3717664,-71.0387962,America/New_York
+c099110d-ea22-4a55-9c02-a0825878cf2e,925fb6a9-f75e-4757-834c-1fb912e4c9aa,264 Hyde Park Ave,Boston,Suffolk,MA,2130,42.2925091,-71.1175338,America/New_York
+c0a30e45-7cd4-4c9d-bf80-790280a707fc,c711c5e4-196d-4d32-914c-b21ffb7a1d41,783 Adams St,Boston,Suffolk,MA,2124,42.28337,-71.055838,America/New_York
+af5903a7-438e-45d9-b32e-befcd3ad4471,1920bf32-7ff9-4816-9b60-cc6d5830def9,302 Centre St,Boston,Suffolk,MA,2130,42.322717,-71.103231,America/New_York
+af5ea98e-7597-463e-a450-e9676154667d,5dcb7405-b651-4eb6-9dab-b0d1e592571a,1592 Tremont St,Boston,Suffolk,MA,2120,42.333455,-71.1031431,America/New_York
+af670e02-6a90-4c60-8d40-a46bc29271a7,2e4209f7-bf52-428e-bbf7-a800bea753ae,224 Boston St,Boston,Suffolk,MA,2125,42.3222649,-71.0608499,America/New_York
+c0f11063-5fe9-49f8-9ecc-e5606949c238,a7f70593-9bba-4264-9eb6-602f34531e40,"1249 VFW Pkwy, 1249 Veterans of Foreign Wars Parkway",Boston,Suffolk,MA,2132,42.2771903,-71.1726869,America/New_York
+afb6e838-e637-4789-a455-512bb3ea73e7,00cc8ee6-91db-4b64-a093-27fe68f9ba92,205 Winthrop St,Winthrop,Suffolk,MA,2152,42.3763079,-70.9836313,America/New_York
+afccdb56-b460-48ea-8d62-e9eb525e9259,21e3e92b-5545-459f-9fa8-fc706e39195e,102 Water St,Boston,Suffolk,MA,2109,42.3581726,-71.0549454,America/New_York
+c12ebdd3-c822-4444-a917-3dbb6829d86c,fa8e2a44-62af-48a2-8ec6-236e4174a0b5,651 Warren St,Boston,Suffolk,MA,2121,42.3097753,-71.0830532,America/New_York
+c1b4f0f7-37cf-4799-a128-0f7db6cd0e3c,984e5f30-aa4a-47cd-87be-47259ac3ae66,1016 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3514795,-71.1215056,America/New_York
+c1b5d53b-5139-475d-90dd-165aff5129af,08621619-e2a8-45c4-b071-9c24bfe1fbca,25 West St,Boston,Suffolk,MA,2111,42.3547748,-71.0623762,America/New_York
+c1cf02ce-bb3a-42fd-bcc1-822d1ff64e4e,23c3f697-87a2-4549-9e48-e8d8df28e837,63 Stuart St,Boston,Suffolk,MA,2116,42.3512589,-71.0644016,America/New_York
+b0ad6dcb-87df-4fa5-ad43-fc565574b837,fc3887a1-8d7a-41ea-87c8-bed54d365fe0,182 Sumner St,Boston,Suffolk,MA,2128,42.369298,-71.040332,America/New_York
+b0b7a315-1768-4013-8af5-1b687cc488fc,ca06a317-478f-4b2f-ace9-018220a8866e,16 Everett Ave,Chelsea,Suffolk,MA,2150,42.3909286,-71.0385873,America/New_York
+b2d7b21f-62b0-4d4e-a2d2-e2539c3d14f4,f9371040-587e-4bfd-a4c0-7adc237ee2c5,450 Cambridge St,Boston,Suffolk,MA,2134,42.3538856,-71.1356491,America/New_York
+b2dd76ae-71db-46e2-b835-348839a64709,03b369f8-7351-4f32-abc5-212592e3e00c,75 Exeter St,Boston,Suffolk,MA,2116,42.3487634,-71.0791753,America/New_York
+b2fd6d2e-b010-41ca-8c80-0b5f7f89a9a2,14f49d94-4088-4813-ab5e-571bfc35bba1,185 Dudley St,Boston,Suffolk,MA,2119,42.328226,-71.082008,America/New_York
+b32ee45f-f168-4730-828b-0170f250ecf4,ea61ed55-1e08-45bb-a7b8-a38ae08df61f,276 Friend St,Boston,Suffolk,MA,2114,42.3647143,-71.0615643,America/New_York
+b35343c2-45ce-41ae-8996-47569c3794ee,bc73b460-2ce0-4009-8d97-a7799a98236b,107 Salem St,Boston,Suffolk,MA,2113,42.364189,-71.0554643,America/New_York
+b4240aff-3a0f-46af-b86c-36eeeab0df40,d82725ff-6e5e-45d3-b60f-57de288fce22,145 Charles Street,Boston,Suffolk,MA,2114,42.3603666,-71.0706012,America/New_York
+b44a2620-e2be-4bcb-8b44-c2246d840899,347754c2-2368-48ea-8f2a-90c3e794ff06,210 Hanover St,Boston,Suffolk,MA,2113,42.3629212,-71.0555919,America/New_York
+cfe3dc21-8966-4b3a-a02c-14d4bbbb60d9,54dc90b2-02ef-41a1-be72-bbe00aecc96a,6 New St,Boston,Suffolk,MA,2128,42.3709832,-71.0443156,America/New_York
+d028934a-bea3-480e-bdb1-013384517529,d5d94f95-95b4-44c9-b42e-1b720691ffd0,59 East Springfield Street,Boston,Suffolk,MA,2118,42.3354258,-71.074788,America/New_York
+d02cb247-9e11-4d8c-af99-506e05fb9f63,e3e4b706-5672-4736-89ec-b18555ba3cf0,100 High Street,Boston,Suffolk,MA,2110,42.3542769,-71.0552533,America/New_York
+c6e99b3f-789d-471d-9157-34e239014d1a,413782ab-d88e-4982-af20-29e0512ceee3,105 Salem St,Boston,Suffolk,MA,2113,42.3640114,-71.0555107,America/New_York
+d09843ee-0c21-4c1e-b4c1-1ad28860f428,34157ad8-cef9-4b73-889e-cfd3a361a3e5,4249 Washington St,Boston,Suffolk,MA,2131,42.2857214,-71.1292568,America/New_York
+d0f62a49-5646-4d86-a9ea-9355bbb45bf1,88f826b7-1399-498a-ba09-9e09425d99c5,160 Brighton Ave,Boston,Suffolk,MA,2134,42.3528651,-71.132669,America/New_York
+d10a86f9-30b4-474d-9bd1-01e03614bc86,dd1d1c65-492b-4c34-b1db-7a015f9c3caf,272 Newbury St,Boston,Suffolk,MA,2116,42.3491019,-71.0834227,America/New_York
+d14fa5f2-ef1b-4b38-b60c-b9215827f7cf,d4d4b4f9-5662-415d-8621-6aacf0713862,157 Harvard Ave,Boston,Suffolk,MA,2134,42.3516113,-71.1319492,America/New_York
+d15f3a69-f3e6-4dc7-b087-f739d4770215,4c070262-595a-4155-870f-a0dac12ff1a1,750 Washington Ave,Revere,Suffolk,MA,2151,42.4296776,-71.0228008,America/New_York
+b28d9335-a589-4562-b54b-069a2bb5dbf1,d1fc7516-329f-4593-af1c-4b6d50105037,116 State St,Boston,Suffolk,MA,2109,42.3592763,-71.0547639,America/New_York
+b2aabf7a-bdf3-47c1-8297-f84a82a41dc4,fdb58b38-4ce3-4e93-9dbc-d29a00a84199,19 Poplar St,Boston,Suffolk,MA,2131,42.2864375,-71.1289475,America/New_York
+bde1c190-0a2a-4262-8d48-8a5d21ffeaa1,9c785f6e-5a0e-4204-9d22-f657394231d7,18 Fairmount Ave,Boston,Suffolk,MA,2136,42.2556731,-71.1208773,America/New_York
+be1ae4b2-fd5c-4fde-9048-d0b4fae4de0e,648f512d-2396-4638-af0a-e059b0b70508,2 Corinth St,Boston,Suffolk,MA,2131,42.2867913,-71.1305851,America/New_York
+cee2544e-f2c4-4c15-a611-1626614b8da1,c7fbe336-986c-461f-8d4b-0d5f41f8d92f,1348 Boylston St,Boston,Suffolk,MA,2115,42.344064,-71.099304,America/New_York
+cf14cf80-a2a2-4d63-a19a-3e92e76436be,765d02b2-8b55-47bb-b2ce-7fbe430da87f,180 Lincoln Street,Boston,Suffolk,MA,2111,42.3505705,-71.0584625,America/New_York
+cf5a9a15-f78a-4fd9-9631-0734e87d1365,6afa308c-2775-4b69-9c6f-b9bc897bbc23,160 Blue Hill Avenue,Boston,Suffolk,MA,2125,42.31919,-71.077559,America/New_York
+d18bc1c9-38b0-4dfb-ba70-5255708c9cff,923db53c-3db0-4e10-b0b0-5b8eb98289e5,108 L St,Boston,Suffolk,MA,2127,42.3340511,-71.0350818,America/New_York
+d370eb7b-6863-4bac-8352-9fd512a34ada,81f1d07d-f138-4ef5-a154-2f02d5f2bd2d,639 Tremont Street,Boston,Suffolk,MA,2118,42.342376,-71.075189,America/New_York
+d44af77f-a76e-4fa4-92bd-e688eb247b88,cdd3f4b6-934a-4648-8a8a-150824b83bab,225 Franklin Street,Boston,Suffolk,MA,2110,42.35582523,-71.0541705,America/New_York
+be72b120-f7e9-4198-b0f2-8db0361f48a8,b4a1f4fa-12c6-4145-b120-47f2824cc8e8,660 Washington St,Boston,Suffolk,MA,2116,42.3518168,-71.0624516,America/New_York
+d47279c2-3b2f-4e8a-9bca-1c85d701c7b9,babcc1d6-6ad5-4f3a-9558-858960a2fecd,1761 Centre St,Boston,Suffolk,MA,2132,42.2875662,-71.1506912,America/New_York
+c42487c9-5a6f-4964-9f6e-8188f0020d0f,a1f0a83a-0d07-4c62-a0b5-ae9248bfe271,811 Massachusetts Avenue,Boston,Suffolk,MA,2118,42.3326001,-71.07283557,America/New_York
+c4662f37-5cbe-4905-8d6e-27e7dc5f60a8,d889169b-6398-40f4-a233-51065db9450c,145 Tremont St,Boston,Suffolk,MA,2111,42.3553111,-71.0629159,America/New_York
+da3216f0-3796-4c6b-92be-712b176c3e47,35a444d8-37a8-438a-8d9c-d2d705d074bc,1583 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3442509,-71.1430659,America/New_York
+da3c0bc6-0c24-4d19-8479-118a6fa208bd,1c783274-87cb-4497-943c-dbb5eb198712,"South End, 2140, 1357 Washington St",Boston,Suffolk,MA,2118,42.341577,-71.069312,America/New_York
+da4c181a-5bf6-4913-9c40-3dc412adb3b4,957efcf1-4456-45db-8aac-478fe0634c72,16 Bennington St,Boston,Suffolk,MA,2128,42.3753183,-71.0383507,America/New_York
+da5269a8-67b1-4ce8-a952-07985819a098,83e5bb43-00af-4e74-926d-66fc7b74ab11,169 Squire Rd,Revere,Suffolk,MA,2151,42.4242193,-71.0098694,America/New_York
+da5dc4b1-ed89-4fc3-b1b9-4031f7873246,7894c700-38da-4750-8e04-1e67a9dbb4e3,750 Adams St,Boston,Suffolk,MA,2122,42.2839581,-71.0553018,America/New_York
+da7c0f6b-d162-4e10-ba5e-f99ae1dda12e,28952bdb-3cda-466d-ac07-390b1ff18fe0,472 Shawmut Avenue,Boston,Suffolk,MA,2118,42.3385077,-71.0759468,America/New_York
+da88668a-6e1d-46c0-ba92-063492455c28,51712e81-4938-4169-a03e-fc3a386a701b,116 Huntington Ave,Boston,Suffolk,MA,2116,42.3465172,-71.0797918,America/New_York
+da8ef333-482a-43a6-8ab7-e3b89fbdc20c,3bceddbf-1809-47e8-b51d-d7534772f606,1597 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3440262,-71.1431531,America/New_York
+dc62ab04-964f-44b4-9132-7b8f8945d38f,70b36502-9201-40bd-a4a5-021d615b69c6,1 Monument Ave,Boston,Suffolk,MA,2129,42.3736651,-71.0624264,America/New_York
+dc92cba4-2f8a-4bd0-8618-2301ce920203,612b5999-7286-4cd1-a825-8cb6e375f800,50 Corinth St,Boston,Suffolk,MA,2131,42.2858875,-71.1292681,America/New_York
+dca61c45-5311-4b54-af96-868f832d74db,a05e4ca3-8ee4-4c4f-af2f-3103d8736e54,750 Washington Ave,Revere,Suffolk,MA,2151,42.4296776,-71.0228008,America/New_York
+db0fd522-9c01-4eeb-b527-b759725709ca,0a8881b2-c5e9-4497-8e30-abef741d9e34,76 Brighton Ave,Boston,Suffolk,MA,2134,42.352439,-71.1288263,America/New_York
+dce83cea-3c8b-4d06-bb19-1fe2349a6028,5db4a2c6-09d3-4bad-9685-709945f69480,224 Newbury Street,Boston,Suffolk,MA,2116,42.349713,-71.0811499,America/New_York
+db4fac7b-4de0-48ad-8731-0dbc46ed30d4,f4519019-c050-4837-97a9-9e01e3eb4a45,75 Chestnut Street,Boston,Suffolk,MA,2108,42.3569539,-71.0710041,America/New_York
+dd251542-fa43-4ff3-aafe-b62f46f18f8c,15bb645a-b99d-401c-be84-2a130b440edd,48 Temple Pl,Boston,Suffolk,MA,2108,42.3551842,-71.0616609,America/New_York
+cc5cb92d-60cf-4d25-b979-f4558db2847b,b5745575-87e8-4e50-a122-663d31db0999,90 Oliver St,Boston,Suffolk,MA,2110,42.3564355,-71.0524128,America/New_York
+dd3b792b-9470-45ca-9708-92d44c5db047,af46c54b-0077-41a7-be25-29a00e2d0b21,44 Batterymarch St,Boston,Suffolk,MA,2110,42.3575648,-71.0538393,America/New_York
+ccc464ce-0c80-4f24-ab60-5429fe409cfe,035aeb52-b2d0-4562-8478-d02d3bf1af9a,25 New Chardon St,Boston,Suffolk,MA,2114,42.3620536,-71.0617552,America/New_York
+cceb0629-9573-4460-8fe2-59f9b891f61b,6c4392ab-9ec3-4b4f-a86c-74e43a66c5fd,26 Chandler Street,Boston,Suffolk,MA,2116,42.3469562,-71.0705313,America/New_York
+cd0c69db-ea97-4656-a0a0-d4a352104f36,bd082365-5472-4e60-9891-c8ea582b3da0,1885 Centre St,Boston,Suffolk,MA,2132,42.285955,-71.155876,America/New_York
+cd33366f-377a-4240-945e-a49642c04a3c,de4915c2-bf24-4a6e-be52-116cb1a3f0af,1250 Boylston St,Boston,Suffolk,MA,2215,42.3450115,-71.095344,America/New_York
+cd5da97b-98b3-441b-a2a1-2c5f5446d362,57e34410-aeaa-4ec2-922a-e0beb8cdafae,23b Tyler St,Boston,Suffolk,MA,2111,42.3507606,-71.0609683,America/New_York
+cd7d3acc-adbc-433c-bbe8-4bbc6c0410b6,32bb87c4-ba92-40e6-801c-f618d090a904,388 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.3113531,-71.080899,America/New_York
+cdc52563-f3c6-4034-b238-451ecd655fec,ced69cc7-e3ce-46ca-9d2b-a4158292c571,"1148 MA-1A, 1148 N Shore Rd",Revere,Suffolk,MA,2151,42.4176931,-70.9908538,America/New_York
+cad26ed5-2cb0-4722-9cfe-3bed20092e5a,ce682336-56db-4370-a8fa-8173892eaf65,772 Tremont St,Boston,Suffolk,MA,2118,42.3394053,-71.0797539,America/New_York
+cadf19ff-a7e8-485d-bb7c-5b940e0be66e,fc5e036b-2d2b-4a83-8cc8-2e5ee545fd18,"Eagle Hill Cafe, 1 Marion St",Boston,Suffolk,MA,2128,42.380427,-71.0389772,America/New_York
+d6a9e86a-f9ac-4afa-a26a-1d3a8d9f1bb4,92fe2acd-33f7-431c-be50-31b06a1f521c,691 Broadway,Revere,Suffolk,MA,2151,42.415589,-71.0084996,America/New_York
+cb069921-5544-46ba-85d1-99be1a5d29b0,4277dda6-2f5a-4b7b-9da7-cd30eeb67b4e,258 Broadway,Revere,Suffolk,MA,2151,42.407714,-71.0141412,America/New_York
+cb2abf50-a060-4034-a182-4d8f73445a3a,17483e0e-ec1e-4f9e-9034-d67f9bc95e2e,491 Blue Hill Avenue,Boston,Suffolk,MA,2121,42.308373,-71.083669,America/New_York
+d72cda7c-4bed-494c-9627-834a2c50feb9,1de67e54-4a01-44ca-a546-5fa58a55cf97,1936 Beacon St,Boston,Suffolk,MA,2135,42.3361705,-71.1498636,America/New_York
+cb9ea7de-fc61-48a2-8fc4-ca99ee2dffda,aec23384-9bb1-479e-9250-7ffc73f6c1d9,120 Kingston St,Boston,Suffolk,MA,2111,42.3522851,-71.0591088,America/New_York
+d7641774-8582-496d-80d6-25eb4bf94f24,8fdaa6b3-5e11-46ab-aad4-61223f388080,480 Columbus Avenue,Boston,Suffolk,MA,2118,42.3428378,-71.0786083,America/New_York
+d7d181f5-a0ca-45f1-ad29-a0b091be74f8,d8dc98e1-a7cc-4376-890d-5327ebc81e86,220 Columbia Rd,Boston,Suffolk,MA,2121,42.3074566,-71.0764714,America/New_York
+d4e2cb0a-40e3-484d-bc49-44f90163fd72,5003d1be-86ea-4dd7-8ae1-89e2eb14c008,185 Franklin St,Boston,Suffolk,MA,2110,42.3556623,-71.0551085,America/New_York
+c8f73898-5c8b-4d1f-a6b7-17bddff6cc2d,6d284e36-e202-479f-bc3a-c35e3d26179b,38 Hyde Park Ave,Boston,Suffolk,MA,2130,42.2987968,-71.1141032,America/New_York
+c8fe2652-cc76-460b-82a6-53ddb5f7ade7,caf80b14-5b3e-4c27-9eb5-075f21a03dbb,736 Huntington Ave,Boston,Suffolk,MA,2115,42.3337121,-71.1053597,America/New_York
+c937aca0-07f4-454c-afa5-832b85a87c22,164c3109-8672-47a1-8f4d-40225d7268b4,4168 Washington St,Boston,Suffolk,MA,2131,42.2878476,-71.1264001,America/New_York
+c9388f0a-e6be-45c2-96ba-c45c90ffbfb0,d35d1440-c8e7-412a-8df6-03f26128d809,433 Washington St,Boston,Suffolk,MA,2135,42.3493378,-71.1567996,America/New_York
+db9d3720-f0e1-429f-af31-c7653373a49c,4a8bcc53-be4a-4d89-8861-40ce83230a1b,"57 W Dedham St, 57 West Dedham Street",Boston,Suffolk,MA,2118,42.3420446,-71.0729183,America/New_York
+d8618c3f-a12d-4ef4-8c9c-989e6701a6fc,038efd02-e49f-44ef-b4b0-9dd2477599b8,650 Atlantic Ave,Boston,Suffolk,MA,2110,42.351979,-71.0550752,America/New_York
+d8686d3a-a5c9-4382-8a56-9c2a6638fb8a,b4db9ab2-243d-4198-9fa3-b323e5853e55,145 E Berkeley St,Boston,Suffolk,MA,2118,42.3436254,-71.0648098,America/New_York
+d8c83c56-e42a-4e26-8ce5-88e10f1fc209,2ac4724b-7950-49b8-8a7b-68119e89dbdc,400 Neponset Ave,Boston,Suffolk,MA,2122,42.2864964,-71.0437505,America/New_York
+c53f770f-77a3-410f-b9d4-ec12edefc924,f2a81155-8f3d-4f0e-af9c-79180a65a0ac,764A Huntington Avenue.,Boston,Suffolk,MA,2115,42.3333167,-71.1060443,America/New_York
+d981cbaa-4c10-4400-a606-ba565c2ad320,e50a6371-25da-46b0-a1d1-f1166d3733ff,1696 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.341217,-71.1465565,America/New_York
+d99734c7-3d62-4f25-a8e0-86f0fba5352a,a2a9e88a-5afd-44eb-9f5f-9e598a7a4aaa,168A Brighton Avenue,Boston,Suffolk,MA,2134,42.3529659,-71.1329114,America/New_York
+d1b2ebf8-b31f-44f9-be99-c845727787af,d2be6d60-3131-4988-bc66-c0e57a2e27e3,1095 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.352572,-71.1254485,America/New_York
+d1b656eb-0c72-4948-a08a-c0ca0f8c0bbd,24841f56-ba43-4f34-9971-fe9770e82be3,592 Tremont Street,Boston,Suffolk,MA,2118,42.342955,-71.073042,America/New_York
+d24dc5f1-b874-41c0-878e-d254efdc61cf,415721ed-d641-4f45-b447-0f2ecee8fc76,945 Saratoga St,Boston,Suffolk,MA,2128,42.386556,-71.0091497,America/New_York
+d2811d8d-4925-45d3-bc10-32624033adb3,aa1b832b-b612-4fab-84f1-1816c1419e9b,64 Seaport Blvd,Boston,Suffolk,MA,2210,42.3528602,-71.0466196,America/New_York
+d289e31a-2204-482b-adb5-65eafce11216,c8bc2cbb-a063-48c7-9f50-38915b871e5f,27 Columbus Ave,Boston,Suffolk,MA,2116,42.3511635,-71.069033,America/New_York
+d54fa20f-5e26-4e72-b93a-c99f33b67c6d,babecd0c-6da7-486b-b050-5139c037ed53,5272 Washington St,Boston,Suffolk,MA,2132,42.2591885,-71.1592292,America/New_York
+d5945ff7-40a3-4848-b312-368cc91873f2,1072a166-15f5-42e3-b13e-c6154a26406b,257 Norfolk Ave,Boston,Suffolk,MA,2119,42.3237247,-71.0680925,America/New_York
+d2e3b9f4-d183-4459-b4a1-9c9721608dfc,2e5e9f3a-4000-4bc6-b351-9195da8b8cd3,1363 Boylston St,Boston,Suffolk,MA,2215,42.344093,-71.1003177,America/New_York
+d30346ca-bdf4-41f4-8b3e-9429198774fb,589af64a-7b45-45fb-a7bf-84ea75802368,1263 River Street,Boston,Suffolk,MA,2136,42.256027,-71.1238818,America/New_York
+d5cad708-864a-4abd-be30-09c2d3f19b7a,27fc700e-0571-492c-988a-59b43ee498be,738 Huntington Ave,Boston,Suffolk,MA,2115,42.3458009,-71.0866845,America/New_York
+d5dacf11-f053-4e7a-bf47-bbfdba30cbb5,a733f557-9ab8-4862-a5b3-9608a74a87d1,38 Batterymarch St,Boston,Suffolk,MA,2110,42.3576042,-71.053959,America/New_York
+d5f1f644-f8df-4a85-849f-12d8c1827837,96d5d236-d3bb-4d42-a86d-12d1d567679c,172 South St,Boston,Suffolk,MA,2130,42.3039806,-71.1145163,America/New_York
+d643c958-9646-439a-a33f-8b7f47a42e55,fd413e77-2711-4cdc-891c-151db01af76b,85 Causeway St,Boston,Suffolk,MA,2114,42.3645532,-71.0622659,America/New_York
+b7f83770-89c9-4054-ae9d-5ab870b28cd2,9eec2b5a-3519-4a3d-bef2-05986cfea97f,50 Queensberry St,Boston,Suffolk,MA,2215,42.3425143,-71.0972567,America/New_York
+b83a94a4-6593-4184-b386-034a0799c670,ab29b617-2eb2-4d68-a555-84af7e4ca056,154 Chestnut Hill Ave,Boston,Suffolk,MA,2135,42.3415176,-71.1541534,America/New_York
+b87614c7-4854-4ed4-96b9-6b639ac6bfb5,f52d4ab0-310f-4090-9956-1d0b61d801d0,13 Hudson St,Boston,Suffolk,MA,2111,42.3507937,-71.0602115,America/New_York
+b884822c-b473-490c-9fc6-b12d276c4df0,4ba7a9b2-fb91-4006-8b67-2497aea8ed3e,1745 Centre Street,Boston,Suffolk,MA,2132,42.2874502,-71.1502849,America/New_York
+ca8d49a8-ca53-43b6-a757-8dcf127ae5b9,674bc2e1-b57f-45fd-bde4-27122b8e539e,1331 Dorchester Ave,Boston,Suffolk,MA,2122,42.30525,-71.059195,America/New_York
+b8ad0665-118a-4456-a9c8-022b9f81b6b0,cb7b976e-f566-4f6b-ba55-2011d30ba553,304 Centre St,Boston,Suffolk,MA,2130,42.3227181,-71.1033699,America/New_York
+b8b3cae5-1f22-4ac7-94b9-18c8d79c952b,194971f6-1781-4e00-8e0b-b09d081e5c55,82 Lansdowne St,Boston,Suffolk,MA,2215,42.3470429,-71.0982933,America/New_York
+e4b75e4c-8840-49eb-948e-9034537a0ff8,1b74cfaa-a79b-4719-ab97-27d2e6bd577a,229 Brighton Avenue,Boston,Suffolk,MA,2134,42.3535145,-71.1357631,America/New_York
+e509f6bd-7557-4347-956d-06d5bb7a99b3,eb59cdb8-5b82-44d1-a288-0211b780b100,476 Saratoga St,Boston,Suffolk,MA,2128,42.3801725,-71.0272079,America/New_York
+e50fe958-5f77-412d-b04a-a87f17a1beba,8157b83d-8699-4777-963b-096d8411f1f7,746 Huntington Ave,Boston,Suffolk,MA,2115,42.3336656,-71.1055472,America/New_York
+e512ff5c-a7b0-464d-889d-c7248d9e9986,53636d10-051f-4b24-a08a-a19ed428b02c,316 Cambridge Street,Boston,Suffolk,MA,2114,42.36093,-71.068962,America/New_York
+e5350f04-1bc3-4475-951e-a6e9f9a9cee4,d593bf95-f094-43bf-9622-ae89c84fac55,"Tambo 22, 22 Adams St",Chelsea,Suffolk,MA,2150,42.4049737,-71.0293356,America/New_York
+e54dba35-fc6a-4479-b565-3850d53a0cea,dc849e1e-e8c4-4b62-9fe9-36105347f341,5 Crest Ave,Winthrop,Suffolk,MA,2152,42.3862454,-70.9758801,America/New_York
+e56a8edb-d165-4f75-b3b5-3174834ed22f,b84f2cdd-ff34-492e-8552-5f7f14ab2576,2060 Centre St,Boston,Suffolk,MA,2132,42.279758,-71.158378,America/New_York
+e5ca9581-6706-4ca4-a3e7-7aa4c5578e39,ab610cb4-07cd-468f-a45d-e5b4d43f0aa7,84 Harrison Ave,Boston,Suffolk,MA,2111,42.3507896,-71.0612335,America/New_York
+d320a514-796b-46cb-9834-6d8aaa0ef0b0,4d1e7c13-33a6-46a0-9c8e-0394cedf3dbf,55 Everett Ave,Chelsea,Suffolk,MA,2150,42.3926959,-71.0387455,America/New_York
+d325e41c-870a-4705-ac84-9df2098e12cf,6a58999a-3fb3-4b28-a0c8-1b37b0bf089b,753 South St,Boston,Suffolk,MA,2131,42.2871965,-71.1292549,America/New_York
+d9ef6cb6-a969-4613-9c73-9a6f2432267b,064b5bda-c0d8-4d47-a2e5-e9068ffeae1d,99 Cambridge St A,Boston,Suffolk,MA,2129,42.3825349,-71.0792347,America/New_York
+e10ea32b-3529-4210-8567-78f4d1c487f6,13e6c0a6-2b2f-4228-89ea-28fbadbaa67c,380 Chelsea St,Boston,Suffolk,MA,2128,42.3793504,-71.0281007,America/New_York
+e123b368-b9ba-4951-9c5a-3f905ce3a823,01a90882-2648-473c-8fdc-62183effd8b0,403A Centre St,Boston,Suffolk,MA,2130,42.3216077,-71.1103052,America/New_York
+d67c555e-0d04-4d2f-a1bd-19165b123089,0ffa05e6-75e2-46d9-b18d-921d579d4282,304 Newbury St,Boston,Suffolk,MA,2115,42.3486766,-71.0851068,America/New_York
+d69049be-086f-4053-bc77-f634c57c2706,50b85874-e20c-4417-a71a-4a7272666cdc,25 Drydock Ave,Boston,Suffolk,MA,2210,42.3442774,-71.0289819,America/New_York
+e1a3cf51-9b4e-4130-8df5-6fe1e5c32d2e,7837be69-0be5-4526-b0b8-7f571dc11cb9,1100 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.286903,-71.0902009,America/New_York
+e1cd02c0-6644-436c-a785-33c83e5cfc43,94894f9f-0a2b-4597-bed8-98f346e6bdaf,1920 Beacon Street,Boston,Suffolk,MA,2135,42.3365747,-71.1493509,America/New_York
+e1ed8724-8a65-4d5f-a94b-c7f1669bb45d,366e8081-b6eb-48f2-b08b-3c6916b2a155,366 Washington St,Boston,Suffolk,MA,2135,42.3489906,-71.1538177,America/New_York
+e1ed8724-8a65-4d5f-a94b-c7f1669bb45d,5e5ca558-b6e8-4452-b49a-d09af59683be,1743 Centre Street,Boston,Suffolk,MA,2132,42.2874898,-71.15022,America/New_York
+e202c636-7224-4c07-bcb5-78326f04e5e5,13ddcffa-d8cf-4d3e-800e-c11991328bd5,682 Tremont St,Boston,Suffolk,MA,2118,42.341005,-71.0766835,America/New_York
+e2093d87-4771-4da1-87ef-183d25c90799,de23ff6f-860e-4197-af31-9130f3ac70f0,15 Arlington St,Boston,Suffolk,MA,2116,42.3528364,-71.0715979,America/New_York
+e9bb3a06-ba85-402c-825c-69921f092bee,ce8f620f-0fbc-4bfa-8b64-c6c5b6e8a111,95 Summer St,Boston,Suffolk,MA,2110,42.3537982,-71.0584511,America/New_York
+ea263c3e-dabb-4f2e-81d8-bb838b8ff1b0,2cfe7f0a-016d-4402-9ab1-8e34d6ade6ea,11 Elkins St,Boston,Suffolk,MA,2127,42.3395577,-71.0361265,America/New_York
+ea5b90bf-2ed5-4688-96a3-a3e868cdccf7,322ff9a7-8748-4d33-b019-ec4b83524eae,333 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3423293,-71.0847709,America/New_York
+ea973ec6-341c-48ea-bf74-c4e50d90c51b,3eaefaf9-624f-4398-b89f-ba535eddcf60,305 Meridian St,Boston,Suffolk,MA,2128,42.3772893,-71.038982,America/New_York
+eac24607-e289-4ee9-bb33-974494126ccb,b0ffbcae-5f0b-41f3-8d07-202533eef21f,110 Causeway St,Boston,Suffolk,MA,2114,42.3656736,-71.061672,America/New_York
+eaf983a9-37d3-4613-9c10-0ff381ad81e8,bbc0913f-18f3-4704-87d9-7e9ef0771f07,313 Meridian St,Boston,Suffolk,MA,2128,42.3774861,-71.0389936,America/New_York
+dda22364-260d-4ddd-9815-29293b205d61,19dd99ed-c149-4f9d-8a84-7ed90cc1a583,294 Newbury St,Boston,Suffolk,MA,2115,42.3487579,-71.084707,America/New_York
+deb817a7-3223-4739-91c2-b950fc0ef183,4eeea517-3a63-46f2-a56b-219908c1499d,339 Meridian St,Boston,Suffolk,MA,2128,42.3783023,-71.0389936,America/New_York
+debd9a9a-2904-440c-8a20-1db7f9c20393,255886f5-3d45-48ff-b97a-d4a2a716dfa4,254 Newbury St,Boston,Suffolk,MA,2116,42.349288,-71.082729,America/New_York
+e2853da6-946e-4d7f-b4c0-7ed196de4d45,15607960-ebd4-4eb9-a741-33f4795ccdae,284 Centre St,Boston,Suffolk,MA,2130,42.3227907,-71.1020289,America/New_York
+defbd24d-96e5-4eb8-912a-6508c567e2b2,a38e35d1-7d80-4310-a574-2923480501e0,"15 N Beacon St, 15 North Beacon Street",Boston,Suffolk,MA,2134,42.3541199,-71.1378479,America/New_York
+dfd60503-e446-4318-9267-712e32548809,953e7800-7e38-43b1-8d0c-a93000bfedbb,568 Cambridge St,Boston,Suffolk,MA,2134,42.3522956,-71.1405002,America/New_York
+e034d298-50ff-4aa1-a959-53018435a7b9,7ebc443f-224e-44d1-b426-3dbb2004b408,40 W 3rd St,Boston,Suffolk,MA,2127,42.3423917,-71.0538167,America/New_York
+e044b6ed-c7ec-4d3d-bf31-2a789eb9518a,c77521c9-2306-4d0c-b73a-3c0cb623e8ed,914 Beacon St,Boston,Suffolk,MA,2215,42.346663,-71.1062613,America/New_York
+e09b15b9-af0d-4b1b-8829-8e0253abec1c,5bb52fa6-b817-4730-81c1-96c47a87b033,107 State Street,Boston,Suffolk,MA,2109,42.358934,-71.0549472,America/New_York
+e0a7b193-53fa-466f-beea-179c59d55681,6eecd2ea-6b01-4bfc-be00-903f916a0409,1217 Commonwealth Avenue,Boston,Suffolk,MA,2134,42.3507944,-71.1309336,America/New_York
+e2ed0724-9332-4e7a-a48f-f4eb90a3161d,cf6fa74d-c63f-4267-8e11-f429b2a6a6ad,154 Harvard Ave,Boston,Suffolk,MA,2134,42.3517028,-71.1315331,America/New_York
+e31842f3-be96-44cc-82e0-50107ee01820,4c5754e6-19ac-40e3-896c-8ceac754b560,374 N Market St,Boston,Suffolk,MA,2109,42.3605893,-71.0542758,America/New_York
+e3f7fae3-fcb3-4e9a-bbb9-4c135a386463,508acb0d-80eb-403b-9d4c-765fce81039f,260 Longwood Ave,Boston,Suffolk,MA,2115,42.3369505,-71.1041268,America/New_York
+eb1e613c-89e8-4ce9-bdf7-2a771f38fefa,638167d0-6873-4f6b-b8ec-d8ad6c510e95,"Hotel 140, 140 Clarendon St",Boston,Suffolk,MA,2116,42.3486305,-71.07446,America/New_York
+eb28dba1-6a42-413a-a849-6418f58f5606,fd58b711-a95c-4e48-9e62-09c0b2b4d5b5,5 N Square,Boston,Suffolk,MA,2113,42.3639834,-71.0535682,America/New_York
+eb3f571d-168a-41e1-b39b-17ab1d8ad395,32ae7e4b-612f-466f-9724-b59ba3e7562a,15 Beacon Street,Boston,Suffolk,MA,2108,42.3582181,-71.0618648,America/New_York
+ed08c460-9bf8-4e99-9569-5e4def030337,2c67f2f5-0ec7-4f0e-9fb0-faf2d70e65c3,477 Shawmut Avenue,Boston,Suffolk,MA,2118,42.3389202,-71.0759974,America/New_York
+ed364eac-ff69-4ec7-b126-b7a6f853d4f2,ad337493-ad55-46b6-bb0d-55c816d3146f,1282 Hyde Park Ave,Boston,Suffolk,MA,2136,42.2552764,-71.1239883,America/New_York
+ed49efc2-866a-4a94-8f63-58c209056923,1b8605f0-fd12-4e8f-a076-eacf6ba8e993,1345 Hyde Park Ave,Boston,Suffolk,MA,2136,42.2530505,-71.1251468,America/New_York
+ed5d7787-c557-465a-a9da-34597176700c,50c9606c-008e-418d-8136-209728be4fe9,333 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3423293,-71.0847709,America/New_York
+ed6dc5e2-042c-4459-8a59-cd9837ef7e04,5e534578-0a86-4e08-affd-511d17f5a3e7,1917 Dorchester Ave,Boston,Suffolk,MA,2124,42.2852425,-71.0645893,America/New_York
+ed90354a-a9a1-45ce-b02f-5cfff768a6a2,5f1059e1-dff6-4304-8e30-b33a55e303e3,500 Harrison Avenue,Boston,Suffolk,MA,2118,42.3421138,-71.0658051,America/New_York
+edc6478f-9931-4fd2-b913-145a5ca06364,72f9c4fc-6eb4-4017-b4be-bd96932c6fb4,96 Brookline Ave,Boston,Suffolk,MA,2215,42.3462424,-71.0994145,America/New_York
+edd9dbc7-22a9-4ee4-8cf1-cca104f25ae8,292ac2da-f6a8-48ae-b0da-edffe10ccc13,10 Avery Street,Boston,Suffolk,MA,2111,42.3531023,-71.0633401,America/New_York
+ee4a82f6-c5d7-47a0-94f7-edba7180721d,a2df6e09-d664-4ce1-8d8a-4c304d770c98,282 Cambridge St,Boston,Suffolk,MA,2114,42.3609746,-71.0681147,America/New_York
+ee565e48-5c68-4989-ba76-7ec7281e8fa0,8032c61a-6611-4c94-81e3-268edb64caed,4025 Washington St,Boston,Suffolk,MA,2131,42.2919424,-71.1225134,America/New_York
+eb86e141-01fa-4242-9228-856a2f0bd829,ffdf3eba-4774-4dfa-ac2d-05497da858da,415 Hanover St,Boston,Suffolk,MA,2109,42.3655684,-71.0526786,America/New_York
+eb9a0011-8e01-4806-b21b-4b3e5c570c67,5c520aeb-cb23-4a81-bf70-ccf8fe1e6ddf,44 Harvard Ave,Boston,Suffolk,MA,2134,42.3545725,-71.1322728,America/New_York
+eba1914f-5c3a-4da6-b313-1d87bcf9083c,821e2336-8e39-4fb5-97a1-7f3361169d24,13 5th St,Chelsea,Suffolk,MA,2150,42.3932963,-71.0344348,America/New_York
+df0c3d95-c93c-4fc1-8100-f67c5b6eae25,f8c109c9-775c-42c0-b29c-12623a1fe8c4,984 Hyde Park Ave,Boston,Suffolk,MA,2136,42.2660828,-71.1208692,America/New_York
+ec12aa17-7233-46ad-bf6a-6a651708aeda,dde68faa-792e-44bb-ad25-f345f3dbab5e,1415 Washington Street,Boston,Suffolk,MA,2118,42.3411578,-71.0705731,America/New_York
+ec30409d-211c-4d37-8e08-6a7f32e6e82b,90fde5db-63a4-409e-9220-21b6078cbfb3,324 Marginal St,Chelsea,Suffolk,MA,2150,42.3866584,-71.0257724,America/New_York
+e81bb069-209f-4ae6-859e-38c08aa8d067,1a3576c1-e3e8-41bc-b733-4ee6752e1e32,152 Harvard Ave,Boston,Suffolk,MA,2134,42.351765,-71.1315063,America/New_York
+e83ea9c2-6d68-42d2-9ea6-5a5db81cbe90,1c72581d-8072-4df6-81cc-cd7a681696d7,18 Bartlett Rd,Winthrop,Suffolk,MA,2152,42.3740917,-70.9867473,America/New_York
+e84fee65-a5c9-44a8-bb75-dfcb31614620,fdd6a762-31f5-4848-b92b-6e3071924f2a,227 Hanover St,Boston,Suffolk,MA,2113,42.3629612,-71.0549931,America/New_York
+e877c97b-f914-47a1-a0e1-68f2cb5a3491,54cf0b8b-60d3-4958-82ec-2b9b12eeac9c,580 Dorchester Ave,Boston,Suffolk,MA,2127,42.3299628,-71.0569535,America/New_York
+e89649a2-6130-47d3-ba87-c45e49c2ba18,41416155-c6b7-4457-93bd-5d938a4cbd69,2 Prince St,Boston,Suffolk,MA,2113,42.3640651,-71.0536536,America/New_York
+d82aa127-3412-4b36-94f7-71b048a1ab49,700790a6-18be-48e8-b5d4-71e2d4dc0576,1260 Boylston St,Boston,Suffolk,MA,2215,42.3447675,-71.0958979,America/New_York
+e8d5d828-f1cd-473f-b92b-f5f6dbe4025f,bd084289-b69f-4b89-b175-50de4bca0572,388 Broadway,Chelsea,Suffolk,MA,2150,42.3921992,-71.0354997,America/New_York
+e92ccc11-3566-451e-8237-65571014af52,5b2304c5-414c-414d-bd6b-3a1eb03820ba,571 Washington St,Boston,Suffolk,MA,2135,42.3502377,-71.1647989,America/New_York
+e93c692c-7a59-4d20-bc37-0a48c2699aba,91c422b0-27fa-480d-9f76-7c5f5881260e,661 Warren St,Boston,Suffolk,MA,2121,42.3098502,-71.0831112,America/New_York
+e0d426c6-d928-43fd-a689-4c4df8c35cc7,ea90e3a0-2c94-468c-9b0d-43b57b230eb8,120 Cambridge St,Boston,Suffolk,MA,2114,42.3610384,-71.0632939,America/New_York
+e0d7d8cd-4f09-439f-8e34-f3177fff321e,cde3cb2d-fed8-4439-8148-91dc75aeaf10,145 E Berkeley St,Boston,Suffolk,MA,2118,42.3435126,-71.0648773,America/New_York
+f94e432d-48c0-4744-9e66-fe223b64f79a,3bae3513-eac8-4cff-abd1-2e595e6fe135,354 Chestnut Hill Avenue,Boston,Suffolk,MA,2135,42.336873,-71.15151,America/New_York
+f95d470b-a3b2-4b59-a29c-2846e96c43cd,8c7aeedf-c8f7-4b0c-81c7-706a8e6665e4,699 William T Morrissey Boulevard,Boston,Suffolk,MA,2122,42.2978776,-71.0498832,America/New_York
+f960a8f8-ad1c-445c-9144-09de5dbfa677,fd390dfe-5ab2-4f28-8589-1961d27a9c38,12 Dade St,Boston,Suffolk,MA,2119,42.3320416,-71.0825178,America/New_York
+f9ce4565-cffc-4bfa-a013-d44aceb2dfe8,3975dd9a-bce8-47bd-b73f-c8b9b8f332dc,36 Woodside Ave,Winthrop,Suffolk,MA,2152,42.3750526,-70.986829,America/New_York
+f612075d-6508-4606-8488-c8b3b92d36c0,5a0aedf1-39f2-4efa-9a10-b426890ebda8,360 Harrison Ave,Boston,Suffolk,MA,2118,42.3445789,-71.0638008,America/New_York
+ecfb4904-919a-4626-a610-34e7a3b96181,5f943f7c-caf2-4f72-ad8a-4cf83a5b7281,645 Beacon St,Boston,Suffolk,MA,2215,42.3484278,-71.0977677,America/New_York
+fa22c2e3-657c-4665-bd1d-f6751a357e82,690e3856-1a6d-4c79-8439-f583b132aed3,403 Broadway,Chelsea,Suffolk,MA,2150,42.3920376,-71.034989,America/New_York
+fa52b0e2-9204-4241-94db-278abf460a7d,afc2db37-e3d7-437b-bca5-92e8598e3d37,2350 Washington St,Boston,Suffolk,MA,2119,42.3294745,-71.0844114,America/New_York
+f6ba3a42-18e8-46de-91bc-54ab7a53cb29,21f7fc95-0d5f-4567-874c-0e33fd9988a7,900 Beacon St,Boston,Suffolk,MA,2215,42.3468132,-71.1056963,America/New_York
+fa70229f-48d8-4f82-90e4-627cadf1cc2c,281f978c-185f-4da5-9bcb-8414a431d198,870 Blue Hill Avenue,Boston,Suffolk,MA,2124,42.295062,-71.0875385,America/New_York
+f7246ceb-0ca1-419c-a238-daf15954dc0e,8286011a-b8dc-42c6-a068-a220b928e442,144 Charles Street,Boston,Suffolk,MA,2114,42.3598814,-71.0709344,America/New_York
+ef077404-8331-4b6f-bd91-fdb648caae8a,f515b4d1-4fb6-4ef0-87c3-dbc7bb6bb982,10 Boston Wharf Rd,Boston,Suffolk,MA,2210,42.3500584,-71.0468258,America/New_York
+ef61187e-333e-45d5-8f96-210323a85526,ea6cbeb3-d271-4726-ba98-6f3af95672cc,1508 Dorchester Ave,Boston,Suffolk,MA,2122,42.2993789,-71.0600666,America/New_York
+f00900f8-1559-4ada-92a1-12ab298850e3,6ea387ab-5b47-483b-82cd-d826a049c56c,66 Brighton Ave,Boston,Suffolk,MA,2134,42.3524164,-71.1285501,America/New_York
+f04663b5-fea2-4446-9356-36d94ad344ec,17e85265-28e5-4f34-a359-7a6f731289d6,460 Centre St,Boston,Suffolk,MA,2130,42.3193571,-71.1115644,America/New_York
+e9829e2b-bf4f-4073-b9eb-cbb4f2dfd5ad,368d2f84-fde9-497d-bd3e-3b80b5c13836,60 Beach St,Boston,Suffolk,MA,2111,42.3514798,-71.0601535,America/New_York
+eeaafd17-8f5c-46b6-8800-e1972f0c381b,a14880f4-713f-4b09-89b2-c91dd51ef797,520 Columbus Avenue,Boston,Suffolk,MA,2118,42.3419137,-71.0797543,America/New_York
+e6240059-8d1d-4ae5-8df4-4e4ce47364c0,663a57c6-6777-4089-b25d-6c812081e92a,964 Saratoga St,Boston,Suffolk,MA,2128,42.3871427,-71.0085693,America/New_York
+e62711e2-fa8b-4c06-8e88-e2063c476099,72e75bdc-f8cb-4508-97de-2bf695141399,1590 Tremont St,Boston,Suffolk,MA,2120,42.3334711,-71.1030361,America/New_York
+e6319523-72a7-4976-8587-88d06d9ec9b8,a0611a91-8e0b-4c18-a220-b7cdf49779c6,364 Washington St,Boston,Suffolk,MA,2135,42.3489886,-71.1536912,America/New_York
+e636462a-78a9-4a13-abdc-4e006b8355b1,ae173179-a574-4b3c-9695-038c37b704e8,370 Commonwealth Avenue,Boston,Suffolk,MA,2215,42.3485902,-71.0886984,America/New_York
+e6993e85-83eb-4268-bff8-b5c2e2d7e4fe,190456c9-a36d-4edf-9a47-59832059ce3d,15 Warren St,Boston,Suffolk,MA,2119,42.3301405,-71.0832095,America/New_York
+f0adcb14-f778-4eef-b327-a2b5bdae3c7c,e077c35c-16ee-4b71-ac7f-204d08060cad,301 Adams St,Boston,Suffolk,MA,2122,42.2990786,-71.0581834,America/New_York
+e6a8bdad-2b67-4097-8b78-9fff9f2a7515,f41b01bb-451d-4335-b5a4-c2f5709b4cc4,58 Seaport Blvd,Boston,Suffolk,MA,2210,42.3532222,-71.0479162,America/New_York
+e6c882d3-2cee-4e05-b2bc-fa88a6ecfc19,26ff75a8-efee-4f0a-9f63-77c59943e979,35 Crest Ave,Winthrop,Suffolk,MA,2152,42.3858321,-70.9751008,America/New_York
+f0d7eb47-e0e7-4034-81cf-4a7aa53cb361,a029131c-3149-4e88-901d-e56ea20b132a,239 Dudley St,Boston,Suffolk,MA,2119,42.3284165,-71.0797724,America/New_York
+e6da81c7-58a9-4786-a985-d22b90850563,f08e287b-d887-45e4-bba8-fd89b3a5269c,284 Amory St,Boston,Suffolk,MA,2130,42.3144895,-71.1037888,America/New_York
+e6f7c4ac-bb4e-4cce-a844-cd4069d0b357,7a8da279-6d65-428e-8bb8-5c22caa96b20,4541 Washington St,Boston,Suffolk,MA,2131,42.278353,-71.137235,America/New_York
+f114b315-11c7-405e-a1d3-f750c99edc8c,42fa77be-f175-4613-bc2c-067fb99cf5a2,115 Beverly St,Boston,Suffolk,MA,2114,42.3660325,-71.0597742,America/New_York
+f175f292-6a93-46af-b88f-5950f2117dfb,55326a4d-5aaf-4ea1-9fc4-c11265b07b5a,145 Dartmouth St,Boston,Suffolk,MA,2116,42.347419,-71.07531,America/New_York
+fc7d7d98-091a-420d-8624-8549589a358a,28d96f0a-b103-4a8b-9f90-4fdc2abc871b,1698 Commonwealth Avenue,Boston,Suffolk,MA,2135,42.3412485,-71.1466,America/New_York
+f23870d8-7bba-41ff-9c40-d55925790474,1b6b8a3b-5941-4f9e-96f9-80b04c0bbee4,246 W Broadway,Boston,Suffolk,MA,2127,42.3395667,-71.0517036,America/New_York
+e78c8f11-a29f-41d9-a63a-eeb133779a14,6ac47abe-9ad9-486e-9eb0-e18472ec32fd,177 Massachusetts Ave,Boston,Suffolk,MA,2115,42.3458011,-71.0873574,America/New_York
+f1b34b6f-b548-4b46-9e94-90ef2a33d3d4,7b938d8a-0e52-48a3-a69f-55b58cc52059,120 Broadway,Chelsea,Suffolk,MA,2150,42.388959,-71.041463,America/New_York
+f1b9f931-0f45-499a-beaf-5647493da314,f109ac87-47f4-46f5-b6b5-86cd5dca7f65,417 Washington St,Boston,Suffolk,MA,2110,42.3558635,-71.0604975,America/New_York
+f1c6656c-1a80-4129-9b69-50ddbb295f29,8fc97576-ddf2-4d8d-bfc3-b00ca3395076,178 Salem St,Boston,Suffolk,MA,2113,42.3665498,-71.0548375,America/New_York
+f2862148-101a-48ac-9e11-c7d83c3e48ba,7f613244-1d99-4b9a-9d6b-95e271970c61,1 Seaport Ln,Boston,Suffolk,MA,2210,42.3492209,-71.0414338,America/New_York
+f327096e-c4c0-4068-8ca8-018174ea7328,7c252db0-aefe-41ad-a7f7-174b0fbc01d7,800 Washington Ave,Revere,Suffolk,MA,2151,42.4307327,-71.0236598,America/New_York
+f33e15fa-a56b-47ed-b137-51430192453f,ea21ef90-2c74-4aec-a49a-c1e8d940b601,10 Walk Hill St,Boston,Suffolk,MA,2130,42.2958592,-71.1158162,America/New_York
+fd5df97a-9ae1-4716-8ef4-370d5f0182eb,1bfa4c0d-6d49-4ed0-bcf8-4cd73baa3e14,54 Harvard Avenue,Boston,Suffolk,MA,2134,42.3544233,-71.1322277,America/New_York
+fd628d36-5e86-4df4-a5c6-67b7dca3c690,0e7c108c-370a-465b-8742-96b9a4d193b9,99 Cambridge St # B,Boston,Suffolk,MA,2129,42.3434824,-71.0648426,America/New_York
+f3ace370-0cb0-4848-a3c4-98312e99f383,10912c7d-4b74-4378-bf14-d1262185050f,22 Washington Ave,Chelsea,Suffolk,MA,2150,42.3935689,-71.0339675,America/New_York
+fb974477-087e-4de8-b74b-5d7b23a495b4,803146f2-71a0-4b39-ab07-a2b39037ac45,73 River St,Boston,Suffolk,MA,2126,42.271569,-71.073655,America/New_York
+fb9ff39e-8976-4ef9-94cc-927c4006e738,0247c7e5-a7c8-4687-9d70-71cf0309ed24,100 Hanover St,Boston,Suffolk,MA,2108,42.3622119,-71.0575348,America/New_York
+fbba1c52-ce84-4077-9a3a-78cb4087ad49,f828cda4-d0f8-42d3-8b8b-b6a3845a7cbd,616 Gallivan Blvd,Boston,Suffolk,MA,2124,42.2835931,-71.0506873,America/New_York
+fbc7c73c-afcc-47a9-a9ac-19ada5456529,599faed5-b627-4d01-b56d-2426f9b60782,25 Park Street,Boston,Suffolk,MA,2129,42.3726277,-71.0610481,America/New_York
+f05a8c27-1beb-4fe1-aa98-3b1dafc63fa7,6e94eb7e-c3e2-4503-a6ab-b732022f8534,340 Washington St,Boston,Suffolk,MA,2121,42.2994622,-71.0736924,America/New_York
+f06cb6fd-e276-4561-91a9-6b1e84eff3b8,39001edf-9f94-4a1f-9621-e314a1e9d56f,458 Western Ave,Boston,Suffolk,MA,2135,42.3619428,-71.142229,America/New_York
+f06f8511-1945-4ea2-9593-db81fd7b390e,9565dced-1ddb-46c5-93b0-d6673767f1df,492 Revere Beach Blvd,Revere,Suffolk,MA,2151,42.4276393,-70.9806246,America/New_York
+f73b96dd-9cdf-499f-9c56-25a57d7a5ef0,f22f0b2a-8201-4f42-ba53-db6cd308d68b,11 Boylston St,Chestnut Hill,Suffolk,MA,2467,42.323475,-71.166527,America/New_York
+fc3ea49c-0dfa-4819-a691-48db0a784460,e92caddc-6436-435d-8c3d-22026dde6c7b,1116 Boylston St,Boston,Suffolk,MA,2215,42.3467238,-71.0887286,America/New_York
+fc63c703-48f8-49ac-ae8e-6073ab5b791a,7bd640ec-1bef-4e77-aaf7-5069364f2a3a,280 Cambridge St,Boston,Suffolk,MA,2114,42.360957,-71.068046,America/New_York
+f20d3ba5-f9ab-446f-847d-a5b8233d8e24,58125668-3587-42c5-aee1-dd9477d109fd,274-274 Tremont St,Boston,Suffolk,MA,2116,42.35022,-71.0651749,America/New_York
+f2114dfa-52f9-445a-b4a4-875f66eff7d9,8f628262-63ed-486b-9aa7-10138c90a4f5,115 Water Street,Boston,Suffolk,MA,2109,42.3580278,-71.0546494,America/New_York
+e7d8d77f-38a4-43af-95dd-a650e08d8f2c,484e81c4-7ccf-4438-8b37-1a6cc511ae2c,2 Longwood Ave,Boston,Suffolk,MA,2115,42.3357145,-71.0998955,America/New_York
+f3de4528-3dc9-4b08-bffd-a363bf9baf80,49df0adc-814c-448c-b3b7-1bbf4401b99e,387 Centre St,Boston,Suffolk,MA,2130,42.3222195,-71.1095438,America/New_York
+b95e93fc-7144-4a7b-a88c-00a63b534ac0,7c27549d-2355-448c-8520-7b99ba60ae17,321 A St,Boston,Suffolk,MA,2210,42.348929,-71.0489939,America/New_York
+fdf6c1da-e68d-445f-a622-78e73eafc12f,ffa593c8-652c-40e8-ad71-69f30f3f66e1,1443 Tremont St,Boston,Suffolk,MA,2120,42.3319624,-71.0967831,America/New_York
+f41a0604-7180-42e0-9582-dcfad7c35fb2,1d81bd6b-0193-40c8-bbf9-d01724e4f751,284 Centre St,Boston,Suffolk,MA,2130,42.3227907,-71.1020289,America/New_York
+f4335624-2933-4fb7-b70d-a14230c3a5a1,01f7faa5-bbc9-43b9-9f40-951bf8eada38,1299 River St,Boston,Suffolk,MA,2136,42.2558178,-71.1249461,America/New_York
+f562c4ae-d030-4d93-a8d0-f283e9f496dd,26079d98-696f-452c-a133-f1cef441a972,"960 William T, 3206, Morrissey Blvd",Boston,Suffolk,MA,2122,42.2917149,-71.0467589,America/New_York
+fe36aac6-1204-4671-9712-c146356354f6,5668e4a0-501a-4c04-91a7-da3efbe870d7,66 Staniford St,Boston,Suffolk,MA,2114,42.36312,-71.06436,America/New_York
+fef16096-c17c-4b45-9c74-ed1d38874b38,63a24c30-0dc6-4121-baeb-f1c433ccfa5e,95 Summer St,Boston,Suffolk,MA,2110,42.3537842,-71.0583773,America/New_York
+ff8928a0-37b5-4038-85e1-9fd562d5c0ad,ae122237-770b-46da-9d02-c2c99d2aab3f,20 Maverick St,Boston,Suffolk,MA,2128,42.3716536,-71.0420495,America/New_York
+ffb10b76-c618-431d-a369-0a628219f1bd,0133e8f8-cd62-4682-b856-d38ef53e5d93,207 Endicott Street,Boston,Suffolk,MA,2113,42.3665901,-71.0579139,America/New_York
+f5a02a64-f90b-4901-a975-de48d7cf1608,bdd92a27-c3b0-4179-9221-51a87aed6d28,244 Newbury St,Boston,Suffolk,MA,2116,42.3494112,-71.0823916,America/New_York
+f765c1df-05a3-42f1-91f6-692c702887e7,e43555ae-b9a4-4f78-b4f7-853ce2d349f5,582 Dorchester Ave,Boston,Suffolk,MA,2127,42.3299168,-71.0567878,America/New_York
+f766ae23-dd95-4ff5-b87d-836a54326a15,02b079f2-36b3-4eff-ac83-df8713a0ef3c,748 Huntington Ave # A,Boston,Suffolk,MA,2115,42.3336286,-71.1056147,America/New_York
+f790d872-6ead-4e70-9173-34d818f8e5dd,1f835044-55ae-4818-ba45-eed8fc58aacd,474 Saratoga St,Boston,Suffolk,MA,2128,42.3801545,-71.0272697,America/New_York
+f880f7b3-e3ac-41b6-aef8-1140dbdab83f,d1650503-ec8f-48f2-9cfa-1fa818db1896,83 Newbury Street,Boston,Suffolk,MA,2116,42.3516831,-71.07481532,America/New_York
+f8d03b77-0655-4cf7-878c-564c24ec833a,42acbeef-5b50-4090-9487-bed666d3b3a7,144 Tremont St,Boston,Suffolk,MA,2111,42.355297,-71.06281,America/New_York
+4516942c-ee38-4362-859e-948ad56cba3c,254842fd-dc5b-4907-a9f9-8bf957b499ab,279 Newbury St,Boston,Suffolk,MA,2116,42.3494961,-71.0840861,America/New_York
+45247ee7-d5ec-4155-af1d-c332a4b7df99,420b7cca-3dbb-4847-9d52-ec0dbaf2369e,314 Shawmut Avenue,Boston,Suffolk,MA,2118,42.3421204,-71.0703866,America/New_York
+01e5731c-2a84-4667-92e8-acb84ecf8ee1,39625974-ba02-4f7f-80f2-aed13a4b1674,2 Pleasant St,Boston,Suffolk,MA,2129,42.3742485,-71.06307984,America/New_York
+5ce967b3-c8ec-4f10-8f92-39087884bdc5,96039a8c-e1b2-4cbe-97a1-6dd35de4166a,22 Clinton St,Boston,Suffolk,MA,2109,42.36094284,-71.05512238,America/New_York
+8a4d354a-3993-498d-81b8-3a36559e593d,9c6bf4a9-58aa-43f1-83c6-502c64e60a2b,332 Washington St,Brighton,Suffolk,MA,2135,42.348871,-71.1523252,America/New_York
+966b561e-727c-46a8-8950-600eb6f60bb2,46ade765-a190-40c2-ad37-a742e0c12bce,429 Columbus Ave,Boston,Suffolk,MA,2116,42.34412765,-71.07775116,America/New_York
+a206acfe-4ea9-4958-bf58-834f29fbff4b,7f25653a-9970-4770-8f8b-6c561c7b6227,4 Kilmarnock St,Boston,Suffolk,MA,2215,42.3449624,-71.1005427,America/New_York
+e44c59ab-6e97-4105-b33d-fef6a31b514d,10aaecc5-5145-43c9-9b77-ac00ab666770,1096 Commonwealth Ave,Boston,Suffolk,MA,2215,42.35181045,-71.12429047,America/New_York
+00a08ca6-9148-40a2-b71d-bee0a6355bf2,e8c02124-5054-4a5f-b936-be7a62273930,257 North St,Boston,Suffolk,MA,2113,42.363676,-71.051924,America/New_York
+010335bd-0c6e-4a78-975c-4bce1b8ea3dd,08f5e542-c629-46c4-9439-e9d403c8b6f4,92 State St,Boston,Suffolk,MA,2109,42.3592291,-71.055325,America/New_York

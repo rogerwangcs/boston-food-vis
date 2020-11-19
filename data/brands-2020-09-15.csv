@@ -1,0 +1,973 @@
+brand_id,brand_name,cuisine_type,price_scale
+000506b9-e91d-494d-8a5c-241494959492,Sal's Pizza,sandwiches;italian;pizza,2
+0046e0ed-3ab9-41a0-b970-3a8287847fa7,Papa Gino's,italian;pizza,2
+0090c430-283a-4c4d-bc8e-3ac400937700,Home.Stead Bakery & Cafe,coffee;dessert;sandwiches,1
+00a08ca6-9148-40a2-b71d-bee0a6355bf2,Piccolo Nido,italian,3
+00da83f7-a16f-490f-8975-ae6d18e0fd3d,JP Kitchen,chinese;asian,1
+010335bd-0c6e-4a78-975c-4bce1b8ea3dd,State Street Sushi,sushi;japanese;asian,2
+010f35bd-26fd-47e3-9675-83bcb19d718a,Hong Kong Eatery,chinese;cantonese;noodles,1
+011d25f0-08b4-455a-94da-e7c0ec5828f1,Jim's Deli & Restaurant,burgers;american;sandwiches,2
+015c4c86-b50f-4255-9219-2a5cf9ba2d05,Beard Papa's,coffee;cafe;dessert,1
+019e960a-7839-40b7-a86d-8167bdfd0d11,Delta Haus,bar;american,2
+01b270f0-28f5-4385-a8f1-b20e2b1d879d,Capo Restaurant & Supper Club,italian;bar,2
+01e5731c-2a84-4667-92e8-acb84ecf8ee1,Warren Tavern Restaurant,sandwiches;burgers;salad,1
+0263b53e-35be-4aad-b6ec-92f0a7f57534,Pita Pan,greek;sandwiches;mediterranean,1
+02937eba-13d9-4a2f-b865-7be41397b182,Cafe Mamtaz,southeast_asian;indian;pakistani,2
+02ec1346-6a1f-44cb-a78b-592909955f0f,Artu,american;diners;italian,2
+036f3bf2-487f-48f5-8c00-1b3ab9eccd23,Fasika Cafe,ethiopian;cafe;african,2
+03a67677-5c8c-482c-95c5-10272ce3f78d,Flames III,caribbean,1
+03f6c84f-2760-4e8c-9409-9bed73db2d15,Mrs. B's Cafe,breakfast;cafe;sandwiches,2
+04391c3b-f52b-41a9-8022-e90948f0fa7d,Oasis Restaurant,caribbean,1
+04aa8dc5-670c-43fb-8eb2-f9281419ef89,Pan Asia,asian,2
+04ad66d0-c8c6-44c9-9ea9-db24af360ad5,Versus,bar;american,2
+0507e970-29f2-4c37-b914-da8357c71e5d,Crazy Dough's Pizza,pizza,2
+050db844-9540-43c5-9dea-18a57ad02d8d,Cafeteria La Reina,latin;salvadoran,1
+056f8730-923e-461f-9b28-02ac546edb68,Chutney's,indian,2
+05e71c5b-7336-4f36-a5e9-9998278d51c1,Dayib Cafe,sandwiches;middle_eastern;breakfast,1
+05f58282-fcf5-4082-88f0-a4403d1d862c,Little Asia Restaurant,chinese;asian,2
+061458c4-e664-4e10-bf22-14332504b735,Hanmaru,japanese;asian;korean,2
+065ed189-f0e7-41e9-8efb-bf919ff23dee,Bricco Salumeria and Pasta Shop,italian,2
+068da8ab-5b22-4f5d-a02e-7c82c941d662,Mike's City Diner,diners,2
+06ace1bd-8248-4773-9355-6ea0b6ae331a,South End Pita,greek;mediterranean;lebanese,2
+06bbab57-a03a-4c3c-b7c0-9820dec3b2e2,Nahita Cocktails And Cuisine,asian;bar,3
+06c5ab15-a7c2-4fba-82f8-2e455ef12b22,Blackjack pasta kitchen,italian;pizza;fast_food,1
+06eb8874-a77b-477b-8709-ba9f675b34ba,Bait to Plate,seafood;british,2
+0703ecde-fe58-42e4-a298-52b7f0fd9435,Bootleg Special,seafood;cajun;tapas,2
+076e0a10-8bbc-4c8f-bbdd-be811f5a5b14,Pantry Pizza Kitchen,italian;salad;pizza,1
+077a38ce-4ae3-4aa5-8cbb-01e81fd013bc,Alexandria Pizza & Grill,pizza;american;greek,2
+078c7872-9b78-43c7-801b-8f8de53d227d,Equator,asian;thai,2
+07bf2a1d-910b-436d-b3ae-6c8a431b990d,Chilacates,mexican,1
+07c6d5bc-be9e-40dc-9b26-dd061ba9d21c,Bushwood Cocktail Club,bar,2
+08161923-821d-402f-aece-df822c62ec22,Chilacates Mexican Street Food,food_truck;mexican,1
+09367b94-10c3-42a7-af4d-f2187a646e65,By Chloe,american;vegan;salad,1
+09edcb18-bb04-4c13-8553-740b9e5564e4,Modern Underground Bar and Grill,american;breakfast;sandwiches,2
+0a609410-e538-4eb5-aa78-5941892038d9,New York Pizza,pizza;chicken;sandwiches,3
+0a6e8720-2505-4c4e-9964-f55215829e84,Reign Drink Lab,juice_bar;tea;coffee,1
+0a9e4ffe-4147-40d5-8be3-dd1021a95165,Pollos A La Brasa El Chalan,latin;peruvian,2
+0ab0fa16-5780-430f-a3d0-65f3626a0baf,Serafina,italian;bar;pizza,2
+0ad186fc-dfbc-4296-ae01-f0a8bc29edd4,Polka Dog Bakery,bakery,2
+0ad22b36-7c04-46e5-9f6b-7e4086ac09dc,Broadway pizza inc,sandwiches;burgers;pizza,2
+0ad7c4c4-bdff-4e2f-b067-eaec65bf5a61,Sushi Kappo,sushi;asian;poke,2
+0b74364f-d2fb-4252-ab9c-d1de0cdfa366,Allston Diner,breakfast;diners;burgers,2
+0b83e62e-3462-4b1d-8fbf-c3d52edc434c,Boston Shawarma,mediterranean;middle_eastern;halal,1
+0b914984-5c89-4712-b3b8-45eabfcdc840,The Salty Pig,italian;american;pizza,2
+0bcf784c-57bc-4f29-a93b-7d035b972513,Four Corners Pizza Cafe,pizza,1
+0bdb4887-4976-4272-804f-5344b97fd5a5,King Do Restaurant,asian;vietnamese;sandwiches,2
+0bf760ba-63c6-4158-a379-6286e412a119,Boom Crispy Chicken,japanese;chicken;asian,2
+0c04878a-737e-43dc-8414-e8b6b41b96ed,Regal Pizza & Delivery,pizza;donuts;american,3
+0c1fb7b5-882d-4039-9726-1d860cc5cce5,Aquitaine,french,2
+0d640afb-83ad-42f0-bc3c-210ad169bb37,Lincoln Tavern & Restaurant,american;sandwiches;bar,2
+0dad10e4-4705-464e-9fb4-d83c8a1fd5dc,Viga Italian Eatery,italian,2
+0df9b81c-6162-4f92-9f49-2a48422e84d7,Red Lantern,sushi;bar;asian,2
+0e6828db-974d-430f-8cbb-00bbb5b462cc,Archie's Place,breakfast;greek,2
+0ea05699-9c43-4912-b632-6cef6747743c,Telegraph Hill,american;bar,2
+0f041d83-8648-450e-80b0-5f77b066e8b3,Cafe 472,pizza,2
+0f308b82-8c53-449b-b8bb-24c483b324f3,Ginger Exchange,sushi;noodles;asian,2
+0f519a72-0a62-449f-bf66-ad0799f5aee0,Banyan Bar + Refuge,bar;vegetarian;asian,2
+0f7c797b-ef35-48e6-92b7-f58d05337579,Irie Jamaican style restaurant,caribbean,1
+0f8284c0-2227-4085-8966-be792646b5e3,Moody's Delicatessan & Provisions,breakfast;deli,2
+0f9aed51-10cd-4d57-98ce-98ba7a90e04f,kous-kous,fast_food,4
+10019795-fbf6-4b2d-95a1-93ba9885d16f,Blue Yama,ramen,2
+10363936-e2ff-4d54-a01c-7883adda7f03,Pollos A La Brasa Betos,peruvian;latin,1
+1036ecf7-43ff-471d-bd2c-d4db3651d01d,China Pearl Restaurant,dim_sum;seafood;cantonese,2
+104db8c9-55b4-4e6c-8b71-f9d07fc32aba,Boloco,hot_dog;mexican;american,1
+10c02506-63a3-4a2d-ab52-9addc0a5bd04,New Sushi Inc.,sushi;japanese,2
+10e5f8ad-9ccc-493b-8f70-2c62589ff69c,Americano Espresso Bar,coffee;sandwiches,1
+1106dcff-6763-44d7-bbd1-e39359c47623,All Star Pizza Bar,pizza,3
+113f3012-8be0-4da4-8715-21ce90d1638f,Halftime Pizza,pizza;salad;italian,1
+1144ff0e-d976-4537-bc67-41d4b7007a5c,Real Deal,deli;fast_food;sandwiches,2
+114bd71c-e1ed-4c96-9355-9a39680702eb,Yummee Chinese Restaurant,asian;chinese,1
+11808c4a-80ad-4858-bbbe-b6f13dc57a2f,Great Chef Chinese Food Day Square,asian;soup;chinese,1
+11bfe769-f4e7-4f14-8256-e467a071c9e9,American Provisions,breakfast;sandwiches,2
+11cb0559-400e-48d6-9d1f-fa7ff04e413b,Fin's Sushi,japanese;sushi,2
+12159e77-0b8e-4fac-9da7-830477fba030,Kiosco Sabor De Mi Tierra-bar,american;bar,2
+1243bfc6-b661-45fe-91e9-e5f28d1e092c,Sultana’s Bakery and Cafe,dessert;cafe;peruvian,1
+12642d7d-0163-40fe-b51c-71aa58b169ae,Hong Kong 888 Cafe,chinese;asian,2
+12668e57-7a44-4a2d-a878-eb8c01ecc1a7,Brigham Circle Chinese Food,asian;chinese,2
+12a7c3d0-5117-4495-a5c5-e5664454a7be,Cuppacoffee,polynesian;sandwiches;coffee,1
+1301646b-2d76-42e1-918b-d945bb7837c1,Irashai Sushi,sushi;japanese,2
+138111cd-53d3-4ce6-8d53-8914c6fde269,Thornton's Restaurant,coffee;breakfast;diners,2
+1399c8c8-5a95-4403-9d39-6b0c65e201d8,Pho & I,thai;dessert;vietnamese,2
+13c5a9f9-0367-49d1-81a4-7bc567196c9e,Cafe Artigiano,sandwiches;italian;breakfast,1
+1462bb2e-e693-4128-8932-be795e606686,Casa Cana,bar;breakfast;latin,2
+15878172-2986-414b-b130-248e672f2f6f,Snafu Cafe,breakfast;cafe,1
+1637c526-adbe-438d-bf06-7cedfdc14791,Spukies'n Pizza,greek;pizza;mediterranean,2
+167c69bb-bf50-485f-a050-21ed34bbfe92,Montecristo Mexican Grill,mexican,2
+170131de-630f-4aed-a29f-877e00be3f77,Italian Express Pizzeria,italian;pizza,2
+17085a46-ed25-4e49-ab4c-568a110be6cf,The Upper Crust Pizzeria,pizza;italian,3
+17643b30-94d4-444c-8bf7-eceffe9265a6,Santorini,seafood;pizza,2
+179a875e-0068-454b-be76-e02890d29f08,Seoul Restaurant,sushi;korean;japanese,2
+17d0fed3-f535-4f12-b30d-5fe0a84769e1,Montecristo Mexican Grill,mexican;sandwiches,2
+180c8a50-630d-49e9-a60f-350835c5411e,Hook & Reel,seafood;cajun;chicken,2
+184deaab-327a-4c20-af17-092b552f323f,Go Fish Sushi,sushi,2
+1892ff73-1a17-4ee5-8e0a-a880a91345ee,Monica's Mercato & Salumeria,pizza;italian,3
+189d4699-6658-49cb-995f-f0869505e65a,Caffé Vittoria,coffee;italian,1
+18db097c-c182-4a18-8eb0-6a13b8b6c575,La Parrilla Restaurante,dominican;mexican;spanish,2
+1a5e723f-ad27-4670-895b-0ecdabe70e25,Pho Hoa Noodle Soup,tea;vietnamese;smoothie,1
+1ad2dd56-0e21-471e-88d3-b683ac4a7a96,La Piazza,bar;italian,2
+1aec439f-ba12-423d-9d2f-5c5941025690,Render Coffee,coffee;peruvian;cafe,1
+1afdf3cc-f6ab-4f6d-ba13-c98c78ad7b39,Plaza Deli,sandwiches;american;deli,1
+1b1490d0-e069-45ea-a53e-38a6380f4946,El Peñol,latin;colombian,2
+1b55a4c2-4f5b-4c9e-a3ec-cde0a9331ff7,Ariana Restaurant,halal;middle_eastern,2
+1ba36101-60f4-4a0c-b432-7e30f624450c,The Corner Tavern,bar;american,2
+1becfd76-7832-4baa-83e1-ee700c06d60c,J.R.'S Hideaway,breakfast;american;sandwiches,1
+1bf84b49-8758-40b5-b4c5-ada8abbb496d,Exodus Bagels,sandwiches;breakfast,1
+1caa8e00-a44a-4b0c-99d9-a8c7fcd1e5a6,Bamboo Thai Restaurant,bar;thai;american,2
+1cfe1a82-828d-4e13-8281-6bb8dbbb7610,Pizza Days,pizza,2
+1d51fd25-a472-4ed2-8904-7d8d73060b49,Blue Bottle Coffee,coffee;sandwiches;breakfast,1
+1d5d9b9f-5673-41e9-a65e-ed35d6f89145,Ajeen,middle_eastern,2
+1dadfa7e-d21b-4cac-a0d2-3d022c57a494,Stockyard,bar;seafood;steakhouse,2
+1dc7c01c-b545-4f53-ae1a-45f9f3050cab,Bon Appetit,caribbean;sandwiches,3
+1ed5f422-da31-46e2-b64f-34028cb860a5,Sauté,american,2
+1ed90a18-862d-48db-a42c-0a7b6b33c43c,Topacio,latin;seafood,2
+1f4b547d-ef91-4615-9c74-730f319f5c65,"Thank U, Mex",mexican,1
+1f656273-9339-42ee-9e83-3fef7ef52e8b,Eggwich,deli,1
+1fc7c221-1a7c-4f04-94a3-eaca74dfc394,Wong's of Boston,chinese,1
+20274dd8-09c2-4899-8b6e-66f8020e6c9f,Alex's Pizza,pizza,2
+21c0fbf0-b7f9-4333-a710-02e6ab483aa9,Tiki Rock,asian;bar;sushi,2
+21dacbc7-182e-4da9-9185-a7fdfa04e5a7,Love All Feed All by UNO,vegetarian;gluten_free;vegan,2
+21e2bf94-56fc-4135-a189-7e5d344fb62c,Oyster Club,seafood,3
+22645be1-56c0-4be0-931e-3921cb2dfd1a,Alex's Chimis,dominican;spanish;latin,1
+23386d3d-9b38-461f-92d1-0a8863a5df0f,Hulun Beir,bbq;chinese;mongolian,1
+233a24eb-4863-4e70-948f-9a3dfd44cb43,Penang,malaysian;chinese;asian,2
+237847c1-82d9-436c-a6d5-b98049b0be79,Hollywood Market,deli,1
+242d99d7-6b2c-491c-b4a0-f3c51c84db4a,Boston Kitchen Pizza,pizza;italian,2
+24913d41-f8d2-40af-8b84-c481db347c56,Wrap & Apps,middle_eastern;mediterranean,1
+24b0e1d0-4714-4bdc-8ddb-c9d32bf2b190,Eldo Cake House,dessert;bakery,1
+24e32fc7-b4d6-4471-8d11-5f5fcf70bbf6,Mike's Cafe,breakfast;cafe;peruvian,1
+25488112-a40a-4f3e-ba43-0d12f880be9b,Rincon Limeño Restaurant,peruvian;latin,2
+2565402f-4ecd-4a13-bf6e-ed4b9b67160f,Eataly,italian;pizza,1
+256f1d2c-410e-4b72-ab61-299242e4abee,Wing's Kitchen,chinese;cantonese,1
+259c52b1-d1eb-489b-9a71-e437f0336e7c,Delicious Yogurt,ice_cream;dessert,1
+25defe8c-734c-4a73-b93a-f2415d63b119,Rita's Italian Ice,ice_cream;dessert;juice_bar,1
+2652bafb-1dde-49d0-bf35-64bbb97aa91d,Tasty Thai,thai;asian,2
+26b00f39-8be2-4bdc-b571-4db75d654306,Teriyaki Joe's,japanese,2
+26e471b6-4079-4d85-8ed5-c495d822df9e,Ned Devine’s,irish,2
+26f7fcf9-44f5-4086-8710-9d76741132cd,Billy Tse,asian;sushi;chinese,2
+26f8240c-47de-458c-8463-c02e7b97be31,Phu-Ket Thai Restaurant,thai,2
+276953fd-0058-4759-8eca-7611ce3de602,Souper Bowl,asian;chinese,1
+27a7fa35-cffb-498a-b51f-b1ec293467fc,Bar Boulud,american;bar;french,3
+27aeb4af-077b-41c3-8275-26093438eeac,Harbor Pacific,chinese;asian,1
+27dbcf4b-c724-492c-a36f-180bf7d3e425,Sprout,salad,1
+289598c1-210f-40bb-9927-9c810c4ea047,Discovery Cafe,salad;sandwiches;breakfast,1
+29801af8-9da8-48bc-9c4f-f661002f5128,Sami's Wrap N Roll,breakfast;lebanese,1
+29febc7e-ae60-462e-ba41-eaaf4e7a9867,Boston House of Pizza,pizza,2
+2a09e48d-f5a5-42cd-8282-d1f66f273b2b,Thai Basil,asian;thai;seafood,2
+2a61e22e-63d3-4209-9b4f-9f82bfee4a6a,Grainmaker,asian,2
+2ac7eac9-e2cd-4e73-a5e2-b900e30d7ba7,Wheelhouse,sandwiches;burgers;breakfast,1
+2acb5133-a3a0-41e7-8a15-8718d9c012bb,Render Coffee,sandwiches;coffee;peruvian,1
+2ae0a67f-7d6f-4d76-9960-bcf4c9c1df83,Restaurante Cesaria,portuguese;african;spanish,4
+2b0f0b07-7ecf-434a-9b9e-e422bd39616c,Minina Cafe,breakfast;southern;spanish,2
+2b9c2ab4-48d9-4c86-b9e2-3ee443e6a2ac,Supreme House Of Pizza,pizza;sandwiches,2
+2bacd7d0-4556-40b8-9213-81332526ca8b,Alberto's Deli of Course,breakfast;sandwiches;deli,1
+2bc86ce8-6171-43b3-b29a-0b006f5e0a69,Little Pecan Bistro,asian;latin;juice_bar,2
+2bcef40a-97c7-4cba-b985-3f31701c1e62,Herrera's Burritos,breakfast;sandwiches;mexican,1
+2bd73832-9863-42ee-b04d-a0ff3dc10804,Acapulco Mexican Restaurant,mexican,2
+2c8b2e47-73bf-498d-85e1-2c65671086a7,La Gran Manzana,brazilian;bar,1
+2c93a5c9-e066-4973-b566-976b6c8bfc67,Prestige Cuisine,sandwiches;caribbean;african,1
+2d99faf9-0449-4758-b905-0d21e5b0becd,Laz All Day Breakfast and Pizzeria,breakfast;pizza,2
+2db884f6-5c96-4aa2-af17-ce095086d8bd,Adam’s Pizza & Convenience Store,pizza,1
+2df67976-3361-4b80-9b04-78f6788f7dd2,Nespresso Boutique Bar,french;european;sandwiches,1
+2e128c30-64fd-4de4-a98b-384cb5d4a3f9,Wagamama,japanese;soup;asian,2
+2e269422-2579-4ef5-9de2-7929b6d01aa3,Santarpio's Pizza,italian;pizza,2
+2e4608cb-29ac-4ea3-a8d6-63d0dc1d9f47,Sushi Time,sushi;japanese;asian,2
+2e520626-f5b9-4b84-af94-a66ed07f59fd,Ripple Cafe,coffee,1
+2f6a5aef-b3ae-4868-bf3b-da470b019859,I-CE-NY,dessert;ice_cream,1
+2fc7725d-31f6-4507-8960-2072451a9f50,Mei Mei,asian,1
+2fd2ce48-ffb9-443b-8112-444b769db00c,Wok n Talk,chinese;asian,2
+2ffa841f-1b6a-4c46-ba64-22afd258df98,Nino's Pizza,pizza;sandwiches,2
+304b1a89-cdfd-4c79-9c20-8efd4a122545,Code 10 Restaurant Cafe,soup;sandwiches;deli,1
+30a708f6-58b3-4fa3-9647-01d8c6774683,Amelia's Taqueria,mexican,2
+30d44653-340e-43c4-ad3f-ea41faa66ae2,Cafe Polonia,polish;european;bar,2
+310cc69c-e6a0-407f-8137-6142d0d2b052,J.P. Licks,dessert;ice_cream,3
+31b882bc-c1a6-4d2d-ab19-7a504ee48f8d,bonne chance cafe,breakfast;salad,1
+32099f03-904f-4ad0-be36-92c6f6c262d1,Dot Cafe,breakfast;coffee;bakery,1
+324728a6-0581-4194-9674-005e589666a9,Suculento Restaurante,salad;burgers;breakfast,1
+326501f4-878e-49c9-9e4b-4114a073bff6,Isshindo Ramen,japanese;ramen,1
+326ffe73-b17f-47a1-b264-8cc80944f4cd,master mcgraths,bar;american,2
+327deead-40c4-42c7-a169-449e9f329146,Garlic and Lemons inc,middle_eastern;halal;mediterranean,1
+328fd349-f6eb-4ea4-89b7-706f3aa23944,Maverick's,bar;american,2
+32c34861-2ba1-4e58-9554-7413e4969fc8,Fusion Foods,soup;tea;salad,2
+3364bb50-1e5e-4e46-86dd-2ae256e67e47,Backyard Betty's,american,2
+3367051b-84b7-4b0e-9b1b-51e458e59d03,Brekkie Bagels,breakfast,1
+3444bf3c-1296-4269-9a56-4a0640e2aff8,Empire,bar;asian;sushi,3
+3475e6b4-b3d4-46a4-8bb6-7e7e6c0eaeb5,Avana Sushi,japanese;asian;sushi,2
+35749934-d3a6-473e-8a64-838d41bb6424,Oppa Sushi,japanese;sushi;asian,2
+35aba89a-aaeb-4552-bea5-69cf2ace9cb7,Sam LaGrassa's,sandwiches;deli,2
+35b273c1-d413-4e8a-9b1f-cf9640cedf92,Papagayo,bar;american;mexican,2
+35b7f277-6dbe-46e2-8ce3-9d67d67d1715,Mattapan House of Pizza,pizza,2
+35beb4ac-4578-40fc-8bce-79034f7b19a6,Sip Wine Bar & Kitchen,italian;tapas;bar,2
+35d76639-f82d-4252-a579-5a1ef8115934,AK's Takeout & Delivery,pizza;italian,2
+35e86fa0-46f8-41d0-acbe-b89729befe74,Canton House,chinese,1
+361b885e-51a8-44c2-a174-2e0d2c5055ae,Maxine's On Saint James,chicken;breakfast,2
+36297a44-c403-48cf-adf3-85789e80337f,Asahi Japanese Sushi,asian;japanese;sushi,1
+3640aed1-be06-43cc-89ad-fd7973080117,Van's Vietnamese Bistro,vietnamese,2
+36c1ed0f-093a-40b3-bebe-66e914968a57,Punjab Palace,indian;american,2
+37d0b0eb-a5cf-48e9-8880-f40d0e9099ce,Bar Lyon,bar;french;american,2
+37e88937-92ee-4a18-bfaa-86ab74482db1,Himalayan Bistro,asian;himalayan;indian,2
+381a6291-f274-41c4-940b-55aa44c56dad,Shojo,bar;japanese;asian,2
+3868572d-7d86-47d6-b310-e8439ee4d299,Fat Baby,sushi;bar;breakfast,2
+3940ca43-9c82-4a31-b0b7-7e290eb4b864,Il Panino Cafe & Grill,pizza;sandwiches;italian,2
+399862b6-814d-4409-b471-bd4d103af8a4,The Bacon Truck,sandwiches;food_truck,1
+39bdc5f4-447b-4177-bcfb-e88cda921084,Pita Pan,mediterranean;middle_eastern;vegetarian,1
+3a50a401-e99b-4a38-98db-dce91bd30215,Tsurutontan Udon Noodle Brasserie,japanese;noodles;soup,2
+3a9e8687-2edc-416c-934d-2e319b36040f,Siam Bistro Thai Cuisine,thai;asian,1
+3ac020c3-21e3-4b70-9d9c-bd2c20498eaf,Jennifer Lee's Bakery,dessert;vegan;gluten_free,3
+3b4abbcf-056f-4e93-b89d-dea081f0df26,Falafel King,fast_food;greek;middle_eastern,1
+3baab7d6-eaa0-48e7-85bf-10a57d3cd3cd,By Chloe,american;vegan;dessert,1
+3bee9566-7010-45e6-89d6-c18bfd2c7d2e,Darbar,indian;pakistani;halal,2
+3ce43974-7ecc-4706-be85-e35c40017a9e,Vaisakhi Indian kitchen,indian,2
+3d6431f3-948f-484f-abb1-2f6a8e3b9c37,Sal's of South Boston,pizza;italian,2
+3d6a6e8f-089f-4839-b2d7-0c21d49cdf31,New York Fried Chicken & Pizza,sandwiches;chicken;pizza,2
+3de689af-b233-4154-8ce3-10e660ca8f10,Amelia's Taqueria,mexican,2
+3e1018d7-4c66-4e2e-9eae-51f6b34cb629,Broad Street Paulie's,sandwiches;breakfast;deli,1
+3e6f0c68-cbbd-4a67-97a4-d3f6c8b37cac,Ogawa Coffee,cafe;sandwiches;coffee,1
+3e7e82d6-ea51-48af-9004-2521f4c7b16c,Target Pizza,pizza;italian,2
+3eba71b0-0a51-4873-827b-f36dce4f5834,Simco's,american;hot_dog,2
+3ee381af-25bc-465c-a262-43fe0cb77ca0,Mmmac N' Cheese,burgers;seafood;american,2
+3ee4e2a7-8350-4985-a45c-e31bacc90014,La Siesta,mexican,2
+3f420eed-0c27-4b44-89b7-8f7660f5a45d,Del Frisco's Double Eagle Steak House,seafood;american;steakhouse,3
+3f561d72-5aee-4a1a-8ecc-a12fc4f668e8,West Garden,chinese,2
+3f92d297-87e1-48ae-ab87-8740229424c8,Sakura Sunakku,french;ramen;dessert,1
+3fb70327-dd02-47bc-9cf3-20f14ae11e10,Super Burritos,breakfast;salvadoran;mexican,1
+3fc0bcfe-9ea3-4f72-9f7b-442afe41709c,West End Pizza,pizza,2
+3fed092f-2465-453b-a271-0161983e90e1,Gaslight Brasserie,american;french,1
+40fa9115-d6c4-4353-924b-0deaefa9cd21,Fin's Sushi,sushi;japanese,2
+41169870-a521-4cb1-967a-c78f73e70b31,International Coffee and Smoothies,coffee;juice_bar,1
+413f29f1-d887-450a-8328-070979400c0a,Chelsea Tipico,spanish;asian;european,2
+418c6fbc-89f7-4911-b5c2-2bbc6e7f411e,Andalus Pizza & Cafe,pizza;sandwiches;ice_cream,2
+41a22360-2e3e-407d-ae82-9fb2dc465ebd,Flame Cafe,american;mediterranean;greek,1
+41f93fa4-85a6-45a5-ae79-6756dd6e0a95,JP Roti Shop,indian;caribbean,2
+4299244c-cff7-4407-9de1-ae73d26cb33a,When Pigs Fly,bakery;dessert,2
+431eb55d-5d61-4bf2-8f64-80a14b479d10,India Quality Restaurant,indian,4
+433c1b6d-6d9f-4e41-81a3-986d2f0ec84d,Dolce Vita Ristorante,italian,3
+43402d17-8ec5-4738-9eb4-b9aa0ff09af9,The Newbridge Cafe,american;breakfast;cafe,2
+43646fcd-e0c4-4196-9b85-93dbee00ccc3,Aris BBQ,bbq,1
+436f880e-4f6e-45fd-b746-b5c4f18d0f7a,Lime Red Teahouse,tea;cafe;peruvian,1
+43c5d4c3-e182-4389-8a0b-6b178c4136b9,Double Chin,asian;peruvian;chinese,2
+4516942c-ee38-4362-859e-948ad56cba3c,Ten One Tea House Newbury,tea;thai,1
+45247ee7-d5ec-4155-af1d-c332a4b7df99,South End Buttery,breakfast;american;dessert,1
+461d793c-7458-4e1e-85c1-1905a2419a5c,Chez Vous,breakfast;pizza;french,2
+4635e4fb-7abb-45ac-b1c2-ab9e5348457c,Bonapita,mediterranean;bakery;greek,2
+4652cdb0-ffa9-4347-862b-477c485757a4,Intelligentsia Coffee,coffee,1
+465437d8-25a2-4370-83f7-b9914f3781fa,Abe & Louie's,seafood;steakhouse;bar,3
+4681f25b-145a-4fb6-ab1c-b22e984391cf,The Bancroft,american;steakhouse,3
+468b03ec-93f7-4062-86b5-ec4ed5afcf00,Regina Pizzeria,italian;bar;pizza,2
+46a5e388-a0ee-4a55-88ac-6782b711e53f,Vineripe Grill,sandwiches;american;breakfast,1
+46b2ee38-0c68-4697-827a-18a757ec637c,Fratellos,pizza;indian;chicken,2
+46c41275-2db8-4289-b5e9-577358e1d986,Hong Kong Dragon,chinese,1
+47254627-8f42-4af9-a2ac-be921579eba6,Pit Shop,chicken;breakfast;sandwiches,1
+47d2f6da-cf52-49ee-83e9-aa85a07b7e1d,B. D Chilipa Restaurant,chinese,1
+47eaee01-5459-4b85-9071-bd2f05170e26,Trident Booksellers,cafe;sandwiches,2
+48932555-83b2-4069-99c9-6c50e6865141,Tertulias,colombian;latin,2
+48f493a5-d76b-4565-ae99-e4aee7765c22,Greek International Food Market,greek;mediterranean,1
+498f4971-286c-4be6-9da5-9aaa21e5952f,The Paramount,breakfast;american,2
+4a063e80-f9be-431a-a4c2-eaafebbc6852,Yakidy,ice_cream;dessert;breakfast,1
+4a42aacd-de65-4a86-b0b1-f93ed3a7d3ce,Bintimani,african,2
+4a65f150-c0f3-48fa-ac9e-41c586a54eb0,Benevento's,italian;pizza,2
+4ac54760-3ac6-4689-96c6-6762366383af,Rome Pizza and Grill,italian;pizza,2
+4ae75a7a-2269-4a7e-b795-54e92e3af5b7,Union,american;breakfast;sandwiches,2
+4afc8cd6-bbe4-4df7-b102-cc7545dfcc8a,Deja Brew,salad;breakfast;sandwiches,1
+4b261b8c-38ae-47c5-8784-d023f272f637,Southern Proper,bar;southern,2
+4b28ad71-f24f-47ee-868d-7fb997506229,Piperi Mediterranean Grill,mediterranean;vegan,1
+4b43a9be-3b0b-4e85-bbab-54006dd6edb7,TeaMoji,tea;thai;sandwiches,1
+4b75706f-bf48-424a-8ea4-2b36f706aba3,Egg the F* Out,breakfast,2
+4c85284d-e03f-4843-863e-9c47a08b8f6c,Sammy Carlo's Delicatessen & Catering,deli;italian;american,1
+4cb64acb-fdb0-42af-b86c-47a09b07a6d3,JC Fruitshop,sandwiches;bowls,2
+4dedafbd-91bf-492c-b637-253e0de2b56f,Samurai Express,japanese;asian,2
+4e1a8e95-604f-410b-b759-b618068dd1cf,University House of Pizza,mediterranean;greek;pizza,2
+4e705f78-2b41-4e68-9229-24badde3f6f2,Green T Coffe Shop,coffee;sandwiches;breakfast,1
+4e968930-e6e5-44d5-8e65-2d5e817247a6,University Grill & Pizza,seafood;pizza;burgers,2
+4f73f9ab-3131-45d0-99bd-9e4bf20ff0a4,The Ninja Burger Factory,burgers,2
+4fd2a9de-179e-4c96-b7b8-dc8a9ddbd13a,Figs,pizza;italian,3
+5003d890-c1fe-4b49-9531-5a53832b9e97,Koy,korean;sushi;asian,2
+505472c1-2de7-4db7-a8cb-f08d169b7fce,Better Bagels,breakfast;sandwiches,1
+508cdf6e-741c-478d-87c1-0d856e55a928,Las Vegas Restaurant,caribbean,2
+51520cce-96b0-4e41-98bd-810d630d5ac3,Shanti,indian,2
+517c7a55-f50f-41bf-98b0-0cda48132493,Fuel America,dessert;coffee;sandwiches,1
+52321a57-9f30-45a6-ab65-ba0bd0f68039,Curly's Restaurant,latin;mexican,1
+532be3c5-f1e6-4705-986a-28f08157dd47,Taste of Eden,fast_food;caribbean,2
+532f0b56-a104-41b6-8968-edb3b9bfdcc8,Mom's Tiffin,indian,2
+535adce2-e552-44cf-8121-edc02436b225,Singh's Roti Shop,sandwiches;caribbean;indian,2
+5399bc5f-26fd-4f0c-987f-cc03b00b018b,Tea Do Boston Chinatown,juice_bar;tea;coffee,1
+5403eb1c-f730-4e28-a652-7c6666cb4bcc,Zen Japanese Grill & Sushi Bar,sushi;asian;japanese,2
+549c0e82-92e1-4103-a9fa-0181e8de263d,Charlie's Pizza & Cafe,pizza,2
+54cc098f-893c-4a78-9a59-49c3dd5a9059,Bocao Restaurant,breakfast;latin;dominican,1
+55920d54-6ec8-4aae-8157-e35226ad01dd,Newmarket Sq. Cafe,cafe,1
+55c5400a-1dca-4dc5-a923-b33b05005326,7 Chinese Restaurant,chinese,1
+55da90e8-71d0-445e-844a-1bd4387ae51e,Sweet Sip,juice_bar;coffee;dessert,1
+569443c9-37aa-47fb-9db9-b14f3afbb88e,Yankee Lobster Company,seafood,2
+56962bae-ee72-4d6a-846d-0b7094d13db2,Arya Trattoria,italian,3
+569be034-3dd2-468b-bf25-8c15361e87d6,Buccieri's Pizzeria,italian;pizza;deli,1
+570d20a7-208a-4a32-9a69-53a2a49d766b,Casa Romero,mexican,3
+571a0c0c-aaea-4e2d-844f-c25efa259b5a,Nos Casa Cafe,european;spanish;portuguese,1
+571d4340-43cd-4d61-81b0-9acd37f796d0,Bella Luna Restaurant,american;pizza;bar,3
+573adb54-07b1-4698-a657-3450532d221b,Cafe Beirut,lebanese;salad;vegan,2
+57641fde-68eb-43b8-8d7c-510273fbc5ea,Korean Asian Kitchen,korean,2
+577fb316-263a-4bc8-b740-a2bde2bee33c,Real Deal,deli;fast_food;sandwiches,2
+57d3310f-7567-490a-a6e0-27461cb83435,Sombrero Chiquito,mexican,1
+57fdd21e-56ef-4512-b436-49d47fa6391e,Fromage Wine and Cheese Bar,french;bar;american,2
+581afdfe-f07a-4d27-991c-b20d63e3c86f,Muscarella’s Market,coffee;sandwiches;breakfast,1
+5834ba8f-4d25-4377-b0fb-5f1d3dbd8b9e,Max & Leo's Artisan Pizza,pizza,2
+5880942f-6f49-4439-b44d-57a4f0add678,Pita Kabob,middle_eastern;greek,1
+58e4f311-845a-497a-8de7-40c09c8220d1,Gaslight Brasserie,american,3
+58f207c4-33d4-435a-a4c2-379785ec3f53,Basho Express,sushi;japanese;asian,2
+590ec118-4d42-4bfb-9f3c-78327bbd2f49,Morton's Pizza,pizza,2
+59223202-41ed-4329-9ef8-7aee1157f1f7,Casarecce Ristorante,italian,3
+5a09f5f3-fb7f-44a7-a433-57fcf68141c4,Aceituna Grill,lebanese;middle_eastern;mediterranean,1
+5a22d520-042d-4565-80ca-03ab98cde363,Gracenote Coffee,coffee,2
+5a88f5e3-fa86-496b-8eb2-c00550dabd8c,Burritos Pizzería,pizza,2
+5aafad9c-ff1d-4eac-ad3f-1e0504e05a3d,DORA TAQUERIA,mexican,1
+5abcd6b0-9d34-464e-845c-7fc8a383c0de,El Santaneco Restaurant,latin;salvadoran;spanish,2
+5ae3dcf4-bd94-418a-985d-f3ba5088a913,Teriyaki House - Boylston Street,japanese,2
+5af161e6-16ab-4978-8789-4bfdf10c0411,Forest Hills Pizza,pizza;italian,2
+5af7ac5b-f620-4480-bbb0-77c2ed09fafd,Cappy's Pizza,pizza;seafood,3
+5b48a870-03cc-4871-aa4a-51c5f658349d,Stats Bar & Grille,bar;american,2
+5b739662-4d7f-4b93-a2c9-28f9f1109c12,La Catrina,mexican,2
+5b9ac16b-3dba-4ada-891f-659c2fe03936,BiBim Box,korean;asian;food_truck,1
+5c261890-1a2f-4c6d-b5b3-c27e41e74b64,Great Taste Chinese Restaurant,sandwiches;asian;chinese,1
+5c2f956f-59f5-448b-8926-591a867e5566,Fuji at Ink Block,asian;sushi;japanese,4
+5c472cb4-aaa6-4417-9f93-c04d32b3abae,Young Kong Restaurant,asian;chinese,1
+5c6e3511-6f2b-4235-aab8-40615660ebdf,Popover King LLC,french;vegetarian,2
+5c8e9212-dcf5-40f2-b4e8-1304b73cb38f,"Shore Leave-Boston, MA",bar;asian,1
+5ce967b3-c8ec-4f10-8f92-39087884bdc5,Hard Rock Cafe,burgers;salad;sandwiches,1
+5d17d388-8718-4158-abe2-4e3c6de63052,Primo's Pizza Restaurant,italian;pizza,2
+5d6f1938-d61c-4e7a-a11e-f8744512812d,FoMu,ice_cream;dessert;coffee,2
+5d79c2a6-9455-4f7d-8485-57b573ed6fb8,Fiorella's Express,sandwiches;pizza;italian,2
+5debe049-2cda-4028-915a-ccbe5ed4d601,El Dugout,caribbean,1
+5e2196c6-2759-4053-9b95-76f5cdb53bb9,Same Old Place,sandwiches;italian;pizza,2
+5e4ffd0a-cf46-474d-ad2d-7df4c7c685e5,Rodey Pizzeria and Pasta,american;italian;pizza,2
+5ee967ce-f771-4ea9-b5e1-efb4b469c3f0,Oliver's Street Cafe,deli;sandwiches;italian,1
+5f16041d-5b9a-44ce-9ebc-f9633846ec14,Ideal Cafe & Pizza,pizza,2
+5f495706-23f7-4865-bac3-3f7c7035ff1e,Jo Jo Tai Pei,chinese;taiwanese;asian,2
+5f50945a-e86e-42f6-8319-1a774fd259db,My Happy Hunan Kitchen,chinese,2
+5f8db566-77a8-466f-a553-4f8c9b5c3fec,Restaurant Cuscatlan,mexican,1
+60082277-d2fb-4a79-abb4-a2afc0b62349,Taco Taco Burrito Burrito,mexican,1
+6045b515-827d-4171-a439-a1bee3b8c4e4,Kelley Square Pub,bar;pizza;american,2
+609948ab-22a1-48d8-ac0a-35296c3029ce,Banners Kitchen & Tap,bar,2
+6188a3b5-4d4d-4d9d-a0df-9a773a41eb35,La Sultana Bakery,dessert;latin;colombian,1
+62360978-5867-4f09-9b93-98bb4520ab89,PABU,seafood;sushi;japanese,2
+6264f1bb-ff45-4fb7-85d4-b37ed870b43f,Delicias De Montecristo,breakfast;salvadoran;mexican,2
+626f186c-f8e8-43f9-ba3d-fb8ea08b5fdf,Papa Rino's,sandwiches;pizza,2
+62df1a25-285d-4f45-9911-7348cc163292,Little Steve's Pizzeria,pizza;sandwiches,2
+63019446-13c7-4da5-bf02-d7aa502a0fd0,Napoles Restaurant,bar;colombian;latin,2
+631017a1-b1c0-4408-8dcc-d901a4945e09,Thornton's Fenway Grill,american;breakfast,2
+631118d4-ac1a-4b53-84e9-ac0a69ec85ac,Gyro City,mediterranean;greek,1
+63189f4c-d83b-473d-83d0-dd040bd54015,Sebastians,breakfast;cafe,2
+63a92c76-a79b-48c5-9ed1-9524a8bf8ef4,Star Market,bakery;american,1
+64350957-e262-448c-b561-595605b9c8bb,Eagles Deli,deli;burgers;breakfast,2
+64d48aae-88d3-4cde-98c4-a8dcc3195fca,Mother Anna's,italian,2
+654a7cf3-5de1-4ef0-af45-6ac9de933942,Sauciety,american,1
+655e8681-ddfb-4b86-b683-dd310c8d834c,Sakanaya,seafood;japanese,1
+658567bc-81fd-40b6-95ad-993913fc241b,Shawarma Falafel,middle_eastern,2
+659b9ec6-183b-406d-9f41-d539bcd573dd,Big Daddy's Pizza & Steak Subs,pizza;sandwiches,2
+65a2b61d-d14f-488f-a96f-ba41044be3f2,Olympic Pizza,pizza;sandwiches,2
+65bcf4f8-20d8-46fa-bd58-2e2234f1cf96,Bastille Kitchen,bar;french,3
+66534f6f-60c0-4dc8-959c-1e793abdaa0c,DAVIDsTEA,coffee;tea;cafe,1
+666b84b1-a849-4265-957f-77967d639832,Tia's,seafood;american;salad,2
+667d26fd-0455-4aed-82d3-17c0896f3d45,Sunset Cantina,bar;mexican;american,2
+66833e1f-0e64-46a0-be30-75376e9af00a,Paris Seaport Bar & Creperie,breakfast;french;bar,2
+66d9e446-3df5-4d1a-aa61-765b712ec574,Beijing Cafe,chinese;asian,2
+67890383-bbfd-42ac-9817-1078a2e0a2a7,New Market Pizza & Grill,american;pizza,3
+67a25867-56d3-49f3-b254-aa049d3a119e,Village Sushi & Grill,japanese;korean;asian,2
+67d260da-35cc-43a3-9e3b-95992fe7c918,JMP Fine Indian Cuisine,indian;halal,2
+68072580-1f18-4b80-a7aa-20b908f64c31,Saigon Chicken House,vietnamese,2
+685c4fae-ab1a-4f64-b53b-2680107e3ed4,Tikki Masala,indian,2
+685dbf82-e84e-4691-948d-4928fa2ab8d0,Toasted Flats,sandwiches;coffee;juice_bar,1
+6891aee7-e51d-4bed-b8ee-ae6058b7e933,Plaza Garibaldi,seafood,2
+68c7c402-9217-4dc9-ac7a-0c199edd8174,Inbound Pizza & Restaurant,pizza;sandwiches;salad,2
+690db668-7bd5-426f-a9a9-fffb5f954de6,Itadaki Boston,sushi;asian;japanese,2
+69164bae-a3a8-4742-a597-8424f419b656,Prieto El Rey De Las Empanadas,latin,1
+69490f63-dbaf-4ead-a9cf-06459b7ec60c,El Pelon Taqueria,mexican,2
+694e43fa-01b9-4bd5-9982-ec71f9af0dde,Cafenation,coffee;breakfast;french,1
+69c4ceca-f685-405b-b431-52d3e99570b3,CITRA A Fresh Cafe,breakfast,1
+69f018e0-f759-4b2f-8ff3-d83174772b25,Max's Deli Cafe,deli;cafe;sandwiches,2
+69f6fcbd-b9b0-43c1-a7fe-862f576c7545,Manne's Bakery,italian;dessert;deli,1
+6a5b0143-5dd7-4f99-a69a-cc14e752bcc0,Caffe Nero,coffee;breakfast;dessert,1
+6adc2c08-068c-4371-a94e-e49586d84a14,Banh Mi Ngon,sandwiches;vietnamese,1
+6b09473a-5359-4bcd-8d32-85d749ae44d9,Lucky Rice,japanese;sushi;chinese,2
+6b0f22e2-36ee-4469-bf08-f673585e764e,Taqueria El Barrio,mexican,2
+6b243c20-86b3-4d13-8be3-cda512809f1e,Cactus Grill,salad;seafood;mexican,1
+6b339b00-ad89-4305-91d1-ab921876b5d5,Haju Kitchen,korean,2
+6b8200a6-58ec-4da0-92f7-a692d3433b05,Odyssey Grill & Pizza,mediterranean;italian;greek,2
+6c06da2d-8123-493b-ad9e-3fb04a766503,Crudo,sushi;asian;japanese,2
+6c0efc5a-286f-43bf-b568-2f76db0799b6,La Colombe Coffee,coffee,1
+6ce10d28-dd69-4437-a2df-51778c77ecb6,Sufra Mediterranean,mediterranean;halal;sandwiches,2
+6d62445c-2aab-46bb-b719-5ad50199d47b,Thai Place,asian;thai,2
+6d749e3d-cf67-406b-8ba3-17a544f815e3,Jo Jo Taipei,asian;taiwanese;chinese,2
+6ded4010-d8a6-4cf0-850e-ad897d0c9a75,Yellowbird Homestyle Chicken,chicken;sandwiches;southern,1
+6e251697-fd51-4d88-8af3-03d6bab9d0cc,Nick’s Place,seafood;pizza;sandwiches,2
+6e4792f0-3c05-4bd1-9843-ba5934c1da09,Rina's Pizzeria & Cafe,pizza;italian,1
+6e6546a4-02af-4889-ac52-da9d8438234e,Nino's Ristorante Italiano,bar;american;italian,2
+6eb89828-aff3-416a-9bae-c1a1a409056c,Mija Cantina & Tequila Bar,bar;american;mexican,2
+6ec61fad-9c91-4ce8-bf7b-8ab13acb2982,Milk Street Cafe,japanese;sandwiches;sushi,2
+6f293ab5-a6b3-42ad-aee3-63a3c9ef3c36,Equal Exchange Cafe,sandwiches;coffee;cafe,1
+7021998c-35ae-4bc0-9f67-44357bbb0988,Crown Fried Chicken & Pizza,chicken;pizza;bbq,2
+7037de53-91e0-4a3c-a82c-1c18db1ffb51,James Hook & Co,seafood,3
+7049372f-f093-48a0-9177-a9eb75f6b617,Life Alive Organic Cafe,juice_bar;vegan,1
+70519c80-fd3c-413b-b44e-45e9aac9488a,Baja Cantina,mexican,2
+70986a72-3fd3-4622-8d23-75a0c17b6c51,KO Pies,seafood;bar;polynesian,1
+70d0e313-68d6-47b4-88c8-3cca8295de6f,Arizona Barbeque,bbq,2
+71262159-be3c-4696-9dc5-a040e9642ad8,Star Fish Market,seafood,1
+71548d73-66ba-4a86-87f5-fa4b3ef741cb,Hokkaido Ramen Santouka,japanese;ramen;noodles,2
+718fc2ac-6dbe-424e-90a1-1a3190a9746f,The Meat Market,seafood;bar;cafe,1
+7191b497-8392-49dc-8cf6-b921f4fe4aa7,Silk Road Express,asian;halal;chinese,2
+71aef28f-2380-43ab-aaf3-007c464ab379,Sai Gon One Restaurant,chinese;vietnamese;asian,2
+722d6636-4c2f-4d97-b5c7-5bd2adcec030,Dirty Water Dough,pizza;sandwiches;american,3
+727828df-3dd3-4cd8-b151-b8478fa15d27,Genki Ya,asian;japanese;bar,2
+72afbe4f-2d23-4b45-bb6c-3e74a7349778,SA PA,asian;vietnamese,1
+735450f2-9845-4b0f-b6bd-7b912463c703,Brassica Kitchen and Cafe,american;breakfast;french,2
+73725af6-29c0-490d-bb79-10460e71036f,Tijuana Mexican Food,mexican,2
+737aad8f-4ca3-4a28-a5e2-9161a49cb33f,South of the Clouds,noodles;asian;chinese,2
+7382ba5a-8745-4efa-b4a8-765d48dfa509,Teriyaki House,chicken;japanese;soup,2
+73a42ab2-e037-4d7c-85d2-85c9957bd0f8,Audubon,american;bar,2
+73b0ab87-f6ae-4c9b-ae6f-09194ed713c6,Tu Metapan Restaurant,latin;mexican;salvadoran,2
+74724529-be9d-4eac-8c0a-7bea892c83f3,Pollo Royal,latin,1
+7489f921-3366-4f17-b21f-31f7c7301bb7,Flames Restaurant,caribbean,1
+74953a16-73aa-406a-9f75-3a380b78ed32,Bar Louie,bar;american;sandwiches,2
+74e1e01a-68aa-497f-b2c6-51ab0a5c5a81,Pink Taco,breakfast;mexican;bar,2
+760ee7ba-cb6b-4806-849e-20770fc7d2d2,Kala Thai Cookery,asian;thai,1
+769707f8-61cf-4661-be2b-88b9edb01b59,CINI’S,italian;pizza,2
+7735adae-cb3c-416a-9a05-37eb13aceec3,Dryft,bar;seafood;italian,2
+77a18534-8612-4598-ae93-ab08de2103a3,Nour Cafe,cafe;peruvian;middle_eastern,1
+77cba8ee-deba-4f4a-a9bc-8d61cc6c022e,Brighton House of Pizza,american;pizza,2
+77cc9eef-7070-4004-8070-913f9b21d338,Noodle King,asian;chinese;noodles,2
+7819fd5c-2947-4709-aaac-d148b0740b52,Kimchipapi Kitchen,poke;japanese;korean,2
+7838f2b7-4ffa-4ee9-b58a-9e990f26b6b3,Oishii Sushi Bar,sushi;japanese,3
+7863e048-2855-4b70-87b9-9f8023810f78,SoPo Fried Chicken,chicken,2
+790fe814-fc89-45fd-84ba-fcff7c5e957c,Pho Le,asian;vietnamese,2
+7927b560-585d-43d6-abda-bcd30fffbb3e,Potato Tomato,pizza,1
+795e4c42-b59d-47c0-9da2-ab7c2d3c5f14,East Boston Farm Stand,sandwiches;coffee;juice_bar,1
+79f36815-cadd-400f-b2db-6af482d1c8de,Pho Pasteur,soup;vietnamese;noodles,2
+7a226213-9dc4-4674-9350-48fe87a33aab,DIG,vegan;american;salad,1
+7a338adc-d926-49c5-a7de-6828b2af5e38,Asian Garden,seafood;chinese;asian,2
+7a3fb803-54fb-40a8-9cbe-7680b08e92d4,Anoushella,lebanese;middle_eastern;european,2
+7a6bc31c-f921-4dc8-bbbe-b43cead7d772,New York Pizza,pizza,2
+7aadbcd4-40ca-4ca8-a8a8-68ef7bdfaed9,Black Lamb,american;bar;seafood,3
+7ad6a5c0-25f0-4ef2-943d-264809b2018f,El Pelon Taqueria,mexican,2
+7adf0ade-49fc-4dc2-85dc-db796bcae8e0,MALA KUNGFU - Allston,asian;chinese,1
+7b15435c-9aa5-42e7-8061-c53753f95f89,La Casa Del Pan Debono,salvadoran;colombian;deli,1
+7b23b04d-7ff9-4281-85dc-d9cee85a7de0,Lala Restaurant,latin;haitian,1
+7b778391-5dc2-48a2-a98d-2528fc39fb01,S&L II Subs,sandwiches,3
+7b94c3d0-cdc6-4d10-9cd8-3293cd2a7b3b,Burrito Clasico,mexican,1
+7bc44e0e-4049-4694-b759-e4b3f7987ec2,Sub Station,gluten_free,2
+7bfb4d12-0de1-48e6-ac67-1a50e04ceccc,I Love Nick's Pizza,pizza;sandwiches;salad,2
+7cc807b5-20a5-45ce-aed5-8646b4eaf97b,The Four's Restaurant & Sports Bar,american;mexican;bar,2
+7cde7c05-411b-46e5-82c8-48a09fbea25d,Brown Sugar,thai,2
+7d00eaa8-3e94-425a-adb9-93966cd3c443,Pizza Etc.,pizza;sandwiches;salad,2
+7d0c183e-920a-41b9-ac70-19db1b3feedb,Pauli's,burgers;italian;sandwiches,4
+7d41f926-9aa8-4368-8257-71072ed48582,El Paisa II Restaurant,mexican;latin;colombian,2
+7ddd8236-5910-4306-8063-69754736fdbc,Diva Indian Bistro,indian,2
+7e41780a-2f5c-40c9-98db-64d26e53d1df,75 on Liberty Wharf,american;bar;breakfast,2
+7e5d6708-c797-4cfa-92e9-38fd08bf1000,Wagamama,asian;soup;japanese,2
+7e721608-594b-4139-8baf-820e571049bb,North End Fish Market,seafood;sandwiches;sushi,2
+7e81516f-5e18-4349-ba3b-d28a211c5de2,South Street Diner,diners;breakfast;american,2
+7f263374-635a-4ee2-881c-0049f87c05b0,Charlestown Cafe & Restaurant,breakfast;cafe,1
+7f79987d-bdc3-40b4-a82c-e95ce2f78122,Bean & Leaf Cafe,sandwiches;breakfast,1
+7f83f5a2-1afd-435b-b4c6-8bd06fa2a6a7,Jugos,juice_bar;coffee,2
+7f851b2c-2c9d-43de-85b0-c3a13f8eaff0,Mi Pueblito Orient Heights,mexican;breakfast;seafood,2
+7fa2c7f0-813d-4568-98c2-ee73a6b8ff5f,Antonio's Cucina Italiana,italian;american,3
+7fd977bf-06e6-4d9c-80e6-974c1d4e6a0e,Lilly's Gourmet Pasta Express,italian,2
+7fe30407-bae4-4d2f-8618-435fe37af733,Florina Pizzeria & Paninoteca,sandwiches;pizza;italian,2
+7ff44d38-afd3-4c9d-9e34-a6063fb276e3,Cafe Podima,sandwiches,4
+8043d319-4c44-4ae0-b52f-37c1669476c9,Mainely Burgers,american;burgers,1
+805d6c2b-7f02-402f-876f-5b6ab11ad971,Explorateur,american;bar;french,2
+805f98d0-f94e-419b-b376-1e12e10ee75b,Volare restaurant,italian;bar,2
+808a339a-0fc7-4916-a03a-306ee3b866be,Taco Mania,mexican,1
+809f4cec-8f27-4906-b3f5-bac691912721,Jeveli's Restaurant,italian;bar;american,2
+80bc4138-799f-44de-9d9a-9a42cdfde7a4,Restaurant Laura,african;portuguese;spanish,2
+80e521b1-e4ce-4db0-9831-27ea8ea3adef,Falafel King,fast_food;middle_eastern;greek,2
+8104d0f7-574b-41be-be34-add5cac2789a,China Maxim III,asian;chinese,1
+81232281-1e69-41ba-9f20-57f57800186b,Forest Hills Diner,sandwiches;american;breakfast,1
+817718e4-235e-4054-a588-e6eb8ba9f7c8,Mike & Patty's,sandwiches;breakfast,1
+81daf039-ad3e-4eab-a0dd-ea7d02e8906e,Tora Japanese Restaurant,poke;sushi;japanese,2
+824e7b18-04b2-47f1-9959-5c14eda40972,Blackbird Doughnuts,donuts;dessert;coffee,4
+82e93091-8f24-416b-aeec-e369557602bd,P&R Restaurant And Ice Cream Parlor,ice_cream;caribbean,1
+83112170-3dfd-425b-8a46-f7de2bbd6362,Venezia,italian;bar,3
+83146f6f-8e2b-45b7-8147-00e3e6595c96,Scholars American Bistro and Cocktail Lounge,american;bar,2
+8350faf4-66f2-47bf-a092-201853490469,The Brown Jug,bar;pizza,2
+835919d7-cdd5-4dbf-9b43-09a406951776,Lucy Ethiopian Cafe,ethiopian;coffee,2
+83b04995-03df-4d1e-97cd-76a721dedecf,The Smoke Shop - Seaport,american;southern;bbq,1
+840746b5-e105-4291-9b67-d8df34bc1b61,Miyuki Sushi,sushi;japanese;asian,2
+8448d73b-c086-4076-80a9-71aa86f3d77d,Pat's Place,breakfast;burgers;sandwiches,1
+845cbdf1-764c-4192-8bb6-d3de3139e6d8,L.A. Burdick Handmade Chocolates,dessert;peruvian;coffee,3
+84640ce5-a70c-479f-85ca-f2615155c5c1,La Cancun,mexican;seafood;latin,2
+84925602-0b91-40b9-b40b-2eaf1d868520,Evergreen Eatery,breakfast;american,1
+84b00f61-ca55-4ea2-812c-f36feddddba9,Pizza Possessed,gluten_free,3
+85475b74-35a7-4ce8-8e75-cf3abff3c796,Prattville Metro Pizza,sandwiches;pizza;salad,1
+8566b56a-7632-4c6f-99b1-10e3ca2e90d2,D&d Restaurant,latin,1
+85c3ae97-096c-4022-86dd-a9af28e1051a,Ducali,italian;american;pizza,2
+85ddcce4-2979-4a09-9cb6-0b4e74c4f4ec,Korean Garden Restaurant,asian;korean,3
+85e3056a-3cc9-42da-b6e6-5564fdd86082,The Paramount,breakfast;sandwiches;american,2
+8670cf11-bd09-4ee1-8456-2d6df11e8b08,Boston Crust,breakfast;pizza;italian,2
+86d475f9-9e10-47f0-b9d6-e2b544ccf688,Joe's American Bar & Grill,american;bar;steakhouse,3
+878e44d3-6466-43ec-a96c-f487ab133824,Kaju Tofu House || Allston,korean,2
+879a9585-e014-42ff-b7fa-3a4d56f99931,Tarboosh,mediterranean;pizza;greek,2
+87cfd82f-8fae-442d-bef6-39d367f59b60,Brickhouse Pizza & Grille,pizza;italian,2
+87daac50-efc5-4fbd-a7da-390c57f4b911,Felcaro Pizzeria,pizza,2
+87ed21b6-a53d-40e6-a8a5-b342d4ceac04,Mission Sushi & Wok,japanese;asian;sushi,2
+87f0388f-424d-48e8-8bd6-32e67a695425,LimeRed Tea House,tea;ice_cream;coffee,1
+883b68a2-6528-4ad2-baa7-2e13b4875a77,Right Taste Jamaican Restaurant,caribbean,2
+8851dfd4-0411-49c7-9380-573b04485ada,Beachmont Roast Beef,breakfast;sandwiches;steakhouse,1
+88a42659-aaad-41b0-8885-dbee4d6144e5,Yoma Burmese Restaurant,asian;burmese,2
+88e0daac-b1f9-4295-bb7d-55451f40f29b,Sidebar,bar;asian;american,2
+88eb3132-62ca-4874-908e-835836b8fa94,Sabrine Bakery & Cafe,coffee;cafe;bakery,1
+8908a824-9087-4c05-a442-ba8596bcb353,Blue State Coffee,sandwiches;vegan;coffee,1
+895b7951-1fdf-4958-a3c2-6b53c6cb2888,Gondres Bakery,sandwiches;dessert;mexican,1
+89c80a67-9788-4649-99a2-13eba04ff849,Noodle Barn,noodles;thai;vietnamese,2
+89d53f2a-61e3-40c9-b829-346ca09cba33,Pier 6,seafood;american;bar,3
+89e07cfe-a3c2-4f1e-b8e3-281989a44876,The White Bull Tavern,american;bar,2
+8a4d354a-3993-498d-81b8-3a36559e593d,Devlin's Restaurant,american,1
+8a5f64db-b620-4820-a21f-83f9338caf85,The Brahmin,bar;american,2
+8aaddb3d-0e3a-453a-bc9f-856f12d81618,Metropolis Cafe,cafe;bar;greek,2
+8add0c08-c74f-44e6-bf64-f98331fedb2c,The Florentine Cafe,cafe;italian,3
+8af1e3f5-a707-40c4-969c-3ecf0456a0ef,Uno Due Go,american;pizza;salad,1
+8afa03e0-edd4-4f1e-88ba-bb54fd98fddb,Thinking Cup,breakfast;coffee;sandwiches,1
+8b32f2df-0ee7-4bfe-88f4-e4a2f4468cfd,Biddy Early's,bar,1
+8b595040-4a42-4e0b-ab78-2e0d755d3247,Kashmir,american;indian,2
+8b8cebc1-9a3d-406c-ab15-8dd483262eae,Habanero Mexican Grill,mexican,2
+8ba921ab-7fe9-4724-ba88-b3d7a6e0ccd6,Nick's Pizza & Seafood,pizza;chicken;sandwiches,2
+8bfa159f-9b48-4b40-9bb1-aa7c8e78b069,Grotto,italian,3
+8c340bcd-3054-46a5-bdf8-4a8cebeca953,Chic chick,southeast_asian,1
+8cab19cc-de07-4687-bca9-37866009aa19,Jamaica Mi Hungry,caribbean,2
+8d45ffea-44eb-4cdc-9645-d6e4a70852b9,Thaitation,thai,2
+8d8e5614-aa50-47d3-b8ac-daeda0b36b6d,New Hong Kong Chinese Restaurant,chinese;asian,1
+8daef21c-a20f-467e-b0d5-959c8d59c043,Antonio's Bacaro,italian,2
+8dd4aa8f-b46d-4a41-9532-c6689b047f68,D'Amelio’s Restaurant,seafood;bar;italian,3
+8df288d9-4d13-4608-8ce5-240a48af9be3,La Terraza,mexican;latin,2
+8df8d04c-f0c8-4274-b672-88c02c6264d9,The Galley Diner,american;diners,1
+8e013a7f-9454-44ce-af61-f42184778a91,Rod Thai Family Taste,thai,2
+8e0e1db3-23ea-4c79-b243-a8e837857310,Irashai Sushi and Teriyaki,sushi;japanese;asian,2
+8e286023-6fb0-4196-8d3c-5cdfd83646d3,Cafe Juice Up,juice_bar;coffee,1
+8e54b425-49b5-4d2b-8de9-12869087ec81,Dates and Olives,greek,2
+8e92eb24-2f80-4c7b-9135-84d090793d13,Two Saints Tavern,american;bar,2
+8ecd081f-4083-49a3-806b-f47bd52c8ea8,Fairouz,pizza;lebanese;middle_eastern,2
+8f28ac5b-f12b-4575-915d-33397f7a9b27,Padaria Brasil,dessert;bakery;brazilian,1
+8f36c4e5-0a28-4876-9fa6-d89d4746c446,Only One Jamaican Restaurant,caribbean;american,1
+8f601f75-b042-4754-9c0d-a80cb8f571f2,Revolution Health Kitchen,soup;coffee;juice_bar,1
+8fd16de7-0e6f-406e-8b2e-dec2f042dd08,Happy Kitchen,chinese,1
+8ff6855c-1613-4831-bb56-61bd77871055,Davio's Northern Italian Steakhouse,steakhouse;seafood;italian,3
+901090df-0322-4c7e-ac8d-a377060e6a88,The Butcher Shop,steakhouse;french,2
+9017d67d-7b45-4206-b7ea-728b1b3ebe4d,Boston Burger Company,american;burgers,2
+903bb11d-5eea-487d-a4e6-b63ba5f1e7b1,Trattoria Il Panino,italian,3
+9050a4ba-f9dc-4dbc-84f7-01316ef4c953,B.GOOD,sandwiches;burgers;salad,2
+90a7236a-e832-4343-a52c-0a7bccf31b97,Noodle Lab,soup;ramen;noodles,1
+90a7a01c-4a7d-4f29-9380-4e17e55074b1,Num Pang,southeast_asian;sandwiches;salad,2
+90b3f860-f603-4939-97f0-a68a8e9566f9,Yoki Express,sushi;japanese;poke,2
+91096d40-f2de-49c7-88a7-021ae2042123,Wahlburgers,canadian;american;burgers,1
+911d0887-7727-4a91-834f-f4db9901491c,Dos Diablos Taco Bar,bar;american;mexican,1
+913665aa-0c00-48d4-9399-1af93a44da76,Five Spices House,chinese;asian;taiwanese,2
+9180795f-ecf5-4006-9905-ccbe8b002391,Sojuba,korean;bar,2
+91a76307-db58-4569-a59c-1536daf6d6ca,Iron Wok,asian;chinese,1
+91e8a904-1ece-4c37-8543-d948a1340412,Noodle Street,thai;noodles,2
+91ff025f-a55c-48ba-a2b3-1ec787ce3539,Jimmies Ice Cream Cafe,sandwiches;hot_dog;ice_cream,1
+92756276-6e7a-4b9b-823c-9a17588318f3,Wink and Nod,american;bar;latin,2
+92a4096e-5b45-487e-b64c-55befd40dd4d,Daniel's Bakery,bakery,2
+93976da1-4ae6-43e5-bea6-0ea3a80dcbd1,Mela Modern Indian Cuisine,indian,3
+93c5fbbf-b8b9-481f-8b04-591f0b7574ea,China Station,chinese;asian,1
+93fab7b6-3ab4-4201-b5ca-d66405647c77,Fiskie's Cafe,chinese;american;asian,1
+94274a62-ffd7-406a-94c0-eed8900aedbf,Shin Hakata Ramen,japanese;ramen;noodles,2
+947455dc-7eff-41fb-b490-3e809717c455,John's Pizza,pizza,2
+94b887ca-2dca-4fc5-9248-1adf132cff9a,Carmella's Market,sandwiches;deli,1
+94c3eff5-f5ee-4b6c-92c5-91e7b2b8a90c,New Moon Villa Restaurant,asian;chinese,2
+94ea28bc-8387-48be-87ea-1ae655bbea8d,Asian Thai Restaurant,asian;thai,2
+953933e1-c6ff-4c70-a36c-cd78d5b09853,Gyro City,greek;mediterranean,2
+95679bf8-d6c6-4b10-a4bd-05a90be2b5b8,Sofia Italian Steakhouse,steakhouse;italian,3
+959aaebc-5704-432f-a477-30e2b22e5294,Liuyishou Hotpot Boston,chinese;asian,1
+960a1690-cc55-491b-89dc-d5aef9fea00c,BosBurger,salad;sandwiches;burgers,2
+961e2c34-f446-4bb7-9203-65620ad6971b,The Haven,bar;british,2
+9642f26d-1a08-4d24-9848-1e7787ea9856,My Cousins Place,coffee;cafe;peruvian,1
+966b561e-727c-46a8-8950-600eb6f60bb2,Charlie's Sandwich Shoppe,burgers;breakfast;sandwiches,1
+967e2a15-883c-4340-bc45-ca0516fb3421,il Molo,seafood,3
+968ad26d-216a-40e4-9827-6bfbdc92e60a,Cocobeet,vegan;coffee;juice_bar,1
+96a7da51-5543-466c-8003-8df42d7f7894,C Fruit Life,chinese;tea;dessert,1
+970ff71c-9b2d-4be4-b118-74c199c96c79,Shalimar Food & Spices,indian,1
+972a5fb7-a910-4bcb-b6ae-c7d575b4c31e,Marino's Market & Deli,deli;breakfast;sandwiches,1
+98292769-bab3-4571-a701-03e6e5e59672,Market Cafe,deli;coffee;cafe,1
+9905023a-2647-4928-afb5-f85900dfafdb,Gyroscope,greek;salad;mediterranean,1
+991e31ba-4519-46a3-8f82-5db6a208fff2,Oath Pizza,breakfast;pizza;salad,1
+9967f3db-dd16-4675-8773-0c140ffc9c09,Nick's Place,pizza,2
+997d9ea7-9de0-4f24-9e8c-6eed67d0e8a5,Fare Well,dessert;bowls,2
+9ab57948-daab-4e74-96ca-1eb7ade13c64,Symphony Sushi,sushi;japanese,2
+9b657c08-279c-4a73-9ba5-16fa995939d1,Earls Kitchen + Bar,american;canadian;burgers,3
+9b80822a-f3e8-4046-9617-547abb8ed634,Hong Kong Chef,chinese,1
+9bf3bc33-33ab-4c0c-a914-985227ddabdf,American Provisions,sandwiches;breakfast,1
+9c359f2c-6d7c-472a-96f7-b2f0d7410d84,Club Cafe,italian;cafe;bar,2
+9c3f8c3d-96ad-4508-af1d-8cd3bdda0534,Blush Baking Company Llc,dessert,3
+9c6ca15e-feb4-4a15-8d2d-6ed0d3d9766b,Holly Crab,cajun;seafood;chicken,2
+9d094e3d-bde2-44dd-934b-d89dceddaa6d,Cityside,bar;american;burgers,2
+9d4dca29-36b0-4310-98c2-c9cb8a556676,Carrie Nation Cocktail Club,bar;american,2
+9e0114dd-8ba4-4ce0-967b-734f4a456be1,Decca,burgers;southern;sandwiches,1
+9e95ef70-a02b-4e2a-aa5e-3357179c9c4d,Neighborhoods Coffee And Crepes,sandwiches;coffee;cafe,1
+9e9fc1fa-00a8-4fea-ade5-076bf0c988fd,Pizzatalia,pizza,2
+9ee2b604-8220-4e57-bb4e-66a082c60d36,Ernesto's,pizza;dessert,3
+9f3eacdf-77f3-4d88-bacf-f4490bf7dc24,Johnnys Pockets,sandwiches;burgers;pizza,2
+9fbef242-e1e7-49be-87b7-462d1970cafc,Al Capone's V,pizza;sandwiches;italian,3
+9ff6e9e3-c792-439e-9b16-27928c968f50,MDM Noodles,asian;noodles;chinese,2
+a016a826-931d-41ae-8c01-f74fb766f561,BenCotto,pizza;seafood;italian,2
+a027abb9-b0d6-4ac7-a648-718fbcfe54a0,Mamma Maria,italian,3
+a087429a-4117-4564-b347-476290583590,Casareece,italian,3
+a0bde699-baa0-4b25-b118-d22fdf49cce5,Citrus & Salt,mexican;bar,2
+a134c178-1b86-46a0-88d5-61adade07164,Taste Wine Bar & Cafe,cafe;bar,1
+a14fb453-2859-49c3-b5f3-e9366a2d976d,Dumpling Cafe,chinese;asian;taiwanese,2
+a1f85d4e-7643-463e-9752-e066c1303e98,El Triunfo,mexican,2
+a206acfe-4ea9-4958-bf58-834f29fbff4b,Saloniki Fenway,greek;salad,1
+a221c3ab-01d8-4c65-a5d5-4e880997282b,Caribbean Flavors,caribbean,2
+a25ef225-65ea-417a-89da-43bf4c57c54d,Yutaka Buffet,buffet;chinese;japanese,1
+a287b6f6-b05c-41aa-9aff-fdbc51736812,SAMA Confections,coffee;dessert,1
+a2c175bd-0636-45e8-bb9e-f7df7c15b8a6,Fox & The Knife,bar;italian,3
+a3140321-d138-442c-89d3-85ae634e2134,Tikkaway Fresh Indian Grill,indian;vegan;gluten_free,1
+a33764fc-35eb-4372-bfd0-991a11a3ab82,One World Cuisine,breakfast;indian;sandwiches,2
+a33c4677-dcbc-40d8-8130-6b42681e214c,Somtum Modern Thai Cuisine,thai;asian,2
+a34516cc-c69a-4890-8c7b-6b21587673b4,The Circle Pizza,pizza,2
+a3bde780-8d48-4f39-b668-9e033981c0b3,Stefano Sub & Pizza,pizza,2
+a3de4241-b30d-4bcf-a08d-a9bd0033e59a,Gre.Co,salad;mediterranean;sandwiches,1
+a3dfed65-dfad-476e-a2df-4b4901daf76b,Inna's Kitchen,coffee;breakfast;deli,1
+a3f4c284-bc40-49fb-a4e2-d44169ab078f,Crispy Crepes,french;greek;breakfast,1
+a406e6eb-148a-48f2-90c9-63283e34d602,Strega,italian,3
+a40d37ad-6855-4c12-aee2-7a52fb7ef18a,Kelleher's Bar & Grille,burgers;american;bar,2
+a456902f-4b1a-47e4-88b2-c8161454cd1c,Crispy Dough Pizzeria,pizza;halal,2
+a45b205c-64a0-4ae8-9873-721da06a1cb3,Douzo Sushi,japanese;sushi,2
+a49fbf5f-159f-4cbf-8243-de2914a3d814,Shanti,southeast_asian;indian;asian,2
+a53b30e7-21b9-427f-9996-0a466156586a,Devine Merci,caribbean,2
+a59c7e3b-8285-433c-b0d8-fc6cedc177b4,honeygrow,salad;vegetarian;noodles,2
+a601d48e-7b43-452c-b92b-2af402a2fd27,Miami Restaurant,spanish;dominican;cuban,2
+a620cd38-fef6-4e39-9421-09a46abe6335,Stash's Pizza,greek;salad;pizza,2
+a6684388-5959-4763-8f32-3cc8c95a1ecb,Levend Bagelry,breakfast;bakery,1
+a6714dcb-136d-4a03-9ddf-f2bb61e4bb85,Santo Domingo Restaurant & Cafeteria,spanish;latin;dominican,2
+a6b15b6f-c457-42f8-8d43-6d8cf012aeb3,Espresso Love,breakfast;sandwiches;coffee,1
+a6db3c6d-7d5a-4178-8e95-e7558a428b02,Simco's,hot_dog;american,2
+a6ed5cbc-eb91-4666-8ac4-496fac8d15f3,Loco Taqueria and Oyster Bar,bar;seafood;mexican,2
+a6f8090f-229e-4c32-8ede-36b934d450cb,Boston Kebab House,turkish;middle_eastern;mediterranean,1
+a7267a19-bfd5-4ece-86e2-ab3c08589d7f,Ethiopian Cafe,ethiopian;vegetarian,2
+a72b9f31-86e7-4abb-808d-4656a6bc9068,Burrito Clasico,latin,1
+a75a7899-1bc1-4b6a-b406-cd934ad6ed00,Chriscilla's,pizza;brazilian,2
+a75eeccd-c541-4467-8de4-b40fc1aa5c16,Spike's Junkyard Dogs,sandwiches;hot_dog;burgers,1
+a769d8d7-8740-45d6-b59c-d8f236398824,Tawakal Halal Cafe,african;halal,2
+a7ea4de4-0cbf-489b-99a7-effe7caca812,T's Pub,bar;american,1
+a7f45e82-1d33-478f-96e6-44128f5da30a,Boston Pizza Grill,pizza;ice_cream;dessert,2
+a8a2ee64-2dab-4d1e-ae07-b1a85e40dd0b,Laz Cafe,pizza,2
+a8be7ac4-d6f3-405c-91e9-04a872faf152,Los Arrieros,soup;mexican,2
+a8cf4561-d816-4014-b301-f22b21904093,Quattro,pizza;italian,3
+a9447010-1c9d-4bbb-a64c-8871453360dd,Monument Restaurant & Tavern,bar;american;breakfast,2
+a945909b-1ab1-46e1-82de-5b8c63ef3f2f,Pavia Italian Cuisine,pizza;american;italian,3
+aa0ff0e5-951f-49b7-baca-f73429697adc,The Franklin Cafe,american;bar,3
+aa17e69c-0752-4826-9b7d-8a475069aa0f,Chatime,tea;juice_bar;coffee,1
+aa2efc60-6472-4c1b-ae73-2025ab52033a,Sunny Cafe,asian;sushi;japanese,2
+aa38e483-c312-4d0c-a578-e20dc002f77e,Cheryl Ann's,dessert;breakfast;sandwiches,1
+aa658842-8d2a-4de3-a7a5-f7bedfc71dd0,U & D Kitchen,thai;asian,2
+aa86ed9a-1ed5-4113-8cff-48554233805e,Cafe Bonjour,salad;coffee;breakfast,1
+aa9c349f-c557-44ef-b6c2-5372c5e7dc3b,Grille 705,american;breakfast,2
+aad92dbf-0e4e-4078-8d88-35dbbba85aa8,Las Vegas Restaurant,seafood;sandwiches;mexican,2
+aaf74c5e-570d-4986-9c77-e2c40a648ae5,Chart House,steakhouse;seafood,3
+ab203493-1b44-42ae-9935-c247addae61c,Earl of Sandwich,soup;salad;sandwiches,1
+ab5db171-a3dc-4629-9a2e-d8b80424d52d,Jaho Coffee & Tea,bar;sandwiches;coffee,1
+abd2d49e-4b22-4002-86d8-62faff0212ea,Saigon Seafood,seafood;vietnamese;chinese,2
+abe90299-9d7b-4c2c-8ce2-da75bbfb5a69,Chicken and Rice Guys,food_truck;chicken,1
+ad148aea-36cc-41f0-83ec-b002f31a6286,D'Benny Sub Shop,sandwiches;pizza,1
+ad2160a7-194f-4417-a0af-11f7840b38ee,Coreanos,mexican;asian;korean,2
+ad26e63b-1b41-40d8-b6ee-42feec1eb84e,Green House Kitchen,burgers;italian;pizza,2
+ad5cf8b0-49d8-4dc5-a356-678df5eeb3b8,Tasty Pot,tea;taiwanese;chinese,1
+adc86015-9abf-427a-a832-963cd4b65af7,JC Smoothies,juice_bar;coffee,1
+add9304a-0520-42b4-a18d-77f6cef52f07,Mcgreevy's,irish;bar;breakfast,2
+addb2064-7f16-4fcc-8279-da95212d4c50,Ruckus Noodles,noodles;ramen;asian,2
+adfec2a3-47d0-4def-98c7-d20e8d5a8df6,T Sushi Wraps & Noodles,sushi;noodles;japanese,2
+ae3c44ab-5e0d-4441-bb77-66419024e014,Harry's All American Breakfast,breakfast;burgers;sandwiches,2
+aed65030-7da6-46bb-b64f-7d4b5a5e3534,An Tain,bar,1
+aee7aa6e-c2e5-4168-9e54-57546196304a,Natalie's Pizzeria,pizza,2
+af27a72d-f71f-48fb-8f87-cadb340ebcc3,Serafina,italian;pizza,2
+af5903a7-438e-45d9-b32e-befcd3ad4471,Latino Restaurant,dominican;latin,2
+af5ea98e-7597-463e-a450-e9676154667d,The Puddingstone Tavern,american;bar,2
+af670e02-6a90-4c60-8d40-a46bc29271a7,224 Boston Tavern & Restaurant,american,2
+afb6e838-e637-4789-a455-512bb3ea73e7,Express Burritos,mexican,1
+afccdb56-b460-48ea-8d62-e9eb525e9259,Vaanga,indian;halal,2
+b0ad6dcb-87df-4fa5-ad43-fc565574b837,D'Parma Restaurant,italian,2
+b0b7a315-1768-4013-8af5-1b687cc488fc,Teriyaki Yummy,japanese;soup;chinese,2
+b11bfbfa-d3fb-4423-9874-6ad3ad008db2,Bishop's Mediterranean,greek;mediterranean,1
+b1b643b5-b5a0-4859-b602-07d3f181ec5e,Slades Bar & Grill,chinese;southern;bar,2
+b1d3f970-af45-4151-a734-3c9b265cc8ce,Al's Cafe,salad;sandwiches,2
+b205e982-0588-4eb2-80f7-b22062859cf0,Shaking Crab,cajun;chicken;seafood,2
+b255c272-0e59-4a70-a918-c7dc07866940,Natif Natal Restaurant,haitian;latin;sandwiches,1
+b28a166e-c1be-4f66-afc2-546f8e561710,Avenue One,american,2
+b28d9335-a589-4562-b54b-069a2bb5dbf1,Sultan's Kitchen,turkish;middle_eastern,2
+b2aabf7a-bdf3-47c1-8297-f84a82a41dc4,Shaking Seafood,seafood,3
+b2d7b21f-62b0-4d4e-a2d2-e2539c3d14f4,Indian Kitchen,indian,2
+b2dd76ae-71db-46e2-b835-348839a64709,Luke's Lobster,seafood,2
+b2fd6d2e-b010-41ca-8c80-0b5f7f89a9a2,Suya Joint All African Cuisine,bar;african,2
+b32ee45f-f168-4730-828b-0170f250ecf4,Blake's,bar;breakfast;american,2
+b35343c2-45ce-41ae-8996-47569c3794ee,Bacco,bar;italian,3
+b4240aff-3a0f-46af-b86c-36eeeab0df40,King & I Thai,asian;thai,2
+b44a2620-e2be-4bcb-8b44-c2246d840899,Taranta,italian;latin,3
+b4ca5620-26d8-42a4-9ea7-cd9d42783434,Habanero's Salsa Caliente,bbq;american;mexican,2
+b4d207da-06c4-4f1f-ad4f-f327e06d8cf2,The Talk and Wok Cafe,chinese,1
+b4e56c53-dfe3-4f11-b8b6-fef5afeca775,Grasshopper,vietnamese;vegetarian;vegan,2
+b4ffb931-7a7d-4584-9413-ff0b718aebde,High Spot Deli,breakfast;sandwiches;salad,1
+b526ee90-efa8-42de-9072-e3ad300d4394,La Voile,breakfast;french;bar,3
+b52e8e3a-d9ff-413d-adf5-51b3007b0fff,Pho 2000,asian;vietnamese,1
+b5691143-c081-4187-a7ba-0a09b10eab68,Boston Fried Chicken,hot_dog;chicken,1
+b5ec30cc-f4e6-4996-b1ae-2970e513e57b,Brown Sugar Cafe,asian;thai,2
+b6279b43-8eac-4d7c-b1a7-6ea52ea6b536,Merengue Restaurant,latin;dominican;cuban,2
+b6f8051e-e7ae-4aa0-b2f1-d11c30ab6f3b,Forty Dalton,american;sandwiches;breakfast,3
+b7966f0d-229a-4800-9ad7-86ca36e395a3,Spicy World LLC,asian,1
+b79b187a-74a7-4015-aa5e-15f3f6af937f,Katz Bagel Bakery,dessert;bakery;breakfast,1
+b7f83770-89c9-4054-ae9d-5ab870b28cd2,College Pizza,sandwiches;burgers;pizza,2
+b83a94a4-6593-4184-b386-034a0799c670,Moogy's Restaurant,sandwiches;hot_dog;breakfast,1
+b87614c7-4854-4ed4-96b9-6b639ac6bfb5,Wings Kitchen,cantonese,2
+b884822c-b473-490c-9fc6-b12d276c4df0,Thai Spice,thai;asian,2
+b8ad0665-118a-4456-a9c8-022b9f81b6b0,Cappy's Pizza and Subs 5,pizza,2
+b8b3cae5-1f22-4ac7-94b9-18c8d79c952b,Blazing Paddles,bar;american,2
+b95e93fc-7144-4a7b-a88c-00a63b534ac0,Oak + Rowan,american;bar;seafood,2
+b9b77d6b-bbb0-437a-8a00-4691a59278f6,Purple Shell,tapas;bar;sushi,2
+bb3e1bd9-3d17-45b2-8e78-1d522b6d84f4,Catrachos International Restaurant,spanish;honduran;european,2
+bb535b6e-a541-4a8a-80c4-872abae192f5,Saigon Restaurant,vietnamese,1
+bba2148e-ee83-45b7-88ef-e24e0f5da276,The Juice Box,smoothie;acai;coffee,1
+bc2172a5-d78f-4362-9c43-b230f471967e,APM Coffee,coffee,2
+bc44d6e7-6a99-47b6-821c-e3cbffa2aaba,Whole Heart Provisions,vegan;vegetarian;cafe,1
+bc4ca8d6-3a61-42b7-9991-1f2f23739d40,Candy Kid & Co.,dessert,1
+bc7c4436-8277-4591-8577-00fa38dea8ce,TABLE,italian,3
+bde1c190-0a2a-4262-8d48-8a5d21ffeaa1,Rincon Caribeno Restaurant,bar;dominican;latin,2
+be1ae4b2-fd5c-4fde-9048-d0b4fae4de0e,The Square Root,bar;coffee,1
+be72b120-f7e9-4198-b0f2-8db0361f48a8,Q Restaurant,chinese;sushi,2
+beebfc2b-487c-489e-9e58-57a8be9d9f37,Cafe Med,mediterranean;middle_eastern;greek,1
+bf5b3928-dceb-4401-8c29-b80dbaf7f33e,Cornish Pasty,vegan;british;european,2
+bfd40139-be4b-48ee-8e99-cbbb246c1524,Taranta Cucina,latin;italian,3
+bfe2eba0-8eb8-412b-9a57-9684e4c41fb4,El Palmar Restaurant,latin;mexican,2
+c0049d43-9777-4c4b-90d6-054082b6cf73,Vivi Bubble Tea,dessert;tea;taiwanese,1
+c07f86fe-f04e-427c-be4b-144aca8c644d,La Abundancia Bakery & Restaurant,dessert;latin;colombian,2
+c099110d-ea22-4a55-9c02-a0825878cf2e,Mangú,latin;dominican,2
+c0a30e45-7cd4-4c9d-bf80-790280a707fc,Adams Fish Market,seafood,2
+c0f11063-5fe9-49f8-9ecc-e5606949c238,Al Wadi,middle_eastern;lebanese,3
+c12ebdd3-c822-4444-a917-3dbb6829d86c,The Breakfast Spot,breakfast,1
+c1b4f0f7-37cf-4799-a128-0f7db6cd0e3c,T. Anthony's,italian;pizza;breakfast,1
+c1b5d53b-5139-475d-90dd-165aff5129af,Fajitas & 'Ritas,tex_mex;mexican,2
+c1cf02ce-bb3a-42fd-bcc1-822d1ff64e4e,Montien Boston,asian;seafood;thai,2
+c2211275-9420-428c-a4af-2207fd1958e3,Ashur Restaurant,sandwiches;breakfast;african,2
+c24a7b8d-fa5b-468c-84fd-e45074d9acfa,Las Palmas,mexican;latin;spanish,2
+c278cc37-9d43-4a0f-903f-1cb74fff1339,Las Papusas Del Chino,latin,2
+c321e6d5-9817-43f1-8622-6e8de6da9834,"Xi""An Rougamo",chinese;noodles,2
+c42487c9-5a6f-4964-9f6e-8188f0020d0f,Dona Habana,latin;cuban,2
+c4662f37-5cbe-4905-8d6e-27e7dc5f60a8,Wen’s Yunnan Noodle & Ramen,ramen;japanese;noodles,2
+c53f770f-77a3-410f-b9d4-ec12edefc924,Mama's Place,burgers;mediterranean;salad,2
+c5afc88e-07d3-47fc-a415-453c985529b9,Sushi Today,japanese;asian;sushi,2
+c5dc7752-0aff-48ae-a457-52da9facee35,Sonsie,bar;american;breakfast,2
+c61db825-ba67-4fb8-b0f1-3d712161327c,Lambert's,mexican;sandwiches;salad,1
+c6907b19-fb85-42b4-b378-8da22c8d71d1,Energize,sandwiches;breakfast;juice_bar,2
+c6e99b3f-789d-471d-9157-34e239014d1a,Polcari's,coffee,1
+c77d6ac8-72fe-479a-bd35-7583508e8305,2Twenty2,sushi;japanese;asian,2
+c7a2edad-a6f6-43f4-8770-10e2699f5109,Yaz's House of Pizza,salad;chicken;pizza,2
+c816ca86-3c7c-45b4-8b38-de78985bc8e0,Jaho Coffee Roaster & Wine Bar,sandwiches;bar;coffee,1
+c81c40bd-7611-4214-ae60-4d918988ad49,Falafel King,mediterranean;middle_eastern,1
+c8914426-16ee-4005-845d-127e64a4d540,Wraps on the beach,middle_eastern,1
+c8f73898-5c8b-4d1f-a6b7-17bddff6cc2d,Achilitos taqueria,mexican,1
+c8fe2652-cc76-460b-82a6-53ddb5f7ade7,Halal Indian Cuisine,indian;halal,2
+c937aca0-07f4-454c-afa5-832b85a87c22,Roslindale House Of Pizza,pizza,2
+c9388f0a-e6be-45c2-96ba-c45c90ffbfb0,Bangkok Bistro,thai,2
+ca8d49a8-ca53-43b6-a757-8dcf127ae5b9,Thao Ngoc,seafood;vietnamese;chinese,2
+cad26ed5-2cb0-4722-9cfe-3bed20092e5a,South End Pizza & Grill,sandwiches;pizza;chicken,2
+cadf19ff-a7e8-485d-bb7c-5b940e0be66e,Eagle Hill Cafe,sandwiches;coffee;breakfast,1
+cb069921-5544-46ba-85d1-99be1a5d29b0,China Roma,asian;chinese,1
+cb2abf50-a060-4034-a182-4d8f73445a3a,Mi Pilon,european;spanish,2
+cb9ea7de-fc61-48a2-8fc4-ca99ee2dffda,Stillwater,bar;southern,2
+cc5cb92d-60cf-4d25-b979-f4558db2847b,Kane's,donuts;coffee;dessert,1
+ccc464ce-0c80-4f24-ab60-5429fe409cfe,The Cafe,sandwiches;breakfast;cafe,1
+cceb0629-9573-4460-8fe2-59f9b891f61b,Trophy Room,american;bar,2
+cd0c69db-ea97-4656-a0a0-d4a352104f36,Squealing Pig,bar;irish;american,2
+cd33366f-377a-4240-945e-a49642c04a3c,Mr Kushari,middle_eastern;mediterranean,2
+cd5da97b-98b3-441b-a2a1-2c5f5446d362,Royaltea Boston,tea,1
+cd7d3acc-adbc-433c-bbe8-4bbc6c0410b6,Wingz & Tingz,chicken;burgers,1
+cdc52563-f3c6-4034-b238-451ecd655fec,Larry J's BBQ Cafe,bbq,4
+cee2544e-f2c4-4c15-a611-1626614b8da1,Oath Pizza,breakfast;salad;pizza,1
+cf14cf80-a2a2-4d63-a19a-3e92e76436be,Savvor,bar;southern;american,2
+cf5a9a15-f78a-4fd9-9631-0734e87d1365,La Cocina,american;bar,1
+cfe3dc21-8966-4b3a-a02c-14d4bbbb60d9,Reelhouse Restaurant,american;seafood;breakfast,2
+d028934a-bea3-480e-bdb1-013384517529,Blunch,coffee;sandwiches;breakfast,1
+d02cb247-9e11-4d8c-af99-506e05fb9f63,Flat Black,breakfast;coffee,2
+d09843ee-0c21-4c1e-b4c1-1ad28860f428,Romano's Pizzeria and Taqueria,mexican;pizza;american,2
+d0f62a49-5646-4d86-a9ea-9355bbb45bf1,Kim's Tofu,soup;korean,3
+d10a86f9-30b4-474d-9bd1-01e03614bc86,Beantown Pho & Grill,thai;asian;vietnamese,2
+d14fa5f2-ef1b-4b38-b60c-b9215827f7cf,FroyoWorld,dessert;ice_cream,1
+d15f3a69-f3e6-4dc7-b087-f739d4770215,China Garden Restaurant,chinese;asian,1
+d18bc1c9-38b0-4dfb-ba70-5255708c9cff,L Street Diner & Pizzeria,pizza;bbq;american,2
+d1b2ebf8-b31f-44f9-be99-c845727787af,Kantin,bbq;chinese;asian,1
+d1b656eb-0c72-4948-a08a-c0ca0f8c0bbd,House of Siam,asian;thai,2
+d24dc5f1-b874-41c0-878e-d254efdc61cf,Luna's Restaurant Italian and Latin Cuisine,bar;italian;latin,2
+d2811d8d-4925-45d3-bc10-32624033adb3,Tuscan Kitchen,bar;italian;american,3
+d289e31a-2204-482b-adb5-65eafce11216,MJ O’Connor’s Irish Pub,american;irish,2
+d2e3b9f4-d183-4459-b4a1-9c9721608dfc,Tiger Mama,vietnamese;bar;thai,3
+d30346ca-bdf4-41f4-8b3e-9429198774fb,River Grille Restaurant & Cafe,seafood;italian;pizza,2
+d320a514-796b-46cb-9834-6d8aaa0ef0b0,Taqueria Del Sol 2,mexican,2
+d325e41c-870a-4705-ac84-9df2098e12cf,753 South,bar;american,2
+d370eb7b-6863-4bac-8352-9fd512a34ada,Nicole's Pizza,chicken;pizza;sandwiches,2
+d44af77f-a76e-4fa4-92bd-e688eb247b88,Foumami,asian;sandwiches;salad,2
+d47279c2-3b2f-4e8a-9bca-1c85d701c7b9,Christo's Pizzeria,pizza;burgers;breakfast,1
+d4e2cb0a-40e3-484d-bc49-44f90163fd72,Hale and Hearty,salad;sandwiches;soup,1
+d54fa20f-5e26-4e72-b93a-c99f33b67c6d,Los Antojitos,mexican;latin;salvadoran,2
+d5945ff7-40a3-4848-b312-368cc91873f2,Top Mix Bar & Kitchen,american;bar,2
+d5cad708-864a-4abd-be30-09c2d3f19b7a,Il Mondo,pizza;italian,2
+d5dacf11-f053-4e7a-bf47-bbfdba30cbb5,Lanta Asian Cuisine,thai;asian,2
+d5f1f644-f8df-4a85-849f-12d8c1827837,Italian Pizza & Subs,pizza;chicken;italian,2
+d643c958-9646-439a-a33f-8b7f47a42e55,The Harp,bar;american,2
+d67c555e-0d04-4d2f-a1bd-19165b123089,Lady M Cake Boutique,dessert;asian;bakery,1
+d69049be-086f-4053-bc77-f634c57c2706,The Farmacy Cafe,juice_bar;breakfast;coffee,1
+d6a9e86a-f9ac-4afa-a26a-1d3a8d9f1bb4,Safy Market,deli;sandwiches,1
+d72cda7c-4bed-494c-9627-834a2c50feb9,Amelia's Taqueria,mexican,2
+d7641774-8582-496d-80d6-25eb4bf94f24,Petit Robert Bistro,european;french;breakfast,2
+d7d181f5-a0ca-45f1-ad29-a0b091be74f8,Preparations,vegetarian;caribbean,2
+d82aa127-3412-4b36-94f7-71b048a1ab49,Jyuba,asian,2
+d8618c3f-a12d-4ef4-8c9c-989e6701a6fc,Master Wok,chinese;asian,1
+d8686d3a-a5c9-4382-8a56-9c2a6638fb8a,Ali Baba,middle_eastern;turkish,2
+d8c83c56-e42a-4e26-8ce5-88e10f1fc209,Neponset Cafe,ramen;breakfast;coffee,1
+d981cbaa-4c10-4400-a606-ba565c2ad320,Pizza Rail,pizza,2
+d99734c7-3d62-4f25-a8e0-86f0fba5352a,S & I Thai,thai,1
+d9ef6cb6-a969-4613-9c73-9a6f2432267b,Alibaba,mexican;turkish;mediterranean,3
+da3216f0-3796-4c6b-92be-712b176c3e47,Our Zone,chinese,2
+da3c0bc6-0c24-4d19-8479-118a6fa208bd,Burro Bar South End,bar;latin;mexican,2
+da4c181a-5bf6-4913-9c40-3dc412adb3b4,Punto Rojo,latin,2
+da5269a8-67b1-4ce8-a952-07985819a098,Nick's Bistro,seafood;pizza;sandwiches,2
+da5dc4b1-ed89-4fc3-b1b9-4031f7873246,The Industry,steakhouse;american;bar,2
+da7c0f6b-d162-4e10-ba5e-f99ae1dda12e,El Centro,asian;mexican,2
+da88668a-6e1d-46c0-ba92-063492455c28,Jaho Coffee Roaster & Wine Bar,bar;coffee;bakery,2
+da8ef333-482a-43a6-8ab7-e3b89fbdc20c,Brighton Cafe,breakfast,1
+db0fd522-9c01-4eeb-b527-b759725709ca,OliToki,korean;asian;mexican,1
+db4fac7b-4de0-48ad-8731-0dbc46ed30d4,75 Chestnut,steakhouse;diners;american,3
+db9d3720-f0e1-429f-af31-c7653373a49c,Vejigantes,puerto_rican;latin,2
+dc62ab04-964f-44b4-9132-7b8f8945d38f,Charlestown Tea And Treats,cafe;coffee;tea,1
+dc92cba4-2f8a-4bd0-8618-2301ce920203,Imperial Kitchen,asian;chinese;noodles,2
+dca61c45-5311-4b54-af96-868f832d74db,Nick's Deli,deli;breakfast,1
+dce83cea-3c8b-4d06-bb19-1fe2349a6028,Umai Sushi,japanese;asian;sushi,2
+dd251542-fa43-4ff3-aafe-b62f46f18f8c,Stoddard's,american;bar,2
+dd3b792b-9470-45ca-9708-92d44c5db047,Joshua's Deli,sandwiches;deli;breakfast,1
+dda22364-260d-4ddd-9815-29293b205d61,Red White,japanese;vegan;juice_bar,2
+deb817a7-3223-4739-91c2-b950fc0ef183,Canton Eatery,chinese;asian,1
+debd9a9a-2904-440c-8a20-1db7f9c20393,Lobstah on a Roll,soup;sandwiches;seafood,2
+defbd24d-96e5-4eb8-912a-6508c567e2b2,La Befana Pizzeria,italian;sandwiches;pizza,3
+df0c3d95-c93c-4fc1-8100-f67c5b6eae25,D Coal Pot,caribbean,2
+dfd60503-e446-4318-9267-712e32548809,Rock City Pizza,chicken;salad;pizza,3
+e034d298-50ff-4aa1-a959-53018435a7b9,Coppersmith Boston,breakfast;american,2
+e044b6ed-c7ec-4d3d-bf31-2a789eb9518a,Sol Azteca,mexican,2
+e09b15b9-af0d-4b1b-8829-8e0253abec1c,Crush Pizza,italian;pizza,3
+e0a7b193-53fa-466f-beea-179c59d55681,Fala Fellas,vegetarian;middle_eastern;mediterranean,2
+e0d426c6-d928-43fd-a689-4c4df8c35cc7,Uptown Cafe,italian;sandwiches;pizza,1
+e0d7d8cd-4f09-439f-8e34-f3177fff321e,Ali Baba,turkish,2
+e10ea32b-3529-4210-8567-78f4d1c487f6,Chinese Dragon,asian;chinese,1
+e123b368-b9ba-4951-9c5a-3f905ce3a823,Caffe Aromi,cafe;peruvian,1
+e1a3cf51-9b4e-4130-8df5-6fe1e5c32d2e,Nu Flav Restaurant,american;caribbean,2
+e1cd02c0-6644-436c-a785-33c83e5cfc43,Pino's Pizza,italian;pizza,2
+e1ed8724-8a65-4d5f-a94b-c7f1669bb45d,Los Amigos,tex_mex;mexican,1
+e202c636-7224-4c07-bcb5-78326f04e5e5,Boston Pocket & Deli,breakfast;sandwiches;deli,1
+e2093d87-4771-4da1-87ef-183d25c90799,The Cafe at Taj Boston,indian;american,3
+e2853da6-946e-4d7f-b4c0-7ed196de4d45,Yeli's Coffee Shop,latin;coffee,1
+e2ed0724-9332-4e7a-a48f-f4eb90a3161d,Cheers Cut,taiwanese;thai;tea,1
+e31842f3-be96-44cc-82e0-50107ee01820,Dick's Last Resort,sandwiches;bar,2
+e3f7fae3-fcb3-4e9a-bbb9-4c135a386463,Atrium Cafe,sandwiches;chicken;salad,2
+e44c59ab-6e97-4105-b33d-fef6a31b514d,Rhythm 'n Wraps,sandwiches;vegan;breakfast,1
+e4b75e4c-8840-49eb-948e-9034537a0ff8,Alfredo's,italian,2
+e509f6bd-7557-4347-956d-06d5bb7a99b3,Melo's Café,juice_bar;dessert;coffee,1
+e50fe958-5f77-412d-b04a-a87f17a1beba,Flames Restaurant II,caribbean,1
+e512ff5c-a7b0-464d-889d-c7248d9e9986,Harvard Gardens,american;burgers;bar,2
+e5350f04-1bc3-4475-951e-a6e9f9a9cee4,Tambo 22,peruvian,3
+e54dba35-fc6a-4479-b565-3850d53a0cea,Piccolo Piatti,pizza;italian,2
+e56a8edb-d165-4f75-b3b5-3174834ed22f,Pu Pu Restaurant,chinese;asian;seafood,1
+e5ca9581-6706-4ca4-a3e7-7aa4c5578e39,Bao Bao Bakery & Cafe,deli;dessert;cafe,1
+e6240059-8d1d-4ae5-8df4-4e4ce47364c0,Mi Pueblito Orient Heights,mexican;breakfast;seafood,2
+e62711e2-fa8b-4c06-8e88-e2063c476099,Tremont House of Pizza,italian;pizza,2
+e6319523-72a7-4976-8587-88d06d9ec9b8,Vivi Bubble Tea,coffee;tea;juice_bar,1
+e636462a-78a9-4a13-abdc-4e006b8355b1,UNI,asian;sushi;japanese,3
+e6993e85-83eb-4268-bff8-b5c2e2d7e4fe,Dudley Cafe,breakfast;cafe;sandwiches,1
+e6a8bdad-2b67-4097-8b78-9fff9f2a7515,Scorpion Bar Boston,bar;mexican;american,2
+e6c882d3-2cee-4e05-b2bc-fa88a6ecfc19,Bridges Nepali Cuisine,himalayan;asian,2
+e6da81c7-58a9-4786-a985-d22b90850563,Ula Cafe,deli;dessert;coffee,1
+e6f7c4ac-bb4e-4cce-a844-cd4069d0b357,Bani Restaurant,dominican;sandwiches;latin,2
+e78c8f11-a29f-41d9-a63a-eeb133779a14,Supreme Pizza,pizza;sandwiches,2
+e7d8d77f-38a4-43af-95dd-a650e08d8f2c,Best Sausage Co,italian,2
+e81bb069-209f-4ae6-859e-38c08aa8d067,Tous Les Jours,sandwiches;coffee;dessert,1
+e83ea9c2-6d68-42d2-9ea6-5a5db81cbe90,Katie's Kitchen,soup,2
+e84fee65-a5c9-44a8-bb75-dfcb31614620,Cobblestone Cafe,burgers;coffee;sandwiches,2
+e877c97b-f914-47a1-a0e1-68f2cb5a3491,Red Line Pizza & Grill,pizza,2
+e89649a2-6130-47d3-ba87-c45e49c2ba18,Pellinos ristorante,bar;italian,3
+e8d5d828-f1cd-473f-b92b-f5f6dbe4025f,King Tacos,mexican,1
+e92ccc11-3566-451e-8237-65571014af52,Teresa Market,sandwiches;mexican;latin,1
+e93c692c-7a59-4d20-bc37-0a48c2699aba,Grove Hall Pizza,pizza,2
+e9829e2b-bf4f-4073-b9eb-cbb4f2dfd5ad,China King,chinese;seafood;asian,2
+e9bb3a06-ba85-402c-825c-69921f092bee,Daphne's Mediterranean,sandwiches;greek;mediterranean,1
+ea263c3e-dabb-4f2e-81d8-bb838b8ff1b0,Rick's Sandwich Shop,sandwiches;breakfast,1
+ea5b90bf-2ed5-4688-96a3-a3e868cdccf7,Caffébene,dessert;breakfast;coffee,1
+ea973ec6-341c-48ea-bf74-c4e50d90c51b,Saigon Hut,asian;vietnamese,2
+eac24607-e289-4ee9-bb33-974494126ccb,Guy Fieri's Tequila Cocina,latin;mexican,2
+eaf983a9-37d3-4613-9c10-0ff381ad81e8,Rinconcito Salvadoreno,latin;salvadoran;spanish,2
+eb1e613c-89e8-4ce9-bdf7-2a771f38fefa,Deli King,deli;breakfast;sandwiches,2
+eb28dba1-6a42-413a-a849-6418f58f5606,North Square Oyster,seafood;bar,3
+eb3f571d-168a-41e1-b39b-17ab1d8ad395,Mooo...,bar;breakfast;steakhouse,3
+eb86e141-01fa-4242-9228-856a2f0bd829,Lucia Ristorante,bar;italian,3
+eb9a0011-8e01-4806-b21b-4b3e5c570c67,Asia Wok,sushi;japanese;chinese,2
+eba1914f-5c3a-4da6-b313-1d87bcf9083c,Bachata Rosa,caribbean,1
+ec12aa17-7233-46ad-bf6a-6a651708aeda,The Elephant Walk,french;european;southeast_asian,2
+ec30409d-211c-4d37-8e08-6a7f32e6e82b,Bagel House,breakfast,1
+ecfb4904-919a-4626-a610-34e7a3b96181,Fenmore Grill,american,2
+ed08c460-9bf8-4e99-9569-5e4def030337,Orinoco,caribbean;latin,1
+ed364eac-ff69-4ec7-b126-b7a6f853d4f2,Burritos Pizzeria,pizza;sandwiches;breakfast,2
+ed49efc2-866a-4a94-8f63-58c209056923,Only One Jamaican Restaurant,american;caribbean;bbq,1
+ed5d7787-c557-465a-a9da-34597176700c,Caffe Bene,dessert;coffee;breakfast,1
+ed6dc5e2-042c-4459-8a59-cd9837ef7e04,Johnnys Pizza and Fried Chicken,pizza,2
+ed90354a-a9a1-45ce-b02f-5cfff768a6a2,Cinquecento,bar;italian;seafood,2
+edc6478f-9931-4fd2-b913-145a5ca06364,Fenway Johnnie's,bar;breakfast;sandwiches,2
+edd9dbc7-22a9-4ee4-8cf1-cca104f25ae8,Artisan Bistro,american,2
+ee4a82f6-c5d7-47a0-94f7-edba7180721d,Nourish Your Soul,sandwiches;coffee;juice_bar,2
+ee565e48-5c68-4989-ba76-7ec7281e8fa0,Arboretum Grill,pizza;american,2
+eeaafd17-8f5c-46b6-8800-e1972f0c381b,Shun's Kitchen,japanese;korean;sushi,2
+ef077404-8331-4b6f-bd91-fdb648caae8a,City Tap House,american;bar;breakfast,2
+ef61187e-333e-45d5-8f96-210323a85526,Antonio's Pizzeria,spanish;pizza;salad,2
+f00900f8-1559-4ada-92a1-12ab298850e3,New Sushi and Poke,sushi;poke;salad,1
+f04663b5-fea2-4446-9356-36d94ad344ec,Zesto's Pizza & Grill,american;pizza,2
+f05a8c27-1beb-4fe1-aa98-3b1dafc63fa7,Oasis Vegan Veggie Parlor,vegan;vegetarian,1
+f06cb6fd-e276-4561-91a9-6b1e84eff3b8,Bandita Brighton,mexican;bar,2
+f06f8511-1945-4ea2-9593-db81fd7b390e,Antonia's At The Beach Restaurant & Bar,mediterranean;italian;sandwiches,2
+f0adcb14-f778-4eef-b327-a2b5bdae3c7c,Pizza 24,pizza,2
+f0d7eb47-e0e7-4034-81cf-4a7aa53cb361,Stop and Taste Pizzeria,sandwiches;burgers;pizza,2
+f114b315-11c7-405e-a1d3-f750c99edc8c,A&B Burgers,burgers,2
+f175f292-6a93-46af-b88f-5950f2117dfb,Cha Cha Cha Taqueria,mexican,1
+f1b34b6f-b548-4b46-9e94-90ef2a33d3d4,Sanpeggio's Pizza,italian;pizza,1
+f1b9f931-0f45-499a-beaf-5647493da314,Tasty BBQ LLC,bbq,3
+f1c6656c-1a80-4129-9b69-50ddbb295f29,Caffe Lil Italy,coffee;breakfast;ice_cream,1
+f20d3ba5-f9ab-446f-847d-a5b8233d8e24,Plaza Cafe,breakfast;bakery;brazilian,1
+f2114dfa-52f9-445a-b4a4-875f66eff7d9,Casa Razdora,italian;pizza;sandwiches,2
+f23870d8-7bba-41ff-9c40-d55925790474,LULU GREEN,vegan;middle_eastern;juice_bar,2
+f2862148-101a-48ac-9e11-c7d83c3e48ba,Tamo Bistro & Bar`,bar;american,2
+f327096e-c4c0-4068-8ca8-018174ea7328,Bridge Pizzeria,pizza,2
+f33e15fa-a56b-47ed-b137-51430192453f,Round Two Pizza & Subs,italian;pizza,1
+f3ace370-0cb0-4848-a3c4-98312e99f383,La chula Restaurant,mexican,2
+f3de4528-3dc9-4b08-bffd-a363bf9baf80,Food Wall Chinese Restaurant,chinese;asian,1
+f41a0604-7180-42e0-9582-dcfad7c35fb2,Yely's Coffee Shop,latin;coffee,1
+f4335624-2933-4fb7-b70d-a14230c3a5a1,Red Moon,cantonese;chinese,1
+f562c4ae-d030-4d93-a8d0-f283e9f496dd,Unchained Pizza,pizza,1
+f5a02a64-f90b-4901-a975-de48d7cf1608,WICHIT,breakfast;sandwiches;salad,2
+f612075d-6508-4606-8488-c8b3b92d36c0,Bar Mezzana,bar;italian;seafood,2
+f6ba3a42-18e8-46de-91bc-54ab7a53cb29,Cafe Landwer,mediterranean;coffee;cafe,2
+f7246ceb-0ca1-419c-a238-daf15954dc0e,Panificio,sandwiches;breakfast,2
+f73b96dd-9cdf-499f-9c56-25a57d7a5ef0,Aquitaine,bar;european;french,2
+f765c1df-05a3-42f1-91f6-692c702887e7,Redline Pizzeria,chicken;pizza;italian,2
+f766ae23-dd95-4ff5-b87d-836a54326a15,Montecristo Mexican Grill,mexican;sandwiches,2
+f790d872-6ead-4e70-9173-34d818f8e5dd,DaCoopas Pizza,italian;sandwiches;pizza,2
+f880f7b3-e3ac-41b6-aef8-1140dbdab83f,Georgetown Bakery,bakery;dessert,1
+f8d03b77-0655-4cf7-878c-564c24ec833a,Wen's Noodle & Ramen ËøáÊ°•Á±=Á?ø,chinese;japanese;noodles,2
+f94e432d-48c0-4744-9e66-fe223b64f79a,Fin's Sushi,japanese;sushi,2
+f95d470b-a3b2-4b59-a29c-2846e96c43cd,Chau Chow,chinese;dim_sum,2
+f960a8f8-ad1c-445c-9144-09de5dbfa677,Haley House Bakery Café,peruvian;dessert;cafe,1
+f9ce4565-cffc-4bfa-a013-d44aceb2dfe8,Winthrop Center Cafe,breakfast;cafe;american,1
+fa22c2e3-657c-4665-bd1d-f6751a357e82,Tu Casa Restaurant,colombian;latin;mexican,2
+fa52b0e2-9204-4241-94db-278abf460a7d,A1 Grill & Pizza,pizza;american,2
+fa70229f-48d8-4f82-90e4-627cadf1cc2c,Sun Pizza,pizza;sandwiches;seafood,2
+fb974477-087e-4de8-b74b-5d7b23a495b4,River Street Grill,donuts;american;pizza,1
+fb9ff39e-8976-4ef9-94cc-927c4006e738,Beantown Pastrami,sandwiches;deli;american,1
+fbba1c52-ce84-4077-9a3a-78cb4087ad49,Five Star Pizza Grill,sandwiches;pizza;salad,2
+fbc7c73c-afcc-47a9-a9ac-19ada5456529,Ironside Grill,american;bar,2
+fc3ea49c-0dfa-4819-a691-48db0a784460,The Bebop,irish;american,2
+fc63c703-48f8-49ac-ae8e-6073ab5b791a,Wrap Nation,gluten_free,2
+fc7d7d98-091a-420d-8624-8549589a358a,Dolce Vita Cafe,juice_bar;breakfast;coffee,1
+fd5df97a-9ae1-4716-8ef4-370d5f0182eb,Azama Grill,halal;middle_eastern,2
+fd628d36-5e86-4df4-a5c6-67b7dca3c690,El Triunfo,mexican,2
+fdf6c1da-e68d-445f-a622-78e73eafc12f,Nachlo,mexican;halal;pakistani,2
+fe36aac6-1204-4671-9712-c146356354f6,Viva Burrito,salad;soup;mexican,1
+fef16096-c17c-4b45-9c74-ed1d38874b38,Quinoa Connoisseur,dessert,2
+ff8928a0-37b5-4038-85e1-9fd562d5c0ad,Dirty Water Dough,salad;american;pizza,2
+ffb10b76-c618-431d-a369-0a628219f1bd,Massimino's Cucina Italiana,dessert;italian;bar,3
