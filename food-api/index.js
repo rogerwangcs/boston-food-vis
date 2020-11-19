@@ -11,5 +11,6 @@ app.use(cors());
 app.use("/", router);
 
 app.listen(port, () => {
+  console.log(process.env.DB_HOST);
   console.log(chalk.yellow(`Main server started on port ${port}`));
 });
