@@ -1,4 +1,4 @@
-import { getRestaurants } from "../utils/api.js";
+import { getDishesWithIngredients, getRestaurants } from "../utils/api.js";
 
 const MapBox = async (container) => {
   mapboxgl.accessToken =
@@ -22,8 +22,12 @@ const MapBox = async (container) => {
   };
 
   let restaurants = await getRestaurants();
-  // restaurants = restaurants.slice(0, 20);
   console.log(restaurants);
+  let dishes = await getDishesWithIngredients(
+    "c738e262-2a7d-43d9-883f-cbf7c19d5693"
+  );
+  console.log(dishes);
+
   const mapBoxCon = map.getCanvasContainer();
   console.log(mapBoxCon);
   const svg = d3
