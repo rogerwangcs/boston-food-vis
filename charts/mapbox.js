@@ -2,6 +2,7 @@ import { getDishesWithIngredients, getRestaurants } from "../utils/api.js";
 import { timeout } from "../utils/helpers.js";
 
 const MapBox = async (dispatch) => {
+  let selectedRestaurantId = null;
   mapboxgl.accessToken =
     "pk.eyJ1IjoiZW5qYWxvdCIsImEiOiJjaWhtdmxhNTIwb25zdHBsejk0NGdhODJhIn0.2-F2hS_oTZenAWc0BMf_uw";
   //Setup mapbox-gl map
@@ -40,8 +41,17 @@ const MapBox = async (dispatch) => {
     essential: true,
   });
 
+  const priceScale = d3
+    .scaleLinear()
+    .domain(d3.extent(restaurants.map((d) => d.price_scale)))
+    .range([6, 9]);
+  const colorScale = d3
+    .scaleOrdinal()
+    .domain([1, 2, 3])
+    .range(d3.schemeCategory10);
+
   const mapBoxCon = map.getCanvasContainer();
-  console.log(mapBoxCon);
+  // console.log(mapBoxCon);
   const svg = d3
     .select(mapBoxCon)
     .append("svg")
@@ -51,15 +61,47 @@ const MapBox = async (dispatch) => {
     .data(restaurants)
     .enter()
     .append("circle")
-    .attr("r", 5)
-    .attr("stroke", "black")
-    .attr("stroke-width", 2)
-    .style("fill", "ff0000");
+    .on("click", (e, d) => {
+      map.flyTo({
+        center: [d.longitude, d.latitude],
+        zoom: 15,
+        speed: 1.5,
+        curve: 1,
+        easing: (t) =>
+          t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1,
+        essential: true,
+      });
+      selectedRestaurantId = d.location_id;
+      dispatch.call("setRestaurant", this, d.location_id);
+      update();
+    })
+    .on("mouseover", function (e, d) {
+      return d3.select(this).transition().duration("50").attr("r", 20);
+    })
+    .on("mouseout", function (e, d) {
+      return d3
+        .select(this)
+        .transition()
+        .duration("50")
+        .attr(
+          "r",
+          d.location_id === selectedRestaurantId
+            ? 20
+            : priceScale(d.price_scale)
+        )
+        .style(("z-index", 0));
+    });
 
   const update = () => {
     dots
       .attr("cx", (d) => project([d.longitude, d.latitude]).x)
-      .attr("cy", (d) => project([d.longitude, d.latitude]).y);
+      .attr("cy", (d) => project([d.longitude, d.latitude]).y)
+      .attr("r", (d) =>
+        d.location_id === selectedRestaurantId ? 20 : priceScale(d.price_scale)
+      )
+      .attr("stroke", "black")
+      .attr("stroke-width", 2)
+      .style("fill", (d) => colorScale(d.price_scale));
   };
 
   // Call update method and whenever map changes

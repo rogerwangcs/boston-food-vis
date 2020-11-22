@@ -5,6 +5,13 @@ body {
   overflow: hidden;
 }
 
+circle {
+  position: relative;
+}
+circle:hover {
+  cursor: pointer;
+}
+
 #mapbox {
   width: 100vw;
   height: 100vh;
