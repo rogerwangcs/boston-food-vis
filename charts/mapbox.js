@@ -1,6 +1,7 @@
 import { getDishesWithIngredients, getRestaurants } from "../utils/api.js";
+import { timeout } from "../utils/helpers.js";
 
-const MapBox = async (container) => {
+const MapBox = async (dispatch) => {
   mapboxgl.accessToken =
     "pk.eyJ1IjoiZW5qYWxvdCIsImEiOiJjaWhtdmxhNTIwb25zdHBsejk0NGdhODJhIn0.2-F2hS_oTZenAWc0BMf_uw";
   //Setup mapbox-gl map
@@ -8,7 +9,7 @@ const MapBox = async (container) => {
     container: "mapbox", // container id
     style: "mapbox://styles/rogerwangcs/ckhph30v201zs19nzfgfsq31s",
     center: [-71.0989, 42.35],
-    zoom: 12.3,
+    zoom: 12.15,
     dragPan: true,
     keyboard: false,
     dragRotate: false,
@@ -22,11 +23,22 @@ const MapBox = async (container) => {
   };
 
   let restaurants = await getRestaurants();
+  await timeout(0); // set to 1000 when live
+  dispatch.call("loaded", this);
   console.log(restaurants);
-  let dishes = await getDishesWithIngredients(
-    "c738e262-2a7d-43d9-883f-cbf7c19d5693"
-  );
-  console.log(dishes);
+
+  // let dishes = await getDishesWithIngredients(
+  //   "c738e262-2a7d-43d9-883f-cbf7c19d5693"
+  // );
+
+  map.flyTo({
+    center: [-71.0989, 42.35],
+    zoom: 12.3,
+    speed: 0.1,
+    curve: 1,
+    easing: (t) => Math.log(t),
+    essential: true,
+  });
 
   const mapBoxCon = map.getCanvasContainer();
   console.log(mapBoxCon);

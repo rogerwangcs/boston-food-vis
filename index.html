@@ -25,6 +25,7 @@
     />
     <!-- You CSS rules-->
     <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="./loader.css" />
     <!-- Load Javascript files -->
     <script
       defer
@@ -49,12 +50,18 @@
     <script src="./index.js" defer type="module"></script>
   </head>
   <body>
-    <div class="dashboard">
-      <div id="mapbox"></div>
-      <div id="map-overlay"></div>
-      <div id="restaurant-container-1"></div>
-      <div id="restaurant-container-2"></div>
-      <div id="restaurant-container-3"></div>
+    <div class="loading-screen">
+      <div class="lds-ellipsis">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div id="mapbox"></div>
+    <div id="map-overlay"></div>
+    <div class="overlay">
+      <div class="sidebar"></div>
     </div>
   </body>
 </html>
