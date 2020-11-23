@@ -8,6 +8,7 @@ const dispatch = d3.dispatch("loaded", "setRestaurant"); // parameters as list o
 
 const init = async () => {
   const mapbox = MapBox(dispatch);
+  // const ingredients = Ingredients(dispatch); // used for the donut
   let selectedRestaurantId = null;
 
   // dispatch hooks
