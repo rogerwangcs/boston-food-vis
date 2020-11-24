@@ -3,6 +3,7 @@ import { timeout } from "../utils/helpers.js";
 
 const MapBox = async (dispatch) => {
   let selectedRestaurantId = null;
+  let selectedRestaurant = null;
   mapboxgl.accessToken =
     "pk.eyJ1IjoiZW5qYWxvdCIsImEiOiJjaWhtdmxhNTIwb25zdHBsejk0NGdhODJhIn0.2-F2hS_oTZenAWc0BMf_uw";
   //Setup mapbox-gl map
@@ -72,13 +73,26 @@ const MapBox = async (dispatch) => {
         essential: true,
       });
       selectedRestaurantId = d.location_id;
+      selectedRestaurant = d;
       dispatch.call("setRestaurant", this, d.location_id);
       update();
     })
     .on("mouseover", function (e, d) {
+      d3.select("#name").text(d.brand_name);
+      d3.select("#cuisine").text("Cuisine: " + d.cuisine_type);
+      d3.select("#scale").text("Price Scale: " + d.price_scale);
+      d3.select("#info").classed("hidden", false);
       return d3.select(this).transition().duration("50").attr("r", 20);
     })
     .on("mouseout", function (e, d) {
+      if(selectedRestaurant == null) {
+        d3.select("#info").classed("hidden", true);
+      }
+      else {
+        d3.select("#name").text(selectedRestaurant.brand_name);
+        d3.select("#cuisine").text("Cuisine: " + selectedRestaurant.cuisine_type);
+        d3.select("#scale").text("Price Scale: " + selectedRestaurant.price_scale);
+      }
       return d3
         .select(this)
         .transition()

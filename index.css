@@ -55,3 +55,22 @@ h1 {
   height: 100vh;
   background-color: rgba(20, 20, 20, 0.95);
 }
+
+#info.hidden {
+  display: none;
+}
+
+#info {
+  padding: 20px;
+  font-family: 'Quicksand', sans-serif;
+  color: 'white';
+}
+
+#name {
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+#cuisine #scale {
+  font-size: 15px;
+}

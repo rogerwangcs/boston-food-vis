@@ -49,6 +49,7 @@
     ></script>
     <script src="https://d3js.org/d3.v4.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
     <script src="./index.js" defer type="module"></script>
   </head>
   <body>
@@ -63,7 +64,13 @@
     <div id="mapbox"></div>
     <div id="map-overlay"></div>
     <div class="overlay">
-      <div class="sidebar"></div>
+      <div class="sidebar">
+        <div id="info" class="hidden">
+          <div id="name"></div>
+          <div id="cuisine"></div>
+          <div id="scale"></div>
+        </div>
+      </div>
     </div>
   </body>
   <!-- <div id = "ingredients"> //this div will print out the donut
