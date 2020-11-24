@@ -49,11 +49,31 @@ h1 {
   top: 0px;
 }
 
-.sidebar {
-  position: absolute;
-  width: 350px;
+.overlay-bg {
+  z-index: 2;
+  display: none;
+  position: fixed;
+  width: 100vw;
   height: 100vh;
-  background-color: rgba(20, 20, 20, 0.95);
+  background: radial-gradient(
+    circle at center,
+    rgba(15, 28, 66, 0) 5%,
+    rgba(15, 28, 66, 0.8) 12%,
+    rgba(15, 28, 66, 0.95) 80%
+  );
+}
+.overlay-bg:hover {
+  cursor: pointer;
+}
+
+#ingredients {
+  z-index: 5;
+  position: absolute;
+  left: 50vw;
+  top: 50vh;
+  transform: translate(-50%, -50%);
+  display: none;
+  /* border: 1px solid red; */
 }
 
 #info.hidden {
@@ -61,9 +81,10 @@ h1 {
 }
 
 #info {
+  z-index: 10;
   padding: 20px;
-  font-family: 'Quicksand', sans-serif;
-  color: 'white';
+  font-family: "Quicksand", sans-serif;
+  color: "white";
 }
 
 #name {

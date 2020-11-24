@@ -4,12 +4,31 @@ import Menu from "./charts/menu.js";
 import Cuisine from "./charts/cuisine.js";
 import { timeout } from "./utils/helpers.js";
 
-const dispatch = d3.dispatch("loaded", "setRestaurant"); // parameters as list of dispatch names
+const dispatch = d3.dispatch("loaded", "setRestaurant", "goBack"); // parameters as list of dispatch names
 
 const init = async () => {
-  const mapbox = MapBox(dispatch);
-  // const ingredients = Ingredients(dispatch); // used for the donut
   let selectedRestaurantId = null;
+  const mapbox = MapBox(dispatch);
+  const ingredients = Ingredients("asd");
+
+  // control overlay visibility
+  const overlayBg = d3.select(".overlay-bg");
+  const setOverlayOpacity = (isVisible) => {
+    const opacity = isVisible ? 1 : 0;
+    overlayBg.transition(1000).style("opacity", opacity);
+    d3.select("#ingredients").transition(500).style("opacity", opacity);
+  };
+  const setOverlayDisplay = (isVisible) => {
+    const display = isVisible ? "block" : "none";
+    overlayBg.style("display", display);
+    d3.select("#ingredients").style("display", display);
+  };
+  overlayBg.on("click", async (e) => {
+    dispatch.call("goBack", this, null);
+    setOverlayOpacity(false);
+    await timeout(1000);
+    setOverlayDisplay(false);
+  });
 
   // dispatch hooks
   dispatch.on("loaded", async () => {
@@ -21,8 +40,9 @@ const init = async () => {
 
   dispatch.on("setRestaurant", async (id) => {
     selectedRestaurantId = id;
-    console.log(selectedRestaurantId);
-    // pass to charts
+    setOverlayDisplay(true);
+    setOverlayOpacity(true);
+    ingredients.update(selectedRestaurantId);
   });
 };
 

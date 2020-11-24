@@ -1,16 +1,16 @@
-import { getDishesWithIngredients, getRestaurants } from "../utils/api.js";
+import { getDishesWithIngredients } from "../utils/api.js";
 
-const Menu = async (container) => {
+const Ingredients = (container) => {
   // set the dimensions and margins of the graph
-  var width = 1000;
-  var height = 1000;
-  var margin = 200;
+  const width = 500;
+  const height = 500;
+  const margin = 100;
 
   // The radius of the pieplot is half the width or half the height (smallest one). I subtract a bit of margin.
-  var radius = Math.min(width, height) / 2 - margin;
+  const radius = Math.min(width, height) / 2 - margin;
 
   // append the svg object to the div called 'ingredients'
-  var svg = d3
+  const svg = d3
     .select("#ingredients")
     .append("svg")
     .attr("width", width)
@@ -18,14 +18,11 @@ const Menu = async (container) => {
     .append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-  //this line tests a random restaurantID
-  update("909aaa24-df26-4c10-b1af-7d6f6a7271d0");
-
-  async function update(restaurantID) {
-    //restaurantID is the input
-
-    let dishes = await getDishesWithIngredients(restaurantID);
-    // console.log(dishes);
+  const update = async (restaurantID) => {
+    if (!restaurantID) {
+      return;
+    }
+    const dishes = await getDishesWithIngredients(restaurantID);
 
     // Create data
     let newData = new Proxy(
@@ -35,29 +32,18 @@ const Menu = async (container) => {
       }
     );
     dishes.map((d) => {
-      // console.log(d["ingredients"])
       for (const [key, value] of Object.entries(d["ingredients"])) {
         newData[value.split(",")[0]] += 1;
       }
-      // console.log(newData[d["ingredients"]])
-      // console.log(typeof d)
     });
-
-    console.log(newData);
 
     let sortedObject = {};
     sortedObject = Object.keys(newData)
-      .sort(function (a, b) {
-        // console.log(newData[a])
-        // console.log(b)
-        return newData[b] - newData[a];
-      })
+      .sort((a, b) => newData[b] - newData[a])
       .reduce((a, v) => {
-        //a is a place in sortedObject, v is a key/value pair in newData
         a[v] = newData[v];
         return a;
       }, {});
-    console.log(sortedObject);
 
     //First 20
     let topIngredients = Object.keys(sortedObject) //get the keys out
@@ -67,7 +53,6 @@ const Menu = async (container) => {
         memo[current] = sortedObject[current];
         return memo;
       }, {});
-    console.log(topIngredients);
 
     // clears any old data
     svg
@@ -90,28 +75,28 @@ const Menu = async (container) => {
       .remove();
 
     // set the color scale
-    var color = d3
+    const color = d3
       .scaleOrdinal()
       .domain(Object.keys(sortedObject))
       .range(d3.schemeDark2);
 
     // Compute the position of each group on the pie:
-    var pie = d3
+    const pie = d3
       .pie()
       .sort(null) // Do not sort group by size
       .value(function (d) {
         return d.value;
       });
-    var data_ready = pie(d3.entries(topIngredients));
+    const data_ready = pie(d3.entries(topIngredients));
 
     // The arc generator
-    var arc = d3
+    const arc = d3
       .arc()
       .innerRadius(radius * 0.5) // This is the size of the donut hole
       .outerRadius(radius * 0.8);
 
     // Another arc that won't be drawn. Just for labels positioning
-    var outerArc = d3
+    const outerArc = d3
       .arc()
       .innerRadius(radius * 0.9)
       .outerRadius(radius * 0.9);
@@ -124,11 +109,10 @@ const Menu = async (container) => {
       .append("path")
       .attr("d", arc)
       .attr("fill", function (d) {
-        console.log(d.data.key);
         return color(d.data.key);
       })
       .attr("stroke", "white")
-      .style("stroke-width", "2px")
+      .style("stroke-width", "1px")
       .style("opacity", 0)
       .transition()
       .duration(500)
@@ -175,20 +159,16 @@ const Menu = async (container) => {
         var midangle = d.startAngle + (d.endAngle - d.startAngle) / 2;
         return midangle < Math.PI ? "start" : "end";
       })
+      .style("color", "white")
       .style("opacity", 0)
       .transition()
       .duration(500)
       .style("opacity", 1);
-  }
+  };
 
   return {
     update,
   };
 };
 
-export default Menu;
-
-// - `/getRestaurants` - returns list of all boston restaraunts
-// - `/getDishes?locationId=<location_id>` - returns list of all dishes given a restaurant's location id
-// - `/getIngredients?dishId=<dish_id>` - returns list of all ingredients given a dish id
-// export { getRestaurants, getDishes, getDishesWithIngredients, getIngredients };
+export default Ingredients;

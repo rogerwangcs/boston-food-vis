@@ -27,11 +27,6 @@ const MapBox = async (dispatch) => {
   let restaurants = await getRestaurants();
   await timeout(0); // set to 1000 when live
   dispatch.call("loaded", this);
-  console.log(restaurants);
-
-  // let dishes = await getDishesWithIngredients(
-  //   "c738e262-2a7d-43d9-883f-cbf7c19d5693"
-  // );
 
   map.flyTo({
     center: [-71.0989, 42.35],
@@ -65,17 +60,19 @@ const MapBox = async (dispatch) => {
     .on("click", (e, d) => {
       map.flyTo({
         center: [d.longitude, d.latitude],
-        zoom: 15,
-        speed: 1.5,
+        zoom: 16,
+        speed: 1.3,
         curve: 1,
         easing: (t) =>
           t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1,
         essential: true,
       });
-      selectedRestaurantId = d.location_id;
-      selectedRestaurant = d;
-      dispatch.call("setRestaurant", this, d.location_id);
-      update();
+      map.once("moveend", () => {
+        selectedRestaurantId = d.location_id;
+        selectedRestaurant = d;
+        dispatch.call("setRestaurant", this, d.location_id);
+        update();
+      });
     })
     .on("mouseover", function (e, d) {
       d3.select("#name").text(d.brand_name);
@@ -85,13 +82,17 @@ const MapBox = async (dispatch) => {
       return d3.select(this).transition().duration("50").attr("r", 20);
     })
     .on("mouseout", function (e, d) {
-      if(selectedRestaurant == null) {
-        d3.select("#info").classed("hidden", true);
-      }
-      else {
+      if (selectedRestaurant == null) {
+        // d3.select("#info").classed("hidden", true);
+      } else {
+        // d3.select("#info").classed("hidden", false);
         d3.select("#name").text(selectedRestaurant.brand_name);
-        d3.select("#cuisine").text("Cuisine: " + selectedRestaurant.cuisine_type);
-        d3.select("#scale").text("Price Scale: " + selectedRestaurant.price_scale);
+        d3.select("#cuisine").text(
+          "Cuisine: " + selectedRestaurant.cuisine_type
+        );
+        d3.select("#scale").text(
+          "Price Scale: " + selectedRestaurant.price_scale
+        );
       }
       return d3
         .select(this)
@@ -118,11 +119,16 @@ const MapBox = async (dispatch) => {
       .style("fill", (d) => colorScale(d.price_scale));
   };
 
+  dispatch.on("goBack", (id) => {
+    selectedRestaurantId = id;
+    update();
+  });
+
   // Call update method and whenever map changes
-  update();
   map.on("viewreset", update);
   map.on("move", update);
   map.on("moveend", update);
+  update();
 };
 
 export default MapBox;
