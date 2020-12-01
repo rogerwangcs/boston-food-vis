@@ -113,7 +113,6 @@ const MapBox = async (dispatch) => {
     })
     .on("mouseover", function (e, d) {
       d3.select("#name").text(d.brand_name);
-      d3.select("#rest").text(d.brand_name);
       d3.select("#cuisine").text("Cuisine: " + d.cuisine_type);
       d3.select("#scale").text("Price Scale: " + d.price_scale);
       d3.select("#restaurant").style("visibility", "visible");
@@ -126,19 +125,7 @@ const MapBox = async (dispatch) => {
     })
     .on("mouseout", function (e, d) {
       // hoverText.style("display", "none");
-
-      if (selectedRestaurantId == null) {
-        d3.select("#restaurant").style("visibility", "hidden");
-      } else {
-        d3.select("#restaurant").style("visibility", "visible");
-        d3.select("#name").text(selectedRestaurant.brand_name);
-        d3.select("#cuisine").text(
-          "Cuisine: " + selectedRestaurant.cuisine_type
-        );
-        d3.select("#scale").text(
-          "Price Scale: " + selectedRestaurant.price_scale
-        );
-      }
+      d3.select("#restaurant").style("visibility", "hidden");
       return d3
         .select(this)
         .transition()
