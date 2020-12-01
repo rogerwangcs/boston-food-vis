@@ -109,7 +109,77 @@ const Ingredients = (container) => {
       .append("path")
       .attr("d", arc)
       .attr("fill", function (d) {
-        return color(d.data.key);
+        if (d.data.key == "water") {
+          return "#0400f9";
+        } else if (d.data.key == "garlic") {
+          return "#edf287";
+        } else if (d.data.key == "spices") {
+          return "#ffb202";
+        } else if (d.data.key == "onions") {
+          return "#f5febe";
+        } else if (d.data.key == "peppers") {
+          return "#070009";
+        } else if (d.data.key == "salt") {
+          return "#ffffff";
+        } else if (d.data.key == "beef") {
+          return "#d34921";
+        } else if (d.data.key == "butter") {
+          return "#f5e921";
+        } else if (d.data.key == "butter") {
+          return "#f5e921";
+        } else if (d.data.key == "cheese") {
+          return "#f4ff00";
+        } else if (d.data.key == "tomatoes") {
+          return "#fa0500";
+        } else if (d.data.key == "egg") {
+          return "#fef38f";
+        } else if (d.data.key == "bread") {
+          return "#ac7f63";
+        } else if (d.data.key == "pork") {
+          return "#f25b63";
+        } else if (d.data.key == "chicken") {
+          return "#f9fde6";
+        } else if (d.data.key == "crustaceans") {
+          return "#fd6b27";
+        } else if (d.data.key == "soy sauce") {
+          return "#2c0003";
+        } else if (d.data.key == "sugars") {
+          return "#fffefa";
+        } else if (d.data.key == "sushi rice") {
+          return "#fffeed";
+        } else if (d.data.key == "fish") {
+          return "#2d2ffa";
+        } else if (d.data.key == "beans") {
+          return "#512f3b";
+        } else if (d.data.key == "olive oil") {
+          return "#515c28";
+        } else if (d.data.key == "lemons") {
+          return "#fdfd03";
+        } else if (d.data.key == "orange") {
+          return "#fd9000";
+        } else if (d.data.key == "coffee") {
+          return "#ab7f5d";
+        } else if (d.data.key == "parsley") {
+          return "#4ec55d";
+        } else if (d.data.key == "nori") {
+          return "#026723";
+        } else if (d.data.key == "rice") {
+          return "#fefff6";
+        } else if (d.data.key == "sesame oil") {
+          return "#d6f04e";
+        } else if (d.data.key == "lettuce") {
+          return "#019b44";
+        } else if (d.data.key == "potatoes") {
+          return "#c79b44";
+        } else if (d.data.key == "milk") {
+          return "#fcfffd";
+        } else if (d.data.key == "yogurt") {
+          return "#da4287";
+        } else if (d.data.key == "tea") {
+          return "#65d168";
+        } else if (d.data.key == "strawberries") {
+          return "#e14268";
+        } else return color(d.data.key);
       })
       .attr("stroke", "white")
       .style("stroke-width", "1px")
