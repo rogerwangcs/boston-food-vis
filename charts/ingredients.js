@@ -45,9 +45,9 @@ const Ingredients = (container) => {
         return a;
       }, {});
 
-    //First 20
+    //First 12
     let topIngredients = Object.keys(sortedObject) //get the keys out
-      .slice(0, 20) //get the first N
+      .slice(0, 12) //get the first N
       .reduce(function (memo, current) {
         //generate a new object out of them
         memo[current] = sortedObject[current];
@@ -124,7 +124,7 @@ const Ingredients = (container) => {
       .data(data_ready)
       .enter()
       .append("polyline")
-      .attr("stroke", "black")
+      .attr("stroke", "white")
       .style("fill", "none")
       .attr("stroke-width", 1)
       .attr("points", function (d) {
@@ -159,11 +159,21 @@ const Ingredients = (container) => {
         var midangle = d.startAngle + (d.endAngle - d.startAngle) / 2;
         return midangle < Math.PI ? "start" : "end";
       })
-      .style("color", "white")
+      .style("fill", "white")
       .style("opacity", 0)
       .transition()
       .duration(500)
       .style("opacity", 1);
+
+    svg
+      .append("text")
+      .attr("class", "title")
+      .attr("y", -175)
+      .attr("x", 0)
+      .style("text-anchor", "middle")
+      .style("fill", "white")
+      .style("font-size", "20px")
+      .text("INGREDIENTS");
   };
 
   return {

@@ -41,6 +41,7 @@ h1 {
   font-family: "Bungee Outline", cursive;
   font-weight: 700;
   font-size: 40px;
+  color: white;
 }
 
 .overlay {
@@ -50,7 +51,7 @@ h1 {
 }
 
 .overlay-bg {
-  z-index: 2;
+  z-index: 0;
   display: none;
   position: fixed;
   width: 100vw;
@@ -66,10 +67,29 @@ h1 {
   cursor: pointer;
 }
 
+svg text {
+  color: white;
+}
+
+svg line {
+  color: white;
+}
+
 #ingredients {
+  color: white;
   z-index: 5;
   position: absolute;
   left: 50vw;
+  top: 50vh;
+  transform: translate(-50%, -50%);
+  display: none;
+  /* border: 1px solid red; */
+}
+
+#nutrition {
+  z-index: 5;
+  position: absolute;
+  left: 20vw;
   top: 50vh;
   transform: translate(-50%, -50%);
   display: none;
