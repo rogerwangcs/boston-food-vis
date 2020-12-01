@@ -41,6 +41,7 @@ h1 {
   font-family: "Bungee Outline", cursive;
   font-weight: 700;
   font-size: 40px;
+  color: white;
 }
 
 .overlay {
@@ -50,7 +51,7 @@ h1 {
 }
 
 .overlay-bg {
-  z-index: 2;
+  z-index: 0;
   display: none;
   position: fixed;
   width: 100vw;
@@ -66,7 +67,16 @@ h1 {
   cursor: pointer;
 }
 
+svg text {
+  color: white;
+}
+
+svg line {
+  color: white;
+}
+
 #ingredients {
+  color: white;
   z-index: 5;
   position: absolute;
   left: 50vw;
@@ -76,22 +86,68 @@ h1 {
   /* border: 1px solid red; */
 }
 
-#info.hidden {
+#nutrition {
+  z-index: 5;
+  position: absolute;
+  left: 20vw;
+  top: 50vh;
+  transform: translate(-50%, -50%);
   display: none;
+  /* border: 1px solid red; */
 }
 
-#info {
-  z-index: 10;
+#restaurant {
+  margin: 20px;
   padding: 20px;
   font-family: "Quicksand", sans-serif;
-  color: "white";
+  color: white;
+  background-color: black;
+  visibility: hidden;
 }
 
 #name {
-  font-size: 25px;
+  font-size: 20px;
   padding-bottom: 10px;
 }
 
 #cuisine #scale {
   font-size: 15px;
+  color: white;
+}
+
+#info {
+  margin: 20px;
+  padding: 20px;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  background-color: black;
+  width: 400px;
+  font-size: 15px;
+}
+
+#title {
+  font-size: 25px;
+  color: white;
+}
+
+#rest {
+  margin: 20px;
+  padding: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#legend {
+  width: 150px;
+  height: 105px;
+}
+
+#sub {
+  padding-top: 10px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  color: white;
 }

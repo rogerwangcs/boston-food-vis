@@ -37,21 +37,48 @@ const MapBox = async (dispatch) => {
     essential: true,
   });
 
-  const priceScale = d3
-    .scaleLinear()
-    .domain(d3.extent(restaurants.map((d) => d.price_scale)))
-    .range([6, 9]);
   const colorScale = d3
-    .scaleOrdinal()
-    .domain([1, 2, 3])
-    .range(d3.schemeCategory10);
+    .scaleLinear()
+    .domain([1, 4])
+    .range(["#ffdbc4", "#f0280a"]);
 
   const mapBoxCon = map.getCanvasContainer();
-  // console.log(mapBoxCon);
+
   const svg = d3
     .select(mapBoxCon)
     .append("svg")
     .attr("class", "mapbox-container");
+
+  const hoverText = svg
+    .append("text")
+    .style("position", "absolute")
+    .style("fill", "white")
+    .style("text-anchor", "middle")
+    .style("font-size", "20px");
+
+  const leg = d3.select("#legend");
+  var keys = [1, 2, 3, 4];
+
+  leg.selectAll("leg")
+    .data(keys)
+    .enter()
+    .append("circle")
+      .attr("cx", 20)
+      .attr("cy", function(d,i){ return 20 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+      .attr("r", 7)
+      .style("fill", function(d){ return colorScale(d)})
+
+  leg.selectAll("labels")
+    .data(keys)
+    .enter()
+    .append("text")
+      .attr("x", 40)
+      .attr("y", function(d,i){ return 20 + i*25}) // 100 is where the first dot appears. 25 is the distance between dots
+      .style("fill", "white")
+      .text(function(d){ return d})
+      .attr("text-anchor", "left")
+      .style("alignment-baseline", "middle")
+
   const dots = svg
     .selectAll("circle")
     .data(restaurants)
@@ -76,16 +103,24 @@ const MapBox = async (dispatch) => {
     })
     .on("mouseover", function (e, d) {
       d3.select("#name").text(d.brand_name);
+      d3.select("#rest").text(d.brand_name);
       d3.select("#cuisine").text("Cuisine: " + d.cuisine_type);
       d3.select("#scale").text("Price Scale: " + d.price_scale);
-      d3.select("#info").classed("hidden", false);
-      return d3.select(this).transition().duration("50").attr("r", 20);
+      d3.select("#restaurant").style("visibility", "visible");
+      // hoverText
+      //   .attr("x", e.clientX)
+      //   .attr("y", e.clientY - 35)
+      //   .text(d.brand_name)
+      //   .style("display", "block");
+      return d3.select(this).raise().transition().duration("250").attr("r", 20);
     })
     .on("mouseout", function (e, d) {
-      if (selectedRestaurant == null) {
-        // d3.select("#info").classed("hidden", true);
+      // hoverText.style("display", "none");
+
+      if (selectedRestaurantId == null) {
+        d3.select("#restaurant").style("visibility", "hidden");
       } else {
-        // d3.select("#info").classed("hidden", false);
+        d3.select("#restaurant").style("visibility", "visible");
         d3.select("#name").text(selectedRestaurant.brand_name);
         d3.select("#cuisine").text(
           "Cuisine: " + selectedRestaurant.cuisine_type
@@ -98,12 +133,7 @@ const MapBox = async (dispatch) => {
         .select(this)
         .transition()
         .duration("50")
-        .attr(
-          "r",
-          d.location_id === selectedRestaurantId
-            ? 20
-            : priceScale(d.price_scale)
-        )
+        .attr("r", d.location_id === selectedRestaurantId ? 20 : 6)
         .style(("z-index", 0));
     });
 
@@ -111,13 +141,23 @@ const MapBox = async (dispatch) => {
     dots
       .attr("cx", (d) => project([d.longitude, d.latitude]).x)
       .attr("cy", (d) => project([d.longitude, d.latitude]).y)
-      .attr("r", (d) =>
-        d.location_id === selectedRestaurantId ? 20 : priceScale(d.price_scale)
-      )
+      .attr("r", (d) => (d.location_id === selectedRestaurantId ? 20 : 6))
       .attr("stroke", "black")
-      .attr("stroke-width", 2)
+      .attr("stroke-width", 1)
       .style("fill", (d) => colorScale(d.price_scale));
   };
+
+  // brushing
+  var brush = d3.brush();
+
+  const brushed = (e) => {
+    console.log(e.selection);
+    // if (e.selection) {
+    //   const sel = e.selection.map((d) => d - margin.left);
+    //   listeners["brushed"](sel.map(xScale.invert));
+    // }
+  };
+  svg.append("g").attr("class", "brush").call(d3.brush().on("brush", brushed));
 
   dispatch.on("goBack", (id) => {
     selectedRestaurantId = id;
