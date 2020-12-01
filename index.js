@@ -4,6 +4,7 @@ import Nutrition from "./charts/nutrition.js";
 import Menu from "./charts/menu.js";
 import Cuisine from "./charts/cuisine.js";
 import { timeout } from "./utils/helpers.js";
+import { getRestaurants } from "../utils/api.js";
 
 const dispatch = d3.dispatch("loaded", "setRestaurant", "goBack"); // parameters as list of dispatch names
 
@@ -29,7 +30,6 @@ const init = async () => {
   };
   overlayBg.on("click", async (e) => {
     dispatch.call("goBack", this, null);
-    selectedRestaurantId = null;
     setOverlayOpacity(false);
     await timeout(1000);
     setOverlayDisplay(false);
@@ -49,6 +49,11 @@ const init = async () => {
     setOverlayOpacity(true);
     ingredients.update(selectedRestaurantId);
     nutrition.update(selectedRestaurantId);
+    let restaurants = await getRestaurants();
+    await timeout(0); // set to 1000 when live
+    dispatch.call("loaded", this);
+    let rest = restaurants.filter(d => d.location_id == id);
+    d3.select("#rest").text(rest[0].brand_name);
   });
 };
 

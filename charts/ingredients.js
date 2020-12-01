@@ -124,7 +124,7 @@ const Ingredients = (container) => {
       .data(data_ready)
       .enter()
       .append("polyline")
-      .attr("stroke", "black")
+      .attr("stroke", "white")
       .style("fill", "none")
       .attr("stroke-width", 1)
       .attr("points", function (d) {
@@ -159,7 +159,7 @@ const Ingredients = (container) => {
         var midangle = d.startAngle + (d.endAngle - d.startAngle) / 2;
         return midangle < Math.PI ? "start" : "end";
       })
-      .style("color", "white")
+      .style("fill", "white")
       .style("opacity", 0)
       .transition()
       .duration(500)
