@@ -56,6 +56,39 @@ const MapBox = async (dispatch) => {
     .style("text-anchor", "middle")
     .style("font-size", "20px");
 
+  const leg = d3.select("#legend");
+  var keys = [1, 2, 3, 4];
+
+  leg
+    .selectAll("leg")
+    .data(keys)
+    .enter()
+    .append("circle")
+    .attr("cx", 20)
+    .attr("cy", function (d, i) {
+      return 20 + i * 25;
+    }) // 100 is where the first dot appears. 25 is the distance between dots
+    .attr("r", 7)
+    .style("fill", function (d) {
+      return colorScale(d);
+    });
+
+  leg
+    .selectAll("labels")
+    .data(keys)
+    .enter()
+    .append("text")
+    .attr("x", 40)
+    .attr("y", function (d, i) {
+      return 20 + i * 25;
+    }) // 100 is where the first dot appears. 25 is the distance between dots
+    .style("fill", "white")
+    .text(function (d) {
+      return d;
+    })
+    .attr("text-anchor", "left")
+    .style("alignment-baseline", "middle");
+
   const dots = svg
     .selectAll("circle")
     .data(restaurants)
@@ -80,9 +113,10 @@ const MapBox = async (dispatch) => {
     })
     .on("mouseover", function (e, d) {
       d3.select("#name").text(d.brand_name);
+      d3.select("#rest").text(d.brand_name);
       d3.select("#cuisine").text("Cuisine: " + d.cuisine_type);
       d3.select("#scale").text("Price Scale: " + d.price_scale);
-      d3.select("#info").classed("hidden", false);
+      d3.select("#restaurant").style("visibility", "visible");
       // hoverText
       //   .attr("x", e.clientX)
       //   .attr("y", e.clientY - 35)
@@ -93,10 +127,10 @@ const MapBox = async (dispatch) => {
     .on("mouseout", function (e, d) {
       // hoverText.style("display", "none");
 
-      if (selectedRestaurant == null) {
-        // d3.select("#info").classed("hidden", true);
+      if (selectedRestaurantId == null) {
+        d3.select("#restaurant").style("visibility", "hidden");
       } else {
-        // d3.select("#info").classed("hidden", false);
+        d3.select("#restaurant").style("visibility", "visible");
         d3.select("#name").text(selectedRestaurant.brand_name);
         d3.select("#cuisine").text(
           "Cuisine: " + selectedRestaurant.cuisine_type

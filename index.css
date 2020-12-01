@@ -96,22 +96,58 @@ svg line {
   /* border: 1px solid red; */
 }
 
-#info.hidden {
-  display: none;
-}
-
-#info {
-  z-index: 10;
+#restaurant {
+  margin: 20px;
   padding: 20px;
   font-family: "Quicksand", sans-serif;
-  color: "white";
+  color: white;
+  background-color: black;
+  visibility: hidden;
 }
 
 #name {
-  font-size: 25px;
+  font-size: 20px;
   padding-bottom: 10px;
 }
 
 #cuisine #scale {
   font-size: 15px;
+  color: white;
+}
+
+#info {
+  margin: 20px;
+  padding: 20px;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  background-color: black;
+  width: 400px;
+  font-size: 15px;
+}
+
+#title {
+  font-size: 25px;
+  color: white;
+}
+
+#rest {
+  margin: 20px;
+  padding: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#legend {
+  width: 150px;
+  height: 105px;
+}
+
+#sub {
+  padding-top: 10px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  color: white;
 }
