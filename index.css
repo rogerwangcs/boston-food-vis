@@ -115,6 +115,24 @@ svg line {
   color: white;
 }
 
+#ingredientUsage {
+  padding: 15px;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  background-color: black;
+  visibility: hidden;
+  z-index: 5;
+  position: absolute;
+  left: 50vw;
+  top: 72.5vh;
+  transform: translate(-50%, -50%);
+}
+
+#ingredientUsageCount {
+  font-size: 15px;
+  text-align: center;
+}
+
 #info {
   margin: 20px;
   padding: 20px;

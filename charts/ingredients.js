@@ -181,6 +181,16 @@ const Ingredients = (container) => {
           return "#e14268";
         } else return color(d.data.key);
       })
+      // Displays the amount of times an ingredient appears
+      .on("mouseover", function (e, d) {
+        d3.select("#ingredientUsageCount").text(
+          d.data.key + " appeared " + d.data.value + " times in this location."
+        );
+        d3.select("#ingredientUsage").style("visibility", "visible");
+      })
+      .on("mouseout", function (e, d) {
+        d3.select("#ingredientUsage").style("visibility", "hidden");
+      })
       .attr("stroke", "white")
       .style("stroke-width", "1px")
       .style("opacity", 0)
