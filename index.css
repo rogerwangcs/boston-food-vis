@@ -164,8 +164,22 @@ svg line {
 }
 
 #sub {
-  padding-top: 10px;
   font-family: "Quicksand", sans-serif;
   font-size: 18px;
   color: white;
+}
+
+
+#leg {
+  z-index: inherit;
+  margin: 20px;
+  padding: 10px;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  background-color: black;
+  width: 120px;
+  font-size: 15px;
+  position: fixed;
+  bottom: 2%;
+  right: 0;
 }
