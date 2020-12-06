@@ -45,15 +45,14 @@ const init = async () => {
 
   dispatch.on("setRestaurant", async (id) => {
     selectedRestaurantId = id;
+    let restaurants = await getRestaurants();
+    let rest = restaurants.filter((d) => d.location_id == id);
+    d3.select("#rest").text(rest[0].brand_name);
+
     setOverlayDisplay(true);
     setOverlayOpacity(true);
     ingredients.update(selectedRestaurantId);
     nutrition.update(selectedRestaurantId);
-    let restaurants = await getRestaurants();
-    await timeout(0); // set to 1000 when live
-    dispatch.call("loaded", this);
-    let rest = restaurants.filter((d) => d.location_id == id);
-    d3.select("#rest").text(rest[0].brand_name);
   });
 };
 

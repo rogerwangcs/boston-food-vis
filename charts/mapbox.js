@@ -115,7 +115,7 @@ const MapBox = async (dispatch) => {
       d3.select("#name").text(d.brand_name);
       d3.select("#cuisine").text("Cuisine: " + d.cuisine_type);
       d3.select("#scale").text("Price Scale: " + d.price_scale);
-      d3.select("#restaurant").style("visibility", "visible");
+      d3.select("#restaurant").style("opacity", 1);
       // hoverText
       //   .attr("x", e.clientX)
       //   .attr("y", e.clientY - 35)
@@ -125,7 +125,7 @@ const MapBox = async (dispatch) => {
     })
     .on("mouseout", function (e, d) {
       // hoverText.style("display", "none");
-      d3.select("#restaurant").style("visibility", "hidden");
+      d3.select("#restaurant").style("opacity", 0);
       return d3
         .select(this)
         .transition()
