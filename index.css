@@ -112,7 +112,8 @@ svg line {
   padding-bottom: 5px;
 }
 
-#cuisine, #scale {
+#cuisine,
+#scale {
   font-size: 15px;
   color: white;
 }
@@ -159,7 +160,8 @@ svg line {
   text-transform: uppercase;
 }
 
-#cu, #price {
+#cu,
+#price {
   font-family: "Quicksand", sans-serif;
   font-size: 15px;
   color: white;
@@ -203,12 +205,23 @@ svg line {
   font-family: "Quicksand", sans-serif;
   color: white;
   background-color: rgb(15, 15, 15, 0.9);
-  width: 810px;
+  width: 800px;
   height: 90px;
   font-size: 15px;
   position: fixed;
   bottom: 0;
   left: 0;
+}
+
+#cuisines img {
+  position: absolute;
+  transition: all 50ms ease-out;
+  /* filter: brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg); */
+}
+#cuisines img:hover {
+  filter: brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg);
+  transform: scale(1.08) rotate(2deg);
+  cursor: pointer;
 }
 
 #info,

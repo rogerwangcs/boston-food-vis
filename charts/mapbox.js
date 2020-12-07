@@ -81,46 +81,41 @@ const MapBox = async (dispatch) => {
     .attr("x", 40)
     .attr("y", function (d, i) {
       return 20 + i * 25;
-    }) 
+    })
     .style("fill", "white")
     .text(function (d) {
       return "$".repeat(parseInt(d));
     })
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle");
-  
+
   const bar = d3.select("#cuisines");
-  const cuisines = ["Italian", "Sandwiches", "Chinese", "Sushi", "Mexican", "Breakfast", "Pizza", "Bar", "Cafe"];
+  const cuisines = [
+    "Italian",
+    "Sandwiches",
+    "Chinese",
+    "Sushi",
+    "Mexican",
+    "Breakfast",
+    "Pizza",
+    "Bar",
+    "Cafe",
+  ];
 
   bar
     .selectAll("cuis")
     .data(cuisines)
     .enter()
-    .append("image")
-    .attr("y", 0)
-    .attr("x", function (d, i) {
-      return 20 + i * 85;
+    .append("img")
+    .style("top", "10px")
+    .style("left", function (d, i) {
+      return 20 + i * 85 + "px";
     })
-    .attr('width',70)
-    .attr('height', 70)
-    .attr("xlink:href", function (d) {
-      return "../images/" + d.toLowerCase() + ".png"
+    .style("width", "70px")
+    .style("height", "70px")
+    .attr("src", function (d) {
+      return "/images/" + d.toLowerCase() + ".png";
     });
-
-  // bar
-  //   .selectAll("lab")
-  //   .data(cuisines)
-  //   .enter()
-  //   .append("text")
-  //   .attr("y", 50)
-  //   .attr("x", function (d, i) {
-  //     return 44 + i * 80;
-  //   })
-  //   .style("fill", "white")
-  //   .text(function (d) {
-  //     return d;
-  //   })
-  //   .attr("text-anchor", "middle");
 
   const dots = svg
     .selectAll("circle")
@@ -130,7 +125,6 @@ const MapBox = async (dispatch) => {
     .on("click", (e, d) => {
       map.flyTo({
         center: [d.longitude, d.latitude],
-        zoom: 16,
         speed: 1.3,
         curve: 1,
         easing: (t) =>
@@ -148,22 +142,24 @@ const MapBox = async (dispatch) => {
       let cs = d.cuisine_type.split(";");
       let i;
       let cui = "";
-      for(i = 0; i < cs.length; i++) {
+      for (i = 0; i < cs.length; i++) {
         let x;
-        let wo = cs[i].split("_")
-        for(x = 0; x < wo.length; x++) {
+        let wo = cs[i].split("_");
+        for (x = 0; x < wo.length; x++) {
           cui += wo[x].charAt(0).toUpperCase() + wo[x].slice(1);
-          if(x != wo.length - 1) {
+          if (x != wo.length - 1) {
             cui += " ";
           }
         }
-        if(i != cs.length - 1) {
+        if (i != cs.length - 1) {
           cui += ", ";
         }
       }
       d3.select("#name").text(d.brand_name);
       d3.select("#cuisine").text("Cuisine: " + cui);
-      d3.select("#scale").text("Price Scale: " + "$".repeat(parseInt(d.price_scale)));
+      d3.select("#scale").text(
+        "Price Scale: " + "$".repeat(parseInt(d.price_scale))
+      );
       d3.select("#restaurant").style("opacity", 1);
       // hoverText
       //   .attr("x", e.clientX)
