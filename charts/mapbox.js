@@ -29,7 +29,7 @@ const MapBox = async (dispatch) => {
 
   let originalRestaurants = await getRestaurants();
   let restaurants = originalRestaurants;
-  await timeout(0); // set to 1000 when live
+  await timeout(1000); // set to 1000 when live
   dispatch.call("loaded", this);
 
   map.flyTo({

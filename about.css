@@ -1,23 +1,29 @@
 body {
   font-family: "Quicksand", sans-serif;
-  text-align: center;
+
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #96adf8;
-  color: #202020;
+  color: #dfe6ff;
+  background-color: #202020;
 }
 header {
   margin-top: 30px;
   font-size: 40px;
-  padding: 10px;
+  padding-bottom: 10px;
   font-weight: bold;
 }
 
 .section {
   font-size: 27px;
-  padding: 10px;
+  padding-bottom: 10px;
 }
 
 .description {
   font-size: 17.5px;
+}
+
+img {
+  width: 600px;
+  height: 600px;
+  border-radius: 10px;
 }
