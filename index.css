@@ -98,20 +98,21 @@ svg line {
 
 #restaurant {
   margin: 20px;
-  padding: 20px;
+  padding: 10px;
   font-family: "Quicksand", sans-serif;
   color: white;
   background-color: rgb(15, 15, 15, 0.9);
   opacity: 0;
   transition: all 100ms ease-in;
+  width: 300px;
 }
 
 #name {
-  font-size: 20px;
-  padding-bottom: 10px;
+  font-size: 18px;
+  padding-bottom: 5px;
 }
 
-#cuisine #scale {
+#cuisine, #scale {
   font-size: 15px;
   color: white;
 }
@@ -151,7 +152,7 @@ svg line {
 
 #rest {
   margin: 20px;
-  padding: 20px;
+  padding: 10px;
   font-family: "Quicksand", sans-serif;
   font-size: 30px;
   color: white;
@@ -184,8 +185,24 @@ svg line {
   right: 0;
 }
 
+#cuisines {
+  z-index: -2;
+  margin: 20px;
+  padding: 10px;
+  font-family: "Quicksand", sans-serif;
+  color: white;
+  background-color: rgb(15, 15, 15, 0.9);
+  width: 710px;
+  height: 70px;
+  font-size: 15px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
 #info,
 #restaurant,
-#leg {
+#leg,
+#cuisines {
   border-radius: 5px;
 }

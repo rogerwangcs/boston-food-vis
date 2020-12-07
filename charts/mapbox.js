@@ -88,6 +88,37 @@ const MapBox = async (dispatch) => {
     })
     .attr("text-anchor", "left")
     .style("alignment-baseline", "middle");
+  
+  const bar = d3.select("#cuisines");
+  const cuisines = ["Italian", "Sandwiches", "Chinese", "Sushi", "Mexican", "Breakfast", "Pizza"];
+
+  bar
+    .selectAll("cuis")
+    .data(cuisines)
+    .enter()
+    .append("image")
+    .attr("y", 0)
+    .attr("x", function (d, i) {
+      return 20 + i * 100;
+    })
+    .attr('width', 50)
+    .attr('height', 30)
+    .attr("xlink:href", "../images/database-erd.png");
+
+  bar
+    .selectAll("lab")
+    .data(cuisines)
+    .enter()
+    .append("text")
+    .attr("y", 50)
+    .attr("x", function (d, i) {
+      return 44 + i * 100;
+    })
+    .style("fill", "white")
+    .text(function (d) {
+      return d;
+    })
+    .attr("text-anchor", "middle");
 
   const dots = svg
     .selectAll("circle")
