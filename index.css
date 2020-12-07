@@ -216,7 +216,6 @@ svg line {
 #cuisines img {
   position: absolute;
   transition: all 50ms ease-out;
-  /* filter: brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg); */
 }
 #cuisines img:hover {
   filter: brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg);

@@ -2,6 +2,9 @@ import { getDishesWithIngredients, getRestaurants } from "../utils/api.js";
 import { timeout } from "../utils/helpers.js";
 
 const MapBox = async (dispatch) => {
+  let cuisineFilter = "";
+  let priceFilter = "";
+
   let selectedRestaurantId = null;
   let selectedRestaurant = null;
   mapboxgl.accessToken =
@@ -24,7 +27,8 @@ const MapBox = async (dispatch) => {
     return map.project(new mapboxgl.LngLat(d[0], d[1]));
   };
 
-  let restaurants = await getRestaurants();
+  let originalRestaurants = await getRestaurants();
+  let restaurants = originalRestaurants;
   await timeout(0); // set to 1000 when live
   dispatch.call("loaded", this);
 
@@ -102,7 +106,7 @@ const MapBox = async (dispatch) => {
     "Cafe",
   ];
 
-  bar
+  const cuisineButtons = bar
     .selectAll("cuis")
     .data(cuisines)
     .enter()
@@ -115,6 +119,16 @@ const MapBox = async (dispatch) => {
     .style("height", "70px")
     .attr("src", function (d) {
       return "images/" + d.toLowerCase() + ".png";
+    })
+    .style("filter", (d) => {
+      cuisineFilter === d
+        ? "brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg)"
+        : "none";
+    })
+    .on("click", (e, d) => {
+      if (cuisineFilter === d) cuisineFilter = "";
+      else cuisineFilter = d;
+      filterUpdate();
     });
 
   const dots = svg
@@ -179,27 +193,104 @@ const MapBox = async (dispatch) => {
         .style(("z-index", 0));
     });
 
+  const filterUpdate = () => {
+    if (cuisineFilter === "") {
+      restaurants = originalRestaurants;
+    } else {
+      restaurants = originalRestaurants.filter((d) =>
+        d.cuisine_type.split(";").includes(cuisineFilter.toLowerCase())
+      );
+    }
+    svg
+      .selectAll("circle")
+      .data(restaurants)
+      .enter()
+      .append("circle")
+      .on("click", (e, d) => {
+        map.flyTo({
+          center: [d.longitude, d.latitude],
+          speed: 1.3,
+          curve: 1,
+          easing: (t) =>
+            t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1,
+          essential: true,
+        });
+        map.once("moveend", () => {
+          selectedRestaurantId = d.location_id;
+          selectedRestaurant = d;
+          dispatch.call("setRestaurant", this, d.location_id);
+          update();
+        });
+      })
+      .on("mouseover", function (e, d) {
+        let cs = d.cuisine_type.split(";");
+        let i;
+        let cui = "";
+        for (i = 0; i < cs.length; i++) {
+          let x;
+          let wo = cs[i].split("_");
+          for (x = 0; x < wo.length; x++) {
+            cui += wo[x].charAt(0).toUpperCase() + wo[x].slice(1);
+            if (x != wo.length - 1) {
+              cui += " ";
+            }
+          }
+          if (i != cs.length - 1) {
+            cui += ", ";
+          }
+        }
+        d3.select("#name").text(d.brand_name);
+        d3.select("#cuisine").text("Cuisine: " + cui);
+        d3.select("#scale").text(
+          "Price Scale: " + "$".repeat(parseInt(d.price_scale))
+        );
+        d3.select("#restaurant").style("opacity", 1);
+        // hoverText
+        //   .attr("x", e.clientX)
+        //   .attr("y", e.clientY - 35)
+        //   .text(d.brand_name)
+        //   .style("display", "block");
+        return d3
+          .select(this)
+          .raise()
+          .transition()
+          .duration("250")
+          .attr("r", 20);
+      })
+      .on("mouseout", function (e, d) {
+        // hoverText.style("display", "none");
+        d3.select("#restaurant").style("opacity", 0);
+        return d3
+          .select(this)
+          .transition()
+          .duration("50")
+          .attr("r", d.location_id === selectedRestaurantId ? 20 : 6)
+          .style(("z-index", 0));
+      });
+    svg.selectAll("circle").data(restaurants).exit().remove();
+    update();
+  };
+
   const update = () => {
-    dots
+    svg
+      .selectAll("circle")
       .attr("cx", (d) => project([d.longitude, d.latitude]).x)
       .attr("cy", (d) => project([d.longitude, d.latitude]).y)
       .attr("r", (d) => (d.location_id === selectedRestaurantId ? 20 : 6))
       .attr("stroke", "black")
       .attr("stroke-width", 1)
       .style("fill", (d) => colorScale(d.price_scale));
-  };
 
-  // brushing
-  var brush = d3.brush();
-
-  const brushed = (e) => {
-    console.log(e.selection);
-    // if (e.selection) {
-    //   const sel = e.selection.map((d) => d - margin.left);
-    //   listeners["brushed"](sel.map(xScale.invert));
-    // }
+    cuisineButtons
+      .style("filter", (d) =>
+        cuisineFilter === d
+          ? "brightness(1) sepia(1) saturate(10000%) hue-rotate(1deg)"
+          : "none"
+      )
+      .style("transform", (d) =>
+        cuisineFilter === d ? "scale(1.08) rotate(2deg)" : "none"
+      );
   };
-  svg.append("g").attr("class", "brush").call(d3.brush().on("brush", brushed));
 
   dispatch.on("goBack", (id) => {
     selectedRestaurantId = id;
