@@ -114,7 +114,7 @@ const MapBox = async (dispatch) => {
     .style("width", "70px")
     .style("height", "70px")
     .attr("src", function (d) {
-      return "/images/" + d.toLowerCase() + ".png";
+      return "../images/" + d.toLowerCase() + ".png";
     });
 
   const dots = svg
