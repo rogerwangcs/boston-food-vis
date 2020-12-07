@@ -151,13 +151,24 @@ svg line {
 }
 
 #rest {
-  margin: 20px;
   padding: 10px;
   font-family: "Quicksand", sans-serif;
   font-size: 30px;
   color: white;
   text-align: center;
   text-transform: uppercase;
+}
+
+#cu, #price {
+  font-family: "Quicksand", sans-serif;
+  font-size: 15px;
+  color: white;
+  margin-right: 20px;
+}
+
+#head {
+  margin-top: 20px;
+  text-align: center;
 }
 
 #legend {

@@ -48,6 +48,24 @@ const init = async () => {
     let restaurants = await getRestaurants();
     let rest = restaurants.filter((d) => d.location_id == id);
     d3.select("#rest").text(rest[0].brand_name);
+    d3.select("#price").text("Price Scale: " + "$".repeat(parseInt(rest[0].price_scale)));
+    let cs = rest[0].cuisine_type.split(";");
+    let i;
+    let cui = "";
+    for(i = 0; i < cs.length; i++) {
+      let x;
+      let wo = cs[i].split("_")
+      for(x = 0; x < wo.length; x++) {
+        cui += wo[x].charAt(0).toUpperCase() + wo[x].slice(1);
+        if(x != wo.length - 1) {
+          cui += " ";
+        }
+      }
+      if(i != cs.length - 1) {
+        cui += ", ";
+      }
+    }
+    d3.select("#cu").text("Cuisine: " + cui);
 
     setOverlayDisplay(true);
     setOverlayOpacity(true);
