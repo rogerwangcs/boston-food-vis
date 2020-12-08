@@ -20,6 +20,12 @@ const Menu = (container) => {
     const dishes = await getDishes(restaurantID);
 
     svg
+      .selectAll("text")
+      .transition()
+      .style("opacity", 0.0)
+      .remove();
+
+    svg
       .append("text")
       .attr("class", "title")
       .attr("y", -30)
@@ -28,13 +34,6 @@ const Menu = (container) => {
       .style("fill", "white")
       .style("font-size", "20px")
       .text("MENU");
-
-    svg
-      .selectAll("text")
-      .transition()
-      .style("opacity", 0.0)
-      .duration(500)
-      .remove();
 
     svg
       .append("text")
