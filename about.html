@@ -44,7 +44,7 @@
         fellow Bostonians learn more about the various restaurants of the
         Greater Boston Area. Boston has a large university student population,
         and we felt that a visualization like ours would be very helpful to
-        people in our demographic. We used a boston restaurants dataset from
+        people in our demographic. We used a Boston restaurants dataset from
         Kaggle which contained several CSV files with figures related to
         restaurants located in Boston. We found some of these figures to be
         especially informative as they consisted of topics like cuisine types,
@@ -73,9 +73,44 @@
       <br />
       <img src="images/database-erd.png" />
     </div>
-    <div class="section">Our Design Processes:</div>
+    <div class="section">Our Design Process:</div>
     <div class="description">
-      <p>List the processes of each of our tasks here.</p>
+      <p>
+        We first started our design process with our visualization map. Since we
+        had locational data for each of the restaurants in the dataset, we felt
+        that users would get the best experience if we were able to plot out
+        each of the restaurants on a map for them to see where all of the
+        establishments existed in real life. Once that was done, we started to
+        brainstorm on what information we wanted to show and how we wanted to
+        explain it to the user. After some thought, we decided to narrow our
+        topics down to each restaurant's menu, price scale, average nutritional
+        information, and ingredient usage. For each restaurant’s ingredients, we
+        decided to best represent this using a donut chart that displayed the
+        top 25 most used ingredients at each specific establishment. We
+        concluded on using the top 25 ingredients as many restaurants in our
+        dataset had minimal usage of certain ingredients which would make
+        representing them in the donut chart derivative. For average nutritional
+        value, we showed this off using a bar chart that took every dish in a
+        specific restaurant’s menu and returned its average carbs, fiber,
+        protein, etc. based on the info for each dish. We also implemented a
+        list for each restaurant’s menu of items that the reader could
+        reference. Additionally, we added a hover effect for the user in which
+        they could determine an establishment’s price scale, cuisine type, and
+        name simply by glossing over each dot on the map. Of course, we had our
+        fair share of bumps along the design process as well. For starters, we
+        had issues regarding a lack of legends for the map and the initial font
+        we used was hard to see for many users. Other testers complained that
+        the donut chart lacked a way to see concrete values or they felt that
+        the color encoding could be changed up. We were also recommended to do
+        away with our initial zooming feature as it felt unnecessary given the
+        goal of our visualization. From this feedback, we made some adjustments
+        to our visualization like adding a hover for the number of times certain
+        ingredients appeared in the donut chart, doing away with the zooming
+        function, adding in a legend to show users the price scale more
+        effectively, changing out visualization’s font colors, and even adding a
+        filter bar at the bottom of the screen that could filter out specific
+        restaurants from the screen based on the user’s cuisine selection.
+      </p>
     </div>
 
     <div class="section">Team Workload Distribution:</div>
