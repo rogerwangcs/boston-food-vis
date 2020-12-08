@@ -97,6 +97,17 @@ svg line {
   /* border: 1px solid red; */
 }
 
+#menu {
+  color: white;
+  z-index: 5;
+  position: absolute;
+  left: 80vw;
+  top: 50vh;
+  transform: translate(-50%, -50%);
+  display: none;
+  /* border: 1px solid red; */
+}
+
 #restaurant {
   margin: 20px;
   padding: 10px;

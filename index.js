@@ -13,6 +13,7 @@ const init = async () => {
   const mapbox = MapBox(dispatch);
   const ingredients = Ingredients("");
   const nutrition = Nutrition("");
+  const menu = Menu("");
 
   // control overlay visibility
   const overlayBg = d3.select(".overlay-bg");
@@ -21,12 +22,15 @@ const init = async () => {
     overlayBg.transition(1000).style("opacity", opacity);
     d3.select("#ingredients").transition(500).style("opacity", opacity);
     d3.select("#nutrition").transition(500).style("opacity", opacity);
+    d3.select("#menu").transition(500).style("opacity", opacity);
+
   };
   const setOverlayDisplay = (isVisible) => {
     const display = isVisible ? "block" : "none";
     overlayBg.style("display", display);
     d3.select("#ingredients").style("display", display);
     d3.select("#nutrition").style("display", display);
+    d3.select("#menu").style("display", display);
   };
   overlayBg.on("click", async (e) => {
     dispatch.call("goBack", this, null);
@@ -52,16 +56,16 @@ const init = async () => {
     let cs = rest[0].cuisine_type.split(";");
     let i;
     let cui = "";
-    for(i = 0; i < cs.length; i++) {
+    for (i = 0; i < cs.length; i++) {
       let x;
       let wo = cs[i].split("_")
-      for(x = 0; x < wo.length; x++) {
+      for (x = 0; x < wo.length; x++) {
         cui += wo[x].charAt(0).toUpperCase() + wo[x].slice(1);
-        if(x != wo.length - 1) {
+        if (x != wo.length - 1) {
           cui += " ";
         }
       }
-      if(i != cs.length - 1) {
+      if (i != cs.length - 1) {
         cui += ", ";
       }
     }
@@ -71,6 +75,7 @@ const init = async () => {
     setOverlayOpacity(true);
     ingredients.update(selectedRestaurantId);
     nutrition.update(selectedRestaurantId);
+    menu.update(selectedRestaurantId);
   });
 };
 
