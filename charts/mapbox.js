@@ -29,6 +29,7 @@ const MapBox = async (dispatch) => {
 
   let originalRestaurants = await getRestaurants();
   let restaurants = originalRestaurants;
+
   await timeout(1000); // set to 1000 when live
   dispatch.call("loaded", this);
 
@@ -39,6 +40,33 @@ const MapBox = async (dispatch) => {
     curve: 1,
     easing: (t) => Math.log(t),
     essential: true,
+  });
+
+  // search box
+  const fuse = new Fuse(restaurants, { keys: ["brand_name"] });
+  const searchBox = d3.select("#searchBox");
+  searchBox.on("change", (e) => {
+    const result = fuse.search(e.target.value);
+    if (result.length > 0) {
+      const d = result[0].item;
+      // console.log(d.brand_name);
+      map.flyTo({
+        center: [d.longitude, d.latitude],
+        zoom: 15,
+        speed: 1.3,
+        curve: 1,
+        easing: (t) =>
+          t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1,
+        essential: true,
+      });
+      map.once("moveend", () => {
+        document.getElementById("searchBoxInput").value = "";
+        selectedRestaurantId = d.location_id;
+        selectedRestaurant = d;
+        dispatch.call("setRestaurant", this, d.location_id);
+        update();
+      });
+    }
   });
 
   const colorScale = d3
