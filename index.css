@@ -84,7 +84,6 @@ svg line {
   top: 50vh;
   transform: translate(-50%, -50%);
   display: none;
-  /* border: 1px solid red; */
 }
 
 #nutrition {
@@ -94,7 +93,6 @@ svg line {
   top: 50vh;
   transform: translate(-50%, -50%);
   display: none;
-  /* border: 1px solid red; */
 }
 
 #menu {
@@ -105,7 +103,6 @@ svg line {
   top: 50vh;
   transform: translate(-50%, -50%);
   display: none;
-  /* border: 1px solid red; */
 }
 
 #restaurant {

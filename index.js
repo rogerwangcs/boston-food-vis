@@ -11,9 +11,9 @@ const dispatch = d3.dispatch("loaded", "setRestaurant", "goBack"); // parameters
 const init = async () => {
   let selectedRestaurantId = null;
   const mapbox = MapBox(dispatch);
-  const ingredients = Ingredients("");
-  const nutrition = Nutrition("");
-  const menu = Menu("");
+  const ingredients = await Ingredients("");
+  const nutrition = await Nutrition("");
+  const menu = await Menu("");
 
   // control overlay visibility
   const overlayBg = d3.select(".overlay-bg");
@@ -23,7 +23,6 @@ const init = async () => {
     d3.select("#ingredients").transition(500).style("opacity", opacity);
     d3.select("#nutrition").transition(500).style("opacity", opacity);
     d3.select("#menu").transition(500).style("opacity", opacity);
-
   };
   const setOverlayDisplay = (isVisible) => {
     const display = isVisible ? "block" : "none";
@@ -52,13 +51,15 @@ const init = async () => {
     let restaurants = await getRestaurants();
     let rest = restaurants.filter((d) => d.location_id == id);
     d3.select("#rest").text(rest[0].brand_name);
-    d3.select("#price").text("Price Scale: " + "$".repeat(parseInt(rest[0].price_scale)));
+    d3.select("#price").text(
+      "Price Scale: " + "$".repeat(parseInt(rest[0].price_scale))
+    );
     let cs = rest[0].cuisine_type.split(";");
     let i;
     let cui = "";
     for (i = 0; i < cs.length; i++) {
       let x;
-      let wo = cs[i].split("_")
+      let wo = cs[i].split("_");
       for (x = 0; x < wo.length; x++) {
         cui += wo[x].charAt(0).toUpperCase() + wo[x].slice(1);
         if (x != wo.length - 1) {
